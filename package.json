@@ -1,0 +1,26 @@
+{
+  "name": "yaseen-mosque-data",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Scraped mosque prayer-time data for the Yaseen app, refreshed on a schedule via GitHub Actions.",
+  "scripts": {
+    "scrape:mosques": "tsx scripts/scrapeAwqat.ts",
+    "scrape:canada": "tsx scripts/scrapeCanada.ts",
+    "scrape:mac": "tsx scripts/scrapeMac.ts",
+    "merge:mac": "tsx scripts/mergeMac.ts",
+    "scrape:all": "npm run scrape:mosques && npm run scrape:mac && npm run merge:mac && npm run scrape:canada",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "puppeteer": "^23.4.0",
+    "tsx": "^4.19.1",
+    "typescript": "~5.9.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

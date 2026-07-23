@@ -1,0 +1,22 @@
+name: Purge jsDelivr cache after data merge
+
+# Runs whenever a change to the data files lands on main (i.e. right after
+# you merge the weekly "Refresh scraped mosque data" PR). jsDelivr's GitHub
+# CDN mode can cache the @main branch for a while, so this forces it to pick
+# up the new files immediately instead of waiting out that cache window.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "src/data/*.json"
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge jsDelivr cache
+        run: |
+          for f in vancouverMosques.json canadaMosques.json macMosques.json; do
+            curl -sf "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/src/data/$f" || true
+          done
