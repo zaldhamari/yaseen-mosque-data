@@ -197,7 +197,10 @@ function extractCity(address: string): string {
 
 async function main(): Promise<void> {
   console.log("Launching headless browser...");
-  const browser: Browser = await puppeteer.launch({ headless: true });
+  const browser: Browser = await puppeteer.launch({
+    headless: true,
+    args: ["--no-sandbox", "--disable-setuid-sandbox"],
+  });
   const page = await browser.newPage();
   await page.setUserAgent(
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) YaseenPrayerApp/1.0"
