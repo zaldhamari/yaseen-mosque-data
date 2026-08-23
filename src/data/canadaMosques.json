@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-08-23T07:39:00.780Z",
-  "totalMosques": 599,
+  "scrapedAt": "2026-08-23T08:34:23.960Z",
+  "totalMosques": 600,
   "provinces": 14,
   "sources": [
     "bc_hardcoded",
@@ -90,8 +90,39 @@
       "organization": null,
       "website": "https://www.bmismosque.com/",
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:10 AM",
+          "iqamah": "5:20 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:16 AM",
+          "iqamah": "6:16 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:30 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "6:10 PM",
+          "iqamah": "6:20 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:13 PM",
+          "iqamah": "8:18 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:50 PM",
+          "iqamah": "10:00 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
       "source": "awqat"
     },
     {
@@ -988,8 +1019,8 @@
       "city": "Surrey",
       "address": "15515 24 Ave #61, Surrey, British Columbia, Canada",
       "coordinates": {
-        "latitude": 49.0464944,
-        "longitude": -122.7919345
+        "latitude": 49.045875,
+        "longitude": -122.7927916
       },
       "organization": null,
       "website": "https://whiterockmuslims.com/prayer-services",
@@ -999,52 +1030,21 @@
       "source": "awqat"
     },
     {
-      "id": "awqat_42a4f039-5e07-4241-a8ab-e067199cf5fe",
+      "id": "bc_ajyal_vancouver",
       "name": "Ajyal Islamic Center",
       "province": "British Columbia",
       "city": "Vancouver",
-      "address": "181 Keefer Street, Unit 202, Vancouver, BC, CA",
+      "address": "181 Keefer Street, Unit 202, Vancouver, BC V6A 1X3",
       "coordinates": {
-        "latitude": 49.2792344,
-        "longitude": -123.1023986
+        "latitude": 49.2792225,
+        "longitude": -123.1035282
       },
-      "organization": "Located in Downtown Vancouver",
-      "website": "https://www.ajyal.ca/",
+      "organization": null,
+      "website": null,
       "phone": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "4:37 AM",
-          "iqamah": "5:20 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "6:16 AM",
-          "iqamah": "6:16 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:15 PM",
-          "iqamah": "1:30 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "5:06 PM",
-          "iqamah": "5:16 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "8:13 PM",
-          "iqamah": "8:18 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "9:52 PM",
-          "iqamah": "9:57 PM"
-        }
-      ],
-      "jummah": "1:30 PM",
-      "source": "awqat"
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "bc_hardcoded"
     },
     {
       "id": "awqat_dba7e795-3213-44a1-b8b6-c0c6d49f4126",
@@ -11114,8 +11114,8 @@
       "city": "Mississauga",
       "address": "1-6120 Montevideo Road, Mississauga, ON L5N 3W5",
       "coordinates": {
-        "latitude": 43.5827414,
-        "longitude": -79.7429206
+        "latitude": 43.5821489,
+        "longitude": -79.7426695
       },
       "organization": "ICNA Canada",
       "website": "http://www.aric-icna.ca/",
@@ -11199,8 +11199,8 @@
       "city": "Coquitlam",
       "address": "202-504 Cottonwood Ave, Coquitlam, British Columbia, Canada",
       "coordinates": {
-        "latitude": 49.2581324,
-        "longitude": -122.8743696
+        "latitude": 49.258965,
+        "longitude": -122.8924772
       },
       "organization": "AlHikmah Foundation",
       "website": null,
@@ -11385,8 +11385,8 @@
       "city": "Surrey",
       "address": "7375 144 Street, Surrey, British Columbia, Canada",
       "coordinates": {
-        "latitude": 49.1076691,
-        "longitude": -122.8233734
+        "latitude": 49.1954314,
+        "longitude": -122.8230573
       },
       "organization": null,
       "website": null,
@@ -11511,6 +11511,54 @@
           "salat": "Isha",
           "adhan": "10:06 PM",
           "iqamah": "10:16 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
+    },
+    {
+      "id": "awqat_42a4f039-5e07-4241-a8ab-e067199cf5fe",
+      "name": "Ajyal Islamic Center",
+      "province": "British Columbia",
+      "city": "Vancouver",
+      "address": "181 Keefer Street, Unit 202, Vancouver, BC, CA",
+      "coordinates": {
+        "latitude": 49.2794985,
+        "longitude": -123.1005564
+      },
+      "organization": "Located in Downtown Vancouver",
+      "website": "https://www.ajyal.ca/",
+      "phone": null,
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:37 AM",
+          "iqamah": "5:20 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:16 AM",
+          "iqamah": "6:16 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:15 PM",
+          "iqamah": "1:30 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:06 PM",
+          "iqamah": "5:16 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:13 PM",
+          "iqamah": "8:18 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:52 PM",
+          "iqamah": "9:57 PM"
         }
       ],
       "jummah": "1:30 PM",
