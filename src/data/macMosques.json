@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-23T17:22:29.979Z",
+  "scrapedAt": "2026-08-23T18:26:53.795Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -87,7 +87,7 @@
     },
     {
       "slug": "rahmamosque",
-      "name": "Rahma Mosque",
+      "name": "MAC Islamic Centre (Rahma Mosque)",
       "province": "Alberta",
       "city": "Edmonton",
       "address": "6104 172 St NW, Edmonton, AB T6M 1G9",
@@ -297,7 +297,7 @@
     },
     {
       "slug": "westmount",
-      "name": "MAC Westmount Islamic Centre",
+      "name": "Westmount Masjid",
       "province": "Ontario",
       "city": "London",
       "address": "312 Commissioners Rd W Unit 5, London, ON N6J 1Y3",
@@ -439,13 +439,13 @@
     },
     {
       "slug": "mac-quebec",
-      "name": "Centre communautaire MAC, ville de Québec",
+      "name": "Centre Communautaire MAC (Ville de Québec)",
       "province": "Quebec",
       "city": "Quebec City",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/mac-quebec/fr/",
+      "website": "https://centres.macnet.ca/mac-quebec/",
       "phone": null,
       "prayerTimes": [
         {
@@ -559,7 +559,7 @@
     },
     {
       "slug": "civ",
-      "name": "Centre Islamique de Verdun (MAC)",
+      "name": "Centre Islamique de Verdun (CIV)",
       "province": "Quebec",
       "city": "Montreal",
       "address": "4538 Rue de VerdunVerdun, Montreal, QC H4G 1M3",
@@ -568,7 +568,7 @@
         "longitude": -73.571548
       },
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/civ/fr/",
+      "website": "https://centres.macnet.ca/civ/",
       "phone": "(514) 508-9419",
       "prayerTimes": [
         {
@@ -643,10 +643,10 @@
     },
     {
       "slug": "bic",
-      "name": "Barrhaven Islamic Centre",
+      "name": "MAC Barrhaven Islamic Centre",
       "province": "Ontario",
       "city": "Nepean",
-      "address": "3971 Greenbank Rd, Nepean, ON K2C 3H2, Canada",
+      "address": "3971 Greenbank Road,Nepean, ON K2C 3H2  info@bic.macnet.ca",
       "coordinates": {
         "latitude": 45.236438,
         "longitude": -75.7255973
@@ -657,40 +657,35 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "3:28 AM",
-          "iqamah": "4:00 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "5:23 AM",
-          "iqamah": "5:23 AM"
+          "adhan": "4:45 am",
+          "iqamah": "5:15 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "1:08 PM",
-          "iqamah": "1:30 PM"
+          "adhan": "1:05 pm",
+          "iqamah": "1:30 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "5:17 PM",
-          "iqamah": "6:15 PM"
+          "adhan": "4:54 pm",
+          "iqamah": "5:45 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "8:53 PM",
-          "iqamah": "8:58 PM"
+          "adhan": "7:56 pm",
+          "iqamah": "8:01 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "10:47 PM",
-          "iqamah": "10:52 PM"
+          "adhan": "9:25 pm",
+          "iqamah": "9:30 pm"
         }
       ],
-      "jummah": "1:00 PM"
+      "jummah": "1:00 pm"
     },
     {
       "slug": "qic",
-      "name": "MAC Qurtuba",
+      "name": "Qurtuba Islamic Centre",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1950 Merivale Rd, Ottawa, ON K2G 5T5, Canada",
@@ -722,7 +717,7 @@
     },
     {
       "slug": "masjidtoronto",
-      "name": "Masjid Toronto (Dundas & Adelaide)",
+      "name": "Masjid Toronto Dundas & Adelaide",
       "province": "Ontario",
       "city": "Toronto",
       "address": "168 Dundas St. West, Toronto, ON M5G 1C6 Canada",
@@ -764,7 +759,7 @@
     },
     {
       "slug": "macvancouvercentre",
-      "name": "MAC Vancouver Centre",
+      "name": "MAC Vancouver Center",
       "province": "British Columbia",
       "city": "Vancouver",
       "address": "2122 Kingsway, Vancouver, BC V5N 2T5",
@@ -848,13 +843,13 @@
     },
     {
       "slug": "edmonton",
-      "name": "MAC edmonton",
+      "name": "Edmonton Chapter",
       "province": "Ontario",
       "city": "",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://chapters.macnet.ca/edmonton",
+      "website": "https://chapters.macnet.ca/edmonton/",
       "phone": null,
       "prayerTimes": [],
       "jummah": null
