@@ -9,7 +9,6 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   scrape:
@@ -35,16 +34,14 @@ jobs:
         # usually already has what headless Chrome needs, so this is not
         # expected to be necessary).
 
-      - name: Open a pull request with the refreshed data
-        uses: peter-evans/create-pull-request@v6
-        with:
-          commit-message: "Refresh scraped mosque data"
-          title: "Refresh scraped mosque data"
-          body: |
-            Automated weekly refresh from all mosque data sources (awqat.net, MAC, ICNA, BCMA, OpenStreetMap).
-
-            Please review the diff before merging — this PR only updates `src/data/*.json`, nothing else changes.
-          branch: auto/refresh-mosque-data
-          delete-branch: true
-          add-paths: |
-            src/data/*.json
+      - name: Commit and push refreshed data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- src/data/*.json; then
+            echo "No changes to mosque data — skipping commit."
+            exit 0
+          fi
+          git add src/data/*.json
+          git commit -m "Refresh scraped mosque data"
+          git push
