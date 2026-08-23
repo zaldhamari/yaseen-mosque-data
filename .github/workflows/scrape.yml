@@ -2,13 +2,20 @@ name: Refresh mosque data
 
 on:
   schedule:
-    # Every Monday at 08:00 UTC. GitHub may delay scheduled runs by a few
+    # Every hour, on the hour. GitHub may delay scheduled runs by a few
     # minutes during high load — that's expected and fine for this use case.
-    - cron: "0 8 * * 1"
+    - cron: "0 * * * *"
   workflow_dispatch: {} # lets you trigger a run manually from the Actions tab
 
 permissions:
   contents: write
+
+concurrency:
+  # Hourly runs can occasionally overlap if a previous run is still finishing
+  # (Nominatim geocoding, slow mosque sites, etc.) — queue instead of running
+  # two scrapes in parallel, which could race on the same git push.
+  group: scrape-mosque-data
+  cancel-in-progress: false
 
 jobs:
   scrape:
