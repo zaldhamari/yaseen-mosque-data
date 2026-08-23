@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-23T10:20:07.459Z",
+  "scrapedAt": "2026-08-23T11:18:50.390Z",
   "mosques": [
     {
       "id": "979b2ff1-f133-443a-a808-e05ad4273a14",
@@ -40,8 +40,39 @@
       },
       "organization": null,
       "website": "https://www.bmismosque.com/",
-      "prayerTimes": [],
-      "jummah": null
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:10 AM",
+          "iqamah": "5:20 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:16 AM",
+          "iqamah": "6:16 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:30 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "6:10 PM",
+          "iqamah": "6:20 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:13 PM",
+          "iqamah": "8:18 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:50 PM",
+          "iqamah": "10:00 PM"
+        }
+      ],
+      "jummah": "1:30 PM"
     },
     {
       "id": "aee6c992-6831-41c8-9b56-2ca5af4d28ec",
@@ -54,11 +85,39 @@
       },
       "organization": null,
       "website": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "id": "f267c0e2-edf6-4c01-86cf-2cffdea6c6df",
+      "name": "Masjid Al-Salaam",
+      "address": "5060 Canada Way, Burnaby, British Columbia, Canada",
+      "city": "Burnaby",
+      "coordinates": {
+        "latitude": 49.2399995,
+        "longitude": -122.964121
+      },
+      "organization": "Al Salam Masjid",
+      "website": "https://org.thebcma.com/burnaby",
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "id": "5a7c9ed9-23f9-4ea2-8503-0944ade1ea5d",
+      "name": "Coquitlam Islamic Centre",
+      "address": "202-504 Cottonwood Ave, Coquitlam, British Columbia, Canada",
+      "city": "Coquitlam",
+      "coordinates": {
+        "latitude": 49.2581324,
+        "longitude": -122.8743696
+      },
+      "organization": "AlHikmah Foundation",
+      "website": null,
       "prayerTimes": [
         {
           "salat": "Fajr",
           "adhan": "4:36 AM",
-          "iqamah": "5:20 AM"
+          "iqamah": "5:15 AM"
         },
         {
           "salat": "Sunrise",
@@ -72,8 +131,8 @@
         },
         {
           "salat": "Asr",
-          "adhan": "5:05 PM",
-          "iqamah": "5:15 PM"
+          "adhan": "6:05 PM",
+          "iqamah": "6:30 PM"
         },
         {
           "salat": "Maghrib",
@@ -83,69 +142,10 @@
         {
           "salat": "Isha",
           "adhan": "9:51 PM",
-          "iqamah": "9:56 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
-    },
-    {
-      "id": "f267c0e2-edf6-4c01-86cf-2cffdea6c6df",
-      "name": "Masjid Al-Salaam",
-      "address": "5060 Canada Way, Burnaby, British Columbia, Canada",
-      "city": "Burnaby",
-      "coordinates": {
-        "latitude": 49.2399995,
-        "longitude": -122.964121
-      },
-      "organization": "Al Salam Masjid",
-      "website": "https://org.thebcma.com/burnaby",
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "4:15 AM",
-          "iqamah": "5:25 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "6:15 AM",
-          "iqamah": "6:15 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:18 PM",
-          "iqamah": "1:40 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "6:04 PM",
-          "iqamah": "6:15 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "8:15 PM",
-          "iqamah": "8:16 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "9:50 PM",
           "iqamah": "10:00 PM"
         }
       ],
-      "jummah": "1:30 PM"
-    },
-    {
-      "id": "5a7c9ed9-23f9-4ea2-8503-0944ade1ea5d",
-      "name": "Coquitlam Islamic Centre",
-      "address": "202-504 Cottonwood Ave, Coquitlam, British Columbia, Canada",
-      "city": "Coquitlam",
-      "coordinates": {
-        "latitude": 49.2581324,
-        "longitude": -122.8743696
-      },
-      "organization": "AlHikmah Foundation",
-      "website": null,
-      "prayerTimes": [],
-      "jummah": null
+      "jummah": "1:35 PM"
     },
     {
       "id": "a71546cc-d9c5-4441-9407-0d286992c44f",
@@ -240,8 +240,8 @@
       "address": "5768 203 St, Langley, British Columbia, Canada",
       "city": "Langley",
       "coordinates": {
-        "latitude": 49.1027105,
-        "longitude": -122.659749
+        "latitude": 49.1065789,
+        "longitude": -122.6600511
       },
       "organization": "Islamic Waqf Of Canada",
       "website": "https://www.islamicwaqf.ca/",
@@ -507,8 +507,8 @@
       "address": "7375 144 Street, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.192848,
-        "longitude": -122.8230862
+        "latitude": 49.1076691,
+        "longitude": -122.8233734
       },
       "organization": null,
       "website": null,
@@ -642,8 +642,8 @@
       "address": "17665 66A Ave, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.1234506,
-        "longitude": -122.7333016
+        "latitude": 49.1238268,
+        "longitude": -122.733699
       },
       "organization": "ddd",
       "website": "https://cloverdaleislamiccenter.com/",
@@ -1055,8 +1055,8 @@
       "address": "15515 24 Ave #61, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.0468223,
-        "longitude": -122.7927916
+        "latitude": 49.0464944,
+        "longitude": -122.7919345
       },
       "organization": null,
       "website": "https://whiterockmuslims.com/prayer-services",
@@ -1069,8 +1069,8 @@
       "address": "181 Keefer Street, Unit 202, Vancouver, BC, CA",
       "city": "Vancouver",
       "coordinates": {
-        "latitude": 49.2792527,
-        "longitude": -123.0872058
+        "latitude": 49.2793738,
+        "longitude": -123.0934533
       },
       "organization": "Located in Downtown Vancouver",
       "website": "https://www.ajyal.ca/",
