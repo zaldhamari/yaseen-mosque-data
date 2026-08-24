@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-24T01:02:45.165Z",
+  "scrapedAt": "2026-08-24T02:28:09.679Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -269,7 +269,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:10 am",
+          "adhan": "5:11 am",
           "iqamah": "5:45 am"
         },
         {
@@ -279,17 +279,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "5:12 pm",
+          "adhan": "5:11 pm",
           "iqamah": "5:30 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "8:13 pm",
-          "iqamah": "8:18 pm"
+          "adhan": "8:11 pm",
+          "iqamah": "8:16 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:38 pm",
+          "adhan": "9:36 pm",
           "iqamah": "9:45 pm"
         }
       ],
@@ -685,7 +685,7 @@
     },
     {
       "slug": "qic",
-      "name": "Qurtuba Islamic Centre",
+      "name": "MAC Qurtuba",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1950 Merivale Rd, Ottawa, ON K2G 5T5, Canada",
