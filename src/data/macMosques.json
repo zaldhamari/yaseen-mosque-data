@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-23T23:21:50.593Z",
+  "scrapedAt": "2026-08-24T01:02:45.165Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -87,7 +87,7 @@
     },
     {
       "slug": "rahmamosque",
-      "name": "MAC Islamic Centre (Rahma Mosque)",
+      "name": "Rahma Mosque",
       "province": "Alberta",
       "city": "Edmonton",
       "address": "6104 172 St NW, Edmonton, AB T6M 1G9",
@@ -185,7 +185,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:11 am",
+          "adhan": "5:13 am",
           "iqamah": "5:45 am"
         },
         {
@@ -195,17 +195,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "5:13 pm",
+          "adhan": "5:12 pm",
           "iqamah": "6:30 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "8:14 pm",
-          "iqamah": "8:13 pm"
+          "adhan": "8:12 pm",
+          "iqamah": "8:12 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:40 pm",
+          "adhan": "9:38 pm",
           "iqamah": "10:00 pm"
         }
       ],
@@ -423,7 +423,7 @@
     },
     {
       "slug": "theciic",
-      "name": "Canadian Institute of Islamic Civilization (CIIC)",
+      "name": "The CIIC Montreal",
       "province": "Quebec",
       "city": "Montreal",
       "address": "615 Rue Belmont, Montréal, QC H3B 2L8",
@@ -450,28 +450,28 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "4:36 am",
+          "adhan": "4:37 am",
           "iqamah": "5:00 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "12:58 pm",
+          "adhan": "12:57 pm",
           "iqamah": "1:30 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "4:47 pm",
+          "adhan": "4:46 pm",
           "iqamah": "5:15 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:50 pm",
-          "iqamah": "7:55 pm"
+          "adhan": "7:48 pm",
+          "iqamah": "7:53 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:19 pm",
-          "iqamah": "9:24 pm"
+          "adhan": "9:17 pm",
+          "iqamah": "9:22 pm"
         }
       ],
       "jummah": "12:15 pm"
@@ -492,28 +492,28 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "4:36 am",
+          "adhan": "4:37 am",
           "iqamah": "5:00 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "12:58 pm",
+          "adhan": "12:57 pm",
           "iqamah": "1:30 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "4:47 pm",
+          "adhan": "4:46 pm",
           "iqamah": "5:15 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:50 pm",
-          "iqamah": "7:55 pm"
+          "adhan": "7:48 pm",
+          "iqamah": "7:53 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:19 pm",
-          "iqamah": "9:24 pm"
+          "adhan": "9:17 pm",
+          "iqamah": "9:22 pm"
         }
       ],
       "jummah": null
@@ -559,7 +559,7 @@
     },
     {
       "slug": "civ",
-      "name": "Centre Islamique de Verdun (CIV)",
+      "name": "Centre Islamique de Verdun (MAC)",
       "province": "Quebec",
       "city": "Montreal",
       "address": "4538 Rue de VerdunVerdun, Montreal, QC H4G 1M3",
@@ -568,7 +568,7 @@
         "longitude": -73.571548
       },
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/civ/",
+      "website": "https://centres.macnet.ca/civ/fr/",
       "phone": "(514) 508-9419",
       "prayerTimes": [
         {
@@ -643,7 +643,7 @@
     },
     {
       "slug": "bic",
-      "name": "MAC Barrhaven Islamic Centre",
+      "name": "Barrhaven Islamic Centre",
       "province": "Ontario",
       "city": "Nepean",
       "address": "3971 Greenbank Road,Nepean, ON K2C 3H2  info@bic.macnet.ca",
@@ -856,13 +856,13 @@
     },
     {
       "slug": "halton-hamilton",
-      "name": "MAC halton-hamilton",
+      "name": "Halton",
       "province": "Ontario",
       "city": "",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://chapters.macnet.ca/halton-hamilton",
+      "website": "https://chapters.macnet.ca/halton-hamilton/",
       "phone": null,
       "prayerTimes": [],
       "jummah": null
@@ -1065,8 +1065,8 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:15 am",
-          "iqamah": "5:30 am"
+          "adhan": "5:17 am",
+          "iqamah": "5:40 am"
         },
         {
           "salat": "Dhuhr",
@@ -1075,17 +1075,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "5:16 pm",
+          "adhan": "5:15 pm",
           "iqamah": "5:30 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "8:16 pm",
-          "iqamah": "8:21 pm"
+          "adhan": "8:15 pm",
+          "iqamah": "8:20 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:37 pm",
+          "adhan": "9:36 pm",
           "iqamah": "9:45 pm"
         }
       ],
