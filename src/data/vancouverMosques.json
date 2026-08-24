@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-24T04:41:23.661Z",
+  "scrapedAt": "2026-08-24T05:36:07.193Z",
   "mosques": [
     {
       "id": "979b2ff1-f133-443a-a808-e05ad4273a14",
@@ -7,8 +7,8 @@
       "address": "204-7060 Waltham Ave, Burnaby, British Columbia, Canada",
       "city": "Burnaby",
       "coordinates": {
-        "latitude": 49.2211127,
-        "longitude": -122.9764615
+        "latitude": 49.2210757,
+        "longitude": -122.9762967
       },
       "organization": null,
       "website": null,
@@ -66,8 +66,8 @@
       "address": "6409 Arbroath St, Burnaby, British Columbia, Canada",
       "city": "Burnaby",
       "coordinates": {
-        "latitude": 49.2183366,
-        "longitude": -122.9708734
+        "latitude": 49.2185545,
+        "longitude": -122.97022
       },
       "organization": null,
       "website": "https://www.bmismosque.com/",
@@ -111,8 +111,8 @@
       "address": "7726 Edmonds St, Burnaby, British Columbia, Canada",
       "city": "Burnaby",
       "coordinates": {
-        "latitude": 49.2180424,
-        "longitude": -122.9517621
+        "latitude": 49.224285,
+        "longitude": -122.9403307
       },
       "organization": null,
       "website": null,
@@ -201,8 +201,8 @@
       "address": "202-504 Cottonwood Ave, Coquitlam, British Columbia, Canada",
       "city": "Coquitlam",
       "coordinates": {
-        "latitude": 49.258965,
-        "longitude": -122.8924772
+        "latitude": 49.2581324,
+        "longitude": -122.8743696
       },
       "organization": "AlHikmah Foundation",
       "website": null,
@@ -333,8 +333,8 @@
       "address": "5768 203 St, Langley, British Columbia, Canada",
       "city": "Langley",
       "coordinates": {
-        "latitude": 49.1027105,
-        "longitude": -122.659749
+        "latitude": 49.1170096,
+        "longitude": -122.660159
       },
       "organization": "Islamic Waqf Of Canada",
       "website": "https://www.islamicwaqf.ca/",
@@ -600,8 +600,8 @@
       "address": "7375 144 Street, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.0334349,
-        "longitude": -122.8233158
+        "latitude": 49.192848,
+        "longitude": -122.8230862
       },
       "organization": null,
       "website": null,
@@ -735,8 +735,8 @@
       "address": "17665 66A Ave, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.1234506,
-        "longitude": -122.7333016
+        "latitude": 49.1238268,
+        "longitude": -122.733699
       },
       "organization": "ddd",
       "website": "https://cloverdaleislamiccenter.com/",
@@ -1066,8 +1066,39 @@
       },
       "organization": null,
       "website": "https://surreyislamiccenter.com/",
-      "prayerTimes": [],
-      "jummah": null
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:29 AM",
+          "iqamah": "5:30 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:15 AM",
+          "iqamah": "6:15 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:17 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "6:03 PM",
+          "iqamah": "6:20 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:13 PM",
+          "iqamah": "8:18 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:47 PM",
+          "iqamah": "10:00 PM"
+        }
+      ],
+      "jummah": "1:30 PM"
     },
     {
       "id": "01b11b55-7156-4559-a05c-e1534d99d943",

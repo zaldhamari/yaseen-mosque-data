@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-08-24T04:50:16.350Z",
-  "totalMosques": 602,
+  "scrapedAt": "2026-08-24T05:46:06.190Z",
+  "totalMosques": 601,
   "provinces": 14,
   "sources": [
     "bc_hardcoded",
@@ -19,8 +19,8 @@
       "city": "Burnaby",
       "address": "204-7060 Waltham Ave, Burnaby, British Columbia, Canada",
       "coordinates": {
-        "latitude": 49.2211127,
-        "longitude": -122.9764615
+        "latitude": 49.2210757,
+        "longitude": -122.9762967
       },
       "organization": null,
       "website": null,
@@ -84,8 +84,8 @@
       "city": "Burnaby",
       "address": "6409 Arbroath St, Burnaby, British Columbia, Canada",
       "coordinates": {
-        "latitude": 49.2183366,
-        "longitude": -122.9708734
+        "latitude": 49.2185545,
+        "longitude": -122.97022
       },
       "organization": null,
       "website": "https://www.bmismosque.com/",
@@ -126,11 +126,11 @@
       "source": "awqat"
     },
     {
-      "id": "bc_bilal_masjid_burnaby",
-      "name": "Bilal Masjid Burnaby",
+      "id": "awqat_aee6c992-6831-41c8-9b56-2ca5af4d28ec",
+      "name": "Bilal Masjid",
       "province": "British Columbia",
       "city": "Burnaby",
-      "address": "7726 Edmonds St, Burnaby, BC V3N 1B8",
+      "address": "7726 Edmonds St, Burnaby, British Columbia, Canada",
       "coordinates": {
         "latitude": 49.224285,
         "longitude": -122.9403307
@@ -138,9 +138,40 @@
       "organization": null,
       "website": null,
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
-      "source": "bc_hardcoded"
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:38 AM",
+          "iqamah": "5:20 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:17 AM",
+          "iqamah": "6:17 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:14 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:04 PM",
+          "iqamah": "5:14 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:10 PM",
+          "iqamah": "8:15 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:49 PM",
+          "iqamah": "9:54 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
     },
     {
       "id": "awqat_f267c0e2-edf6-4c01-86cf-2cffdea6c6df",
@@ -570,8 +601,8 @@
       "city": "Surrey",
       "address": "17665 66A Ave, Surrey, British Columbia, Canada",
       "coordinates": {
-        "latitude": 49.1234506,
-        "longitude": -122.7333016
+        "latitude": 49.1238268,
+        "longitude": -122.733699
       },
       "organization": "ddd",
       "website": "https://cloverdaleislamiccenter.com/",
@@ -898,8 +929,39 @@
       "organization": null,
       "website": "https://surreyislamiccenter.com/",
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:29 AM",
+          "iqamah": "5:30 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:15 AM",
+          "iqamah": "6:15 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:17 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "6:03 PM",
+          "iqamah": "6:20 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:13 PM",
+          "iqamah": "8:18 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:47 PM",
+          "iqamah": "10:00 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
       "source": "awqat"
     },
     {
@@ -11100,62 +11162,14 @@
       "source": "icna"
     },
     {
-      "id": "awqat_aee6c992-6831-41c8-9b56-2ca5af4d28ec",
-      "name": "Bilal Masjid",
-      "province": "British Columbia",
-      "city": "Burnaby",
-      "address": "7726 Edmonds St, Burnaby, British Columbia, Canada",
-      "coordinates": {
-        "latitude": 49.2180424,
-        "longitude": -122.9517621
-      },
-      "organization": null,
-      "website": null,
-      "phone": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "4:38 AM",
-          "iqamah": "5:20 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "6:17 AM",
-          "iqamah": "6:17 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:14 PM",
-          "iqamah": "1:40 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "5:04 PM",
-          "iqamah": "5:14 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "8:10 PM",
-          "iqamah": "8:15 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "9:49 PM",
-          "iqamah": "9:54 PM"
-        }
-      ],
-      "jummah": "1:30 PM",
-      "source": "awqat"
-    },
-    {
       "id": "awqat_5a7c9ed9-23f9-4ea2-8503-0944ade1ea5d",
       "name": "Coquitlam Islamic Centre",
       "province": "British Columbia",
       "city": "Coquitlam",
       "address": "202-504 Cottonwood Ave, Coquitlam, British Columbia, Canada",
       "coordinates": {
-        "latitude": 49.258965,
-        "longitude": -122.8924772
+        "latitude": 49.2581324,
+        "longitude": -122.8743696
       },
       "organization": "AlHikmah Foundation",
       "website": null,
@@ -11247,8 +11261,8 @@
       "city": "Langley",
       "address": "5768 203 St, Langley, British Columbia, Canada",
       "coordinates": {
-        "latitude": 49.1027105,
-        "longitude": -122.659749
+        "latitude": 49.1170096,
+        "longitude": -122.660159
       },
       "organization": "Islamic Waqf Of Canada",
       "website": "https://www.islamicwaqf.ca/",
@@ -11388,8 +11402,8 @@
       "city": "Surrey",
       "address": "7375 144 Street, Surrey, British Columbia, Canada",
       "coordinates": {
-        "latitude": 49.0334349,
-        "longitude": -122.8233158
+        "latitude": 49.192848,
+        "longitude": -122.8230862
       },
       "organization": null,
       "website": null,
