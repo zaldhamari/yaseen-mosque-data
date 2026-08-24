@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-08-24T18:39:03.419Z",
-  "totalMosques": 316,
-  "provinces": 13,
+  "scrapedAt": "2026-08-24T19:34:17.797Z",
+  "totalMosques": 600,
+  "provinces": 14,
   "sources": [
     "bc_hardcoded",
     "hardcoded",
@@ -13,11 +13,11 @@
   ],
   "mosques": [
     {
-      "id": "bc_al_iman_metrotown",
+      "id": "awqat_979b2ff1-f133-443a-a808-e05ad4273a14",
       "name": "Al Iman Metrotown Masjid",
       "province": "British Columbia",
       "city": "Burnaby",
-      "address": "204-7060 Waltham Ave, Burnaby, BC V5E 1S1",
+      "address": "204-7060 Waltham Ave, Burnaby, British Columbia, Canada",
       "coordinates": {
         "latitude": 49.2193772,
         "longitude": -122.9762093
@@ -27,48 +27,79 @@
       "phone": null,
       "prayerTimes": [],
       "jummah": null,
-      "source": "bc_hardcoded"
+      "source": "awqat"
     },
     {
-      "id": "bc_al_rauf",
+      "id": "awqat_a71534e1-caa0-429a-a5c3-e102b4bdce0d",
       "name": "Al-Rauf Education and Welfare Foundation",
       "province": "British Columbia",
       "city": "Burnaby",
-      "address": "3989 Henning Drive, Burnaby, BC V5C 1G2",
+      "address": "3989 Henning Drive, Burnaby, BC, CA",
       "coordinates": {
         "latitude": 49.2645456,
         "longitude": -123.0172897
       },
-      "organization": null,
+      "organization": "Abu Bakr Siddiq Brentwood Islamic Center managed by Al-Rauf foundation. \nUnit 123\n3989 Henning Drive\nBurnaby",
       "website": null,
       "phone": null,
       "prayerTimes": [],
       "jummah": null,
-      "source": "bc_hardcoded"
+      "source": "awqat"
     },
     {
-      "id": "bc_baitul_mukarram",
+      "id": "awqat_451caf35-bdf6-4a06-b9c7-d748594a68f2",
       "name": "Baitul Mukarram Islamic Society",
       "province": "British Columbia",
       "city": "Burnaby",
-      "address": "6409 Arbroath St, Burnaby, BC V5E 1C5",
+      "address": "6409 Arbroath St, Burnaby, British Columbia, Canada",
       "coordinates": {
         "latitude": 49.2185545,
         "longitude": -122.97022
       },
       "organization": null,
-      "website": null,
+      "website": "https://www.bmismosque.com/",
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
-      "source": "bc_hardcoded"
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:10 AM",
+          "iqamah": "5:20 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:18 AM",
+          "iqamah": "6:18 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:30 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "6:10 PM",
+          "iqamah": "6:20 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:11 PM",
+          "iqamah": "8:16 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:50 PM",
+          "iqamah": "10:00 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
     },
     {
-      "id": "bc_bilal_masjid_burnaby",
-      "name": "Bilal Masjid Burnaby",
+      "id": "awqat_aee6c992-6831-41c8-9b56-2ca5af4d28ec",
+      "name": "Bilal Masjid",
       "province": "British Columbia",
       "city": "Burnaby",
-      "address": "7726 Edmonds St, Burnaby, BC V3N 1B8",
+      "address": "7726 Edmonds St, Burnaby, British Columbia, Canada",
       "coordinates": {
         "latitude": 49.224285,
         "longitude": -122.9403307
@@ -76,26 +107,88 @@
       "organization": null,
       "website": null,
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
-      "source": "bc_hardcoded"
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:38 AM",
+          "iqamah": "5:20 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:17 AM",
+          "iqamah": "6:17 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:14 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:04 PM",
+          "iqamah": "5:14 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:10 PM",
+          "iqamah": "8:15 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:49 PM",
+          "iqamah": "9:54 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
     },
     {
-      "id": "bc_masjid_al_salaam_burnaby",
+      "id": "awqat_f267c0e2-edf6-4c01-86cf-2cffdea6c6df",
       "name": "Masjid Al-Salaam",
       "province": "British Columbia",
       "city": "Burnaby",
-      "address": "5060 Canada Way, Burnaby, BC V5E 3N3",
+      "address": "5060 Canada Way, Burnaby, British Columbia, Canada",
       "coordinates": {
         "latitude": 49.2399995,
         "longitude": -122.964121
       },
-      "organization": "BCMA",
-      "website": "https://burnaby.thebcma.com",
+      "organization": "Al Salam Masjid",
+      "website": "https://org.thebcma.com/burnaby",
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
-      "source": "bc_hardcoded"
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:17 AM",
+          "iqamah": "5:25 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:16 AM",
+          "iqamah": "6:16 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:18 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "6:03 PM",
+          "iqamah": "6:15 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:14 PM",
+          "iqamah": "8:15 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:47 PM",
+          "iqamah": "9:57 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
     },
     {
       "id": "bc_coquitlam_islamic_centre",
@@ -132,38 +225,100 @@
       "source": "bc_hardcoded"
     },
     {
-      "id": "bc_north_delta_islamic",
+      "id": "awqat_a71546cc-d9c5-4441-9407-0d286992c44f",
       "name": "North Delta Islamic Centre",
       "province": "British Columbia",
       "city": "Delta",
-      "address": "11146 84 Ave, Delta, BC V4C 2L7",
+      "address": "11146 84 Ave, Delta, British Columbia, Canada",
       "coordinates": {
         "latitude": 49.1557928,
         "longitude": -122.9128469
       },
       "organization": null,
-      "website": null,
+      "website": "https://org.thebcma.com/delta",
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
-      "source": "bc_hardcoded"
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:20 AM",
+          "iqamah": "5:30 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:16 AM",
+          "iqamah": "6:16 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:30 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "6:40 PM",
+          "iqamah": "6:50 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:12 PM",
+          "iqamah": "8:16 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "10:15 PM",
+          "iqamah": "10:25 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
     },
     {
-      "id": "bc_bcma_richmond",
+      "id": "awqat_0712ba08-ad7c-45f3-8fe3-caaae76dbf4d",
       "name": "BCMA Richmond Jamea Masjid",
       "province": "British Columbia",
       "city": "Richmond",
-      "address": "12300 Blundell Rd, Richmond, BC V6W 1B3",
+      "address": "12300 Blundell Rd, Richmond, British Columbia, Canada",
       "coordinates": {
         "latitude": 49.154064,
         "longitude": -123.0875856
       },
-      "organization": "BCMA",
-      "website": "https://richmond.thebcma.com",
+      "organization": "BCMA Jamea Masjid Richmond HQ",
+      "website": "https://org.thebcma.com/richmond",
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
-      "source": "bc_hardcoded"
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:15 AM",
+          "iqamah": "5:15 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:15 AM",
+          "iqamah": "6:15 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:15 PM",
+          "iqamah": "1:45 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:05 PM",
+          "iqamah": "5:45 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:13 PM",
+          "iqamah": "8:18 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "10:05 PM",
+          "iqamah": "10:10 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
     },
     {
       "id": "bc_masjid_al_sahaba",
@@ -183,11 +338,11 @@
       "source": "bc_hardcoded"
     },
     {
-      "id": "bc_ridge_meadows",
+      "id": "awqat_558e3a10-99c3-49e8-8fa9-0c6d8fc5e075",
       "name": "Islamic Society of Ridge Meadows",
       "province": "British Columbia",
       "city": "Maple Ridge",
-      "address": "21991 Cliff Ave, Maple Ridge, BC V2X 6L8",
+      "address": "21991 Cliff Ave, Maple Ridge, British Columbia, Canada",
       "coordinates": {
         "latitude": 49.2159735,
         "longitude": -122.6108613
@@ -195,43 +350,136 @@
       "organization": null,
       "website": null,
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
-      "source": "bc_hardcoded"
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:37 AM",
+          "iqamah": "5:00 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:14 AM",
+          "iqamah": "6:14 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:15 PM",
+          "iqamah": "1:45 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:05 PM",
+          "iqamah": "5:30 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:13 PM",
+          "iqamah": "8:20 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:51 PM",
+          "iqamah": "10:00 PM"
+        }
+      ],
+      "jummah": "1:45 PM",
+      "source": "awqat"
     },
     {
-      "id": "bc_masjid_ar_rahman_nv",
+      "id": "awqat_e7bfc68e-552f-4921-851a-cf64127aec31",
       "name": "Masjid Ar-Rahman North Vancouver",
       "province": "British Columbia",
       "city": "North Vancouver",
-      "address": "1398 W 15th St, North Vancouver, BC V7P 1M2",
+      "address": "1398 W. 15th St., North Vancouver, British Columbia, Canada",
       "coordinates": {
-        "latitude": 49.3221096,
-        "longitude": -123.0969645
+        "latitude": 49.3222972,
+        "longitude": -123.0958186
       },
       "organization": null,
-      "website": null,
+      "website": "https://northvanmasjid.ca/",
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
-      "source": "bc_hardcoded"
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:38 AM",
+          "iqamah": "5:21 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:17 AM",
+          "iqamah": "6:17 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:15 PM",
+          "iqamah": "1:30 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:05 PM",
+          "iqamah": "5:15 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:11 PM",
+          "iqamah": "8:21 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:50 PM",
+          "iqamah": "10:00 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
     },
     {
-      "id": "bc_taiba_new_west",
+      "id": "awqat_20f192db-eedf-4440-9a9d-dafd70ccafb3",
       "name": "Taiba Musallah",
       "province": "British Columbia",
       "city": "New Westminster",
-      "address": "1206 Kingston Street, New Westminster, BC V3M 5P6",
+      "address": "1206 Kingston Street, New Westminster, British Columbia, Canada",
       "coordinates": {
         "latitude": 49.2099144,
         "longitude": -122.9338948
       },
-      "organization": null,
-      "website": null,
+      "organization": "Canada Islamic Cultural Society (CICS)",
+      "website": "https://cicsnw.org/",
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
-      "source": "bc_hardcoded"
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:29 AM",
+          "iqamah": "5:10 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:16 AM",
+          "iqamah": "6:16 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:18 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "6:03 PM",
+          "iqamah": "6:30 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:14 PM",
+          "iqamah": "8:19 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:47 PM",
+          "iqamah": "10:00 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
     },
     {
       "id": "bc_abu_bakr_surrey",
@@ -251,28 +499,59 @@
       "source": "bc_hardcoded"
     },
     {
-      "id": "bc_al_iman_surrey",
-      "name": "Al Iman Islamic Centre Surrey",
+      "id": "awqat_1c6309c5-5dda-4f37-9cbe-d9801190da4d",
+      "name": "Al Iman Islamic Centre",
       "province": "British Columbia",
       "city": "Surrey",
-      "address": "18-13478 78 Ave, Surrey, BC V3W 1A5",
+      "address": "18-13478 78 Ave, Surrey, British Columbia, Canada",
       "coordinates": {
         "latitude": 49.1443395,
         "longitude": -122.84914
       },
-      "organization": null,
-      "website": null,
+      "organization": "Al Iman Islamic Centre Surrey",
+      "website": "https://www.al-imancenter.com/",
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
-      "source": "bc_hardcoded"
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:27 AM",
+          "iqamah": "5:30 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:19 AM",
+          "iqamah": "6:19 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:30 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:07 PM",
+          "iqamah": "5:20 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:13 PM",
+          "iqamah": "8:18 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:53 PM",
+          "iqamah": "10:03 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
     },
     {
-      "id": "bc_amir_hamza",
+      "id": "awqat_5b885cd4-2a00-4c41-9593-9335fc44a457",
       "name": "Amir Hamza Musalla",
       "province": "British Columbia",
       "city": "Surrey",
-      "address": "9250 Scott Rd, Surrey, BC V3V 7P8",
+      "address": "9250 Scott Rd, Surrey, British Columbia, Canada",
       "coordinates": {
         "latitude": 49.1709537,
         "longitude": -122.8900421
@@ -280,60 +559,184 @@
       "organization": null,
       "website": null,
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
-      "source": "bc_hardcoded"
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:20 AM",
+          "iqamah": "5:30 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:16 AM",
+          "iqamah": "6:16 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:35 PM",
+          "iqamah": "1:45 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "6:10 PM",
+          "iqamah": "6:20 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:15 PM",
+          "iqamah": "8:15 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "10:00 PM",
+          "iqamah": "10:10 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
     },
     {
-      "id": "bc_cloverdale_islamic",
+      "id": "awqat_1616938b-4503-4f9a-8d36-2dc6f5419d85",
       "name": "Cloverdale Islamic Society",
       "province": "British Columbia",
       "city": "Surrey",
-      "address": "17665 66A Ave, Surrey, BC V3S 2A5",
+      "address": "17665 66A Ave, Surrey, British Columbia, Canada",
       "coordinates": {
         "latitude": 49.1234506,
         "longitude": -122.7333016
       },
-      "organization": null,
-      "website": null,
+      "organization": "ddd",
+      "website": "https://cloverdaleislamiccenter.com/",
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
-      "source": "bc_hardcoded"
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:29 AM",
+          "iqamah": "5:30 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:15 AM",
+          "iqamah": "6:15 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:17 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "6:03 PM",
+          "iqamah": "6:20 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:13 PM",
+          "iqamah": "8:18 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:47 PM",
+          "iqamah": "10:00 PM"
+        }
+      ],
+      "jummah": "1:50 PM",
+      "source": "awqat"
     },
     {
-      "id": "bc_faizan_e_madina",
+      "id": "awqat_55e77293-56c3-45c2-a6a8-ba374b5eabbb",
       "name": "Faizan-e-Madina Islamic Center",
       "province": "British Columbia",
       "city": "Surrey",
-      "address": "7062 134 St, Surrey, BC V3W 5E7",
+      "address": "7062 134 St, Surrey, British Columbia, Canada",
       "coordinates": {
         "latitude": 49.1309848,
         "longitude": -122.8508961
       },
-      "organization": null,
-      "website": null,
+      "organization": "Weekly Halaqa Every Thursday | 7 pm",
+      "website": "https://dawateislamicanada.net/",
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
-      "source": "bc_hardcoded"
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:14 AM",
+          "iqamah": "5:30 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:15 AM",
+          "iqamah": "6:15 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:14 PM",
+          "iqamah": "1:30 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "6:05 PM",
+          "iqamah": "6:30 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:14 PM",
+          "iqamah": "8:14 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:50 PM",
+          "iqamah": "10:00 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
     },
     {
-      "id": "bc_fiji_islamic",
-      "name": "Fiji Islamic Centre Surrey",
+      "id": "awqat_65059b19-8a2c-4aa2-b40b-d26696fa827c",
+      "name": "Fiji Islamic Centre",
       "province": "British Columbia",
       "city": "Surrey",
-      "address": "12988 84 Ave, Surrey, BC V3W 1K8",
+      "address": "12988 84 Ave, Surrey, British Columbia, Canada",
       "coordinates": {
         "latitude": 49.1549238,
         "longitude": -122.8629226
       },
-      "organization": null,
+      "organization": "Units 17 & 18",
       "website": null,
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
-      "source": "bc_hardcoded"
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:17 AM",
+          "iqamah": "5:30 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:16 AM",
+          "iqamah": "6:16 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:24 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "6:03 PM",
+          "iqamah": "6:40 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:14 PM",
+          "iqamah": "8:14 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:47 PM",
+          "iqamah": "10:10 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
     },
     {
       "id": "bc_fleetwood_islamic",
@@ -353,11 +756,11 @@
       "source": "bc_hardcoded"
     },
     {
-      "id": "bc_masjid_al_huda_surrey",
-      "name": "Masjid Al Huda Surrey",
+      "id": "awqat_a5482569-9b79-47c8-b2de-4fda4ac81931",
+      "name": "Masjid Al Huda",
       "province": "British Columbia",
       "city": "Surrey",
-      "address": "14136 Grosvenor Road, Surrey, BC V3R 5G2",
+      "address": "14136 Grosvenor Road, Surrey, British Columbia, Canada",
       "coordinates": {
         "latitude": 49.2070303,
         "longitude": -122.8301489
@@ -365,33 +768,95 @@
       "organization": null,
       "website": null,
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
-      "source": "bc_hardcoded"
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:17 AM",
+          "iqamah": "5:30 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:16 AM",
+          "iqamah": "6:16 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:30 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "6:40 PM",
+          "iqamah": "6:50 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:13 PM",
+          "iqamah": "8:18 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "10:00 PM",
+          "iqamah": "10:10 PM"
+        }
+      ],
+      "jummah": "1:10 PM",
+      "source": "awqat"
     },
     {
-      "id": "bc_masjid_al_noor_surrey",
-      "name": "Masjid Al Noor Surrey",
+      "id": "awqat_09f21b0e-64a6-493f-8e45-e713b05a917b",
+      "name": "Masjid Al Noor",
       "province": "British Columbia",
       "city": "Surrey",
-      "address": "13526 98A Avenue, Surrey, BC V3T 5K6",
+      "address": "13526 98A Avenue, Surrey, British Columbia, Canada",
       "coordinates": {
         "latitude": 49.1813236,
         "longitude": -122.8475297
       },
-      "organization": null,
+      "organization": "Al Noor Islamic Center",
       "website": null,
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
-      "source": "bc_hardcoded"
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:17 AM",
+          "iqamah": "5:30 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:16 AM",
+          "iqamah": "6:16 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:24 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "6:03 PM",
+          "iqamah": "6:40 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:14 PM",
+          "iqamah": "8:16 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:47 PM",
+          "iqamah": "10:10 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
     },
     {
-      "id": "bc_masjid_al_rahmah_surrey",
-      "name": "Masjid Al Rahmah Surrey",
+      "id": "awqat_30095751-d33a-4daa-963b-a56d38cdb261",
+      "name": "Masjid Al Rahmah",
       "province": "British Columbia",
       "city": "Surrey",
-      "address": "13585 62 Ave, Surrey, BC V3X 2G5",
+      "address": "13585 62 Ave, Surrey, British Columbia, Canada",
       "coordinates": {
         "latitude": 49.1156187,
         "longitude": -122.8457738
@@ -399,43 +864,105 @@
       "organization": null,
       "website": null,
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
-      "source": "bc_hardcoded"
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:14 AM",
+          "iqamah": "5:40 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:16 AM",
+          "iqamah": "6:16 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:14 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "6:03 PM",
+          "iqamah": "6:30 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:14 PM",
+          "iqamah": "8:14 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "10:03 PM",
+          "iqamah": "10:13 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
     },
     {
-      "id": "bc_masjid_anwar_e_madina",
+      "id": "awqat_8f21a37a-a674-4e8d-bfbf-6626d355ddcd",
       "name": "Masjid Anwar-e-Madina",
       "province": "British Columbia",
       "city": "Surrey",
-      "address": "13560 105A Ave, Surrey, BC V3T 1Z5",
+      "address": "13560 105A Ave, Surrey, British Columbia, Canada",
       "coordinates": {
         "latitude": 49.1943447,
         "longitude": -122.8464857
       },
-      "organization": null,
+      "organization": "Weekly Halaqa Every Friday | After Isha\n1st Juma Bayan Starts at 12:30 pm\nEmpower your family with expert-led Nazra, Hifz, and Qirat classes for all ages (including females under 12), held Monday–Thursday from 4 PM–6 PM. ☎️ 778-957-2611.",
       "website": null,
       "phone": null,
       "prayerTimes": [],
       "jummah": null,
-      "source": "bc_hardcoded"
+      "source": "awqat"
     },
     {
-      "id": "bc_masjid_guildford",
+      "id": "awqat_96ac3382-aef7-4710-a187-7002ba7f4323",
       "name": "Masjid Guildford",
       "province": "British Columbia",
       "city": "Surrey",
-      "address": "15290 103A Ave #101, Surrey, BC V3R 7J7",
+      "address": "15290 103A Ave #101, Surrey, British Columbia, Canada",
       "coordinates": {
         "latitude": 49.1903084,
         "longitude": -122.7984478
       },
       "organization": null,
-      "website": null,
+      "website": "https://surreyislamiccenter.com/",
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
-      "source": "bc_hardcoded"
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:29 AM",
+          "iqamah": "5:30 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:15 AM",
+          "iqamah": "6:15 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:17 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "6:03 PM",
+          "iqamah": "6:20 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:13 PM",
+          "iqamah": "8:18 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:47 PM",
+          "iqamah": "10:00 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
     },
     {
       "id": "bc_surrey_jamea",
@@ -455,21 +982,21 @@
       "source": "bc_hardcoded"
     },
     {
-      "id": "bc_white_rock_muslim",
+      "id": "awqat_e2fb4334-c87a-4372-9761-8a06627305c2",
       "name": "White Rock Muslim Association",
       "province": "British Columbia",
       "city": "Surrey",
-      "address": "15515 24 Ave #61, Surrey, BC V4A 2J4",
+      "address": "15515 24 Ave #61, Surrey, British Columbia, Canada",
       "coordinates": {
-        "latitude": 49.045875,
-        "longitude": -122.7927916
+        "latitude": 49.0464025,
+        "longitude": -122.7927862
       },
       "organization": null,
-      "website": null,
+      "website": "https://whiterockmuslims.com/prayer-services",
       "phone": null,
       "prayerTimes": [],
       "jummah": null,
-      "source": "bc_hardcoded"
+      "source": "awqat"
     },
     {
       "id": "bc_ajyal_vancouver",
@@ -489,21 +1016,21 @@
       "source": "bc_hardcoded"
     },
     {
-      "id": "bc_al_masjid_al_jamia",
+      "id": "awqat_dba7e795-3213-44a1-b8b6-c0c6d49f4126",
       "name": "Al Masjid Al Jamia",
       "province": "British Columbia",
       "city": "Vancouver",
-      "address": "655 W 8th Avenue, Vancouver, BC V5Z 1C6",
+      "address": "655 W. 8th Avenue, Vancouver, British Columbia, Canada",
       "coordinates": {
         "latitude": 49.2644174,
         "longitude": -123.1189904
       },
       "organization": null,
-      "website": null,
+      "website": "https://pakcanbc.com/al-jamia-masjid-vancouver",
       "phone": null,
       "prayerTimes": [],
       "jummah": null,
-      "source": "bc_hardcoded"
+      "source": "awqat"
     },
     {
       "id": "bc_granville_musallah",
@@ -523,11 +1050,11 @@
       "source": "bc_hardcoded"
     },
     {
-      "id": "bc_marpole_musallah",
+      "id": "awqat_6d454cce-b747-4176-8540-dea7c328fadc",
       "name": "Marpole Musallah",
       "province": "British Columbia",
       "city": "Vancouver",
-      "address": "8879 Selkirk St, Vancouver, BC V6P 4J1",
+      "address": "8879 Selkirk St, Vancouver, British Columbia, Canada",
       "coordinates": {
         "latitude": 49.2046176,
         "longitude": -123.1337925
@@ -535,33 +1062,95 @@
       "organization": null,
       "website": null,
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
-      "source": "bc_hardcoded"
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:29 AM",
+          "iqamah": "5:30 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:15 AM",
+          "iqamah": "6:15 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:17 PM",
+          "iqamah": "1:45 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:04 PM",
+          "iqamah": "6:00 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:12 PM",
+          "iqamah": "8:17 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:51 PM",
+          "iqamah": "9:51 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
     },
     {
-      "id": "bc_masjid_omar_al_farooq",
+      "id": "awqat_28e9a078-c04d-43d6-a4de-3037697c34ab",
       "name": "Masjid Omar Al-Farooq",
       "province": "British Columbia",
       "city": "Vancouver",
-      "address": "1659 E 10th Ave, Vancouver, BC V5N 1X7",
+      "address": "1659 E 10th Ave, Vancouver, BC, CA",
       "coordinates": {
         "latitude": 49.2616091,
         "longitude": -123.0705718
       },
       "organization": null,
-      "website": null,
+      "website": "https://www.masjidomar.ca/",
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
-      "source": "bc_hardcoded"
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:28 AM",
+          "iqamah": "5:30 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:17 AM",
+          "iqamah": "6:17 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:22 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:09 PM",
+          "iqamah": "6:00 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:13 PM",
+          "iqamah": "8:18 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:53 PM",
+          "iqamah": "9:58 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
     },
     {
-      "id": "bc_masjid_ul_haqq",
+      "id": "awqat_8fe9f823-98ff-4304-a312-337d34e3620a",
       "name": "Masjid Ul Haqq",
       "province": "British Columbia",
       "city": "Vancouver",
-      "address": "4162 Welwyn Street, Vancouver, BC V5N 4S5",
+      "address": "4162 Welwyn Street, Vancouver, British Columbia, Canada",
       "coordinates": {
         "latitude": 49.2479585,
         "longitude": -123.0696038
@@ -569,60 +1158,153 @@
       "organization": null,
       "website": null,
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
-      "source": "bc_hardcoded"
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:10 AM",
+          "iqamah": "5:20 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:16 AM",
+          "iqamah": "6:16 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:30 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "6:20 PM",
+          "iqamah": "6:30 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:18 PM",
+          "iqamah": "8:18 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:47 PM",
+          "iqamah": "9:57 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
     },
     {
-      "id": "bc_msa_ubc",
-      "name": "MSA UBC Prayer Room",
+      "id": "awqat_8ed441dc-0d3f-45b8-860f-2032a10f334f",
+      "name": "MSA UBC",
       "province": "British Columbia",
       "city": "Vancouver",
-      "address": "6174 University Blvd, Vancouver, BC V6T 1Z1",
+      "address": "6174 University Blvd, Vancouver, BC, CA",
       "coordinates": {
         "latitude": 49.265192,
         "longitude": -123.2493632
       },
-      "organization": "UBC MSA",
-      "website": null,
+      "organization": "The University of British Columbia Muslim Students’ Association is a student-run organization that supports Muslim students on campus by providing religious, academic, and social resources, while fostering a welcoming Islamic environment and engaging with the wider university community.",
+      "website": "https://msaubc.org/",
       "phone": null,
-      "prayerTimes": [],
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:27 AM",
+          "iqamah": "5:15 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:14 AM",
+          "iqamah": "6:14 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:17 PM",
+          "iqamah": "1:30 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:07 PM",
+          "iqamah": "5:15 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:15 PM",
+          "iqamah": "8:20 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:53 PM",
+          "iqamah": "9:58 PM"
+        }
+      ],
       "jummah": null,
-      "source": "bc_hardcoded"
+      "source": "awqat"
     },
     {
-      "id": "bc_west_end_musallah",
-      "name": "West End Musallah",
+      "id": "awqat_069771aa-89ce-4533-a9b5-18c28e1ec187",
+      "name": "West End Mussalah",
       "province": "British Columbia",
       "city": "Vancouver",
-      "address": "708 Denman St, Vancouver, BC V6G 2L7",
+      "address": "708 Denman St , Vancouver, British Columbia, Canada",
       "coordinates": {
         "latitude": 49.2919462,
         "longitude": -123.1343223
       },
-      "organization": null,
-      "website": null,
+      "organization": "West End Mussalah in downtown Vancouver near Stanley Park",
+      "website": "https://westendmusalla.ca/",
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
-      "source": "bc_hardcoded"
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:39 AM",
+          "iqamah": "5:10 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:17 AM",
+          "iqamah": "6:17 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:15 PM",
+          "iqamah": "1:30 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:05 PM",
+          "iqamah": "6:10 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:11 PM",
+          "iqamah": "8:16 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:50 PM",
+          "iqamah": "10:00 PM"
+        }
+      ],
+      "jummah": "2:00 PM",
+      "source": "awqat"
     },
     {
-      "id": "bc_mac_vancouver",
-      "name": "MAC Vancouver Centre",
+      "id": "awqat_b425ec51-10cd-4c63-8047-c85358f16d71",
+      "name": "MAC Vancouver",
       "province": "British Columbia",
       "city": "Vancouver",
-      "address": "2122 Kingsway, Vancouver, BC V5N 2T5",
+      "address": "2122 Kingsway, Vancouver, British Columbia, Canada",
       "coordinates": {
         "latitude": 49.2440397,
         "longitude": -123.063553
       },
       "organization": "Muslim Association of Canada",
-      "website": "https://centres.macnet.ca/macvancouvercentre/",
+      "website": "http://www.macvancouver.ca/",
       "phone": null,
       "prayerTimes": [],
       "jummah": null,
-      "source": "bc_hardcoded"
+      "source": "awqat"
     },
     {
       "id": "bc_abbotsford_islamic",
@@ -812,38 +1494,38 @@
       "source": "bc_hardcoded"
     },
     {
-      "id": "ca_jami_mosque",
+      "id": "osm_way_43804339",
       "name": "Jami Mosque",
-      "province": "Ontario",
+      "province": "Canada",
       "city": "Toronto",
-      "address": "56 Boustead Ave, Toronto, ON M6R 1Y8",
+      "address": "56 Boustead Avenue, Toronto",
       "coordinates": {
-        "latitude": 43.6519,
-        "longitude": -79.4553
+        "latitude": 43.6533205,
+        "longitude": -79.45448
       },
       "organization": null,
-      "website": "https://jamimosque.com",
+      "website": null,
       "phone": null,
       "prayerTimes": [],
       "jummah": null,
-      "source": "hardcoded"
+      "source": "openstreetmap"
     },
     {
-      "id": "ca_masjid_toronto",
+      "id": "osm_node_281671453",
       "name": "Masjid Toronto",
-      "province": "Ontario",
-      "city": "Toronto",
-      "address": "168 Dundas St W, Toronto, ON M5G 1C8",
+      "province": "Canada",
+      "city": "",
+      "address": "168 Dundas Street West",
       "coordinates": {
-        "latitude": 43.6552,
-        "longitude": -79.3847
+        "latitude": 43.6553756,
+        "longitude": -79.3858908
       },
-      "organization": "Muslim Association of Canada",
+      "organization": null,
       "website": "https://centres.macnet.ca/masjidtoronto/",
-      "phone": null,
+      "phone": "+1-416-596-0507",
       "prayerTimes": [],
       "jummah": null,
-      "source": "hardcoded"
+      "source": "openstreetmap"
     },
     {
       "id": "ca_al_ummah_mosque",
@@ -999,21 +1681,21 @@
       "source": "hardcoded"
     },
     {
-      "id": "ca_islamic_society_toronto",
-      "name": "Islamic Society of Toronto",
-      "province": "Ontario",
+      "id": "osm_node_4501313672",
+      "name": "Masjid Dar Us Salaam",
+      "province": "Canada",
       "city": "Toronto",
-      "address": "4 Thorncliffe Park Dr, East York, ON M4H 1H1",
+      "address": "4 Thorncliffe Park Drive, Toronto",
       "coordinates": {
-        "latitude": 43.706,
-        "longitude": -79.3511
+        "latitude": 43.7060576,
+        "longitude": -79.3510456
       },
       "organization": null,
-      "website": null,
+      "website": "https://www.islamicsocietyoftoronto.com/",
       "phone": null,
       "prayerTimes": [],
       "jummah": null,
-      "source": "hardcoded"
+      "source": "openstreetmap"
     },
     {
       "id": "ca_madina_masjid_danforth",
@@ -1373,21 +2055,21 @@
       "source": "hardcoded"
     },
     {
-      "id": "ca_baitul_aman_danforth",
+      "id": "osm_node_3507916762",
       "name": "Baitul Aman Masjid",
-      "province": "Ontario",
-      "city": "Scarborough",
-      "address": "3114 Danforth Ave, Scarborough, ON M1L 1B1",
+      "province": "Canada",
+      "city": "Toronto",
+      "address": "3114 Danforth Avenue, Toronto",
       "coordinates": {
-        "latitude": 43.6917,
-        "longitude": -79.2897
+        "latitude": 43.6916305,
+        "longitude": -79.2875074
       },
       "organization": null,
-      "website": null,
+      "website": "http://www.torontomuslims.com/listing/baitul-aman-mosque-danforth-community-center/",
       "phone": null,
       "prayerTimes": [],
       "jummah": null,
-      "source": "hardcoded"
+      "source": "openstreetmap"
     },
     {
       "id": "ca_baitul_jannah",
@@ -1577,21 +2259,21 @@
       "source": "hardcoded"
     },
     {
-      "id": "ca_istiqamah_islamic",
-      "name": "Istiqamah Islamic Centre (IICO)",
-      "province": "Ontario",
-      "city": "Mississauga",
-      "address": "3410 Semenyk Ct, Unit 3, Mississauga, ON L5C 4P9",
+      "id": "osm_node_1307891413",
+      "name": "Muslim Welfare Center (Masjid and Food Bank)",
+      "province": "Canada",
+      "city": "",
+      "address": "",
       "coordinates": {
-        "latitude": 43.5748,
-        "longitude": -79.6444
+        "latitude": 43.5751086,
+        "longitude": -79.6466592
       },
       "organization": null,
-      "website": null,
+      "website": "https://www.muslimwelfarecentre.com/",
       "phone": null,
       "prayerTimes": [],
       "jummah": null,
-      "source": "hardcoded"
+      "source": "openstreetmap"
     },
     {
       "id": "ca_mac_mississauga",
@@ -2138,21 +2820,21 @@
       "source": "hardcoded"
     },
     {
-      "id": "ca_masjid_usman_pickering",
-      "name": "Masjid Usman (Pickering Islamic Centre)",
-      "province": "Ontario",
-      "city": "Pickering",
-      "address": "2590 Brock Rd, Pickering, ON L1X 0K3",
+      "id": "osm_way_232714937",
+      "name": "Pickering Islamic Centre",
+      "province": "Canada",
+      "city": "",
+      "address": "",
       "coordinates": {
-        "latitude": 43.8538,
-        "longitude": -79.0753
+        "latitude": 43.8534967,
+        "longitude": -79.0764039
       },
       "organization": null,
       "website": null,
       "phone": null,
       "prayerTimes": [],
       "jummah": null,
-      "source": "hardcoded"
+      "source": "openstreetmap"
     },
     {
       "id": "ca_muslim_assoc_whitby",
@@ -2937,21 +3619,21 @@
       "source": "hardcoded"
     },
     {
-      "id": "ca_icc_quebec_city",
-      "name": "Islamic Cultural Centre of Quebec City",
-      "province": "Quebec",
-      "city": "Quebec City",
-      "address": "2415 Rue Clémenceau, Quebec City, QC G1V 2H5",
+      "id": "osm_way_219208845",
+      "name": "Grande Mosquée de Québec",
+      "province": "Canada",
+      "city": "Québec",
+      "address": "2877 Chemin Sainte-Foy, Québec",
       "coordinates": {
-        "latitude": 46.7779,
-        "longitude": -71.3054
+        "latitude": 46.7779531,
+        "longitude": -71.3053718
       },
       "organization": null,
       "website": null,
       "phone": null,
       "prayerTimes": [],
       "jummah": null,
-      "source": "hardcoded"
+      "source": "openstreetmap"
     },
     {
       "id": "ca_icq_montreal",
@@ -4348,6 +5030,4784 @@
       "source": "hardcoded"
     },
     {
+      "id": "osm_node_420539138",
+      "name": "Madina Masjid",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 43.6804092,
+        "longitude": -79.3360717
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_509331412",
+      "name": "Fatima-Zohra",
+      "province": "Canada",
+      "city": "Montréal",
+      "address": "2012 Rue Saint-Dominique, Montréal",
+      "coordinates": {
+        "latitude": 45.5119276,
+        "longitude": -73.5669843
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_669015220",
+      "name": "Winston Churchill Mosque",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 43.5809559,
+        "longitude": -79.7618968
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_1123778839",
+      "name": "Toronto Islamic Centre (TIC) & Community Services",
+      "province": "Canada",
+      "city": "",
+      "address": "817 Yonge Street",
+      "coordinates": {
+        "latitude": 43.6725134,
+        "longitude": -79.3874634
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_1247391989",
+      "name": "Muslim Association of New Brunswick",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 45.3318661,
+        "longitude": -66.0284093
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_1434830620",
+      "name": "Masjid Mosque",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 43.6809543,
+        "longitude": -79.3312362
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_1616687440",
+      "name": "Masjid an-Noor",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 43.1663258,
+        "longitude": -79.2406468
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_2185736942",
+      "name": "Slave Lake Muslim Society Mosque",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 55.2756402,
+        "longitude": -114.7681398
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_2379217383",
+      "name": "Mosquée Al Falah",
+      "province": "Canada",
+      "city": "Montréal",
+      "address": "6550 Avenue de Darlington, Montréal",
+      "coordinates": {
+        "latitude": 45.5088126,
+        "longitude": -73.6294767
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_2953478838",
+      "name": "Islamic Center of Saskatchewan (Saskatoon)",
+      "province": "Canada",
+      "city": "Saskatoon",
+      "address": "222 Copland Crescent, Saskatoon",
+      "coordinates": {
+        "latitude": 52.1185493,
+        "longitude": -106.6305923
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_3115985296",
+      "name": "Taiba Mosque",
+      "province": "Canada",
+      "city": "Montréal",
+      "address": "3560 Avenue Van Horne, Montréal",
+      "coordinates": {
+        "latitude": 45.5011634,
+        "longitude": -73.6316704
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_3451091589",
+      "name": "Muslim Association of Milton",
+      "province": "Ontario",
+      "city": "Oakville",
+      "address": "4269 Regional Road 25, Oakville, Ontario",
+      "coordinates": {
+        "latitude": 43.4570228,
+        "longitude": -79.8020295
+      },
+      "organization": null,
+      "website": "https://www.miltonmasjid.com/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_3507050675",
+      "name": "Islamic Forum of Canada",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 43.6920921,
+        "longitude": -79.6962402
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "icna_966",
+      "name": "966 Community Centre",
+      "province": "Ontario",
+      "city": "Mississauga",
+      "address": "966 Dundas St E, Unit 14, Mississauga, ON L4Y 4H5",
+      "coordinates": {
+        "latitude": 43.5997854,
+        "longitude": -79.5932131
+      },
+      "organization": "ICNA Canada",
+      "website": "https://icna.ca/966/",
+      "phone": null,
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:07 am",
+          "iqamah": "5:30 am"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:20 pm",
+          "iqamah": "1:40 pm"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "6:15 pm",
+          "iqamah": "6:30 pm"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:07 pm",
+          "iqamah": "8:07 pm"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:13 pm",
+          "iqamah": "9:45 pm"
+        }
+      ],
+      "jummah": "01:30 pm",
+      "source": "icna"
+    },
+    {
+      "id": "osm_node_4253527907",
+      "name": "Masjid Omar Bin Khatab",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 43.6573287,
+        "longitude": -79.3653195
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_4433505664",
+      "name": "Centre Culturel Islamique de Vaudreuil-Soulanges - Mosquée Dar Attakwa",
+      "province": "Quebec",
+      "city": "Vaudreuil-Dorion",
+      "address": "2400 Rang Saint-Antoine, Vaudreuil-Dorion, QC",
+      "coordinates": {
+        "latitude": 45.3660198,
+        "longitude": -74.0356083
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_4463290119",
+      "name": "Jaame Masjid Scarborough",
+      "province": "Canada",
+      "city": "Toronto",
+      "address": "3665-3667 Lawrence Avenue East, Toronto",
+      "coordinates": {
+        "latitude": 43.7602184,
+        "longitude": -79.2205356
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_4672079861",
+      "name": "Centre Islamique de Rimouski",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 48.4509069,
+        "longitude": -68.5193497
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_4730509427",
+      "name": "Al-Hikmah Centre Inc",
+      "province": "Canada",
+      "city": "North York",
+      "address": "36 Colville Road, North York",
+      "coordinates": {
+        "latitude": 43.7068238,
+        "longitude": -79.4759196
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_4781941921",
+      "name": "Islam Care Centre",
+      "province": "Canada",
+      "city": "",
+      "address": "375 Somerset Street West",
+      "coordinates": {
+        "latitude": 45.4152723,
+        "longitude": -75.6968804
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_5026623651",
+      "name": "Islamic Information & Dawah Centre International",
+      "province": "Canada",
+      "city": "Toronto",
+      "address": "1168 Bloor Street West, Toronto",
+      "coordinates": {
+        "latitude": 43.6596989,
+        "longitude": -79.4370268
+      },
+      "organization": null,
+      "website": "https://www.islaminfo.com/",
+      "phone": "+1-416-536-8433",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_5072727158",
+      "name": "Albanian Mosque - Albanian Muslim Society of Toronto",
+      "province": "Canada",
+      "city": "Toronto",
+      "address": "564 Annette Street, Toronto",
+      "coordinates": {
+        "latitude": 43.6600317,
+        "longitude": -79.4808509
+      },
+      "organization": null,
+      "website": "https://www.albmuslim.ca/",
+      "phone": "+1-416-763-0612",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_5110834816",
+      "name": "Masjidur Rahmah",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 43.6598694,
+        "longitude": -79.3663424
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_5119682350",
+      "name": "Islamic Society of Niagara Peninsula",
+      "province": "Canada",
+      "city": "",
+      "address": "6768 Lyons Creek Road",
+      "coordinates": {
+        "latitude": 43.0326295,
+        "longitude": -79.1060829
+      },
+      "organization": null,
+      "website": "https://isnp.ca/",
+      "phone": "+1-905-295-4845",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_5155817234",
+      "name": "Masjid Adam",
+      "province": "Ontario",
+      "city": "Mississauga",
+      "address": "1759 Bloor Street, Mississauga, Ontario",
+      "coordinates": {
+        "latitude": 43.6250456,
+        "longitude": -79.5871898
+      },
+      "organization": null,
+      "website": "https://www.masjidadam.com/",
+      "phone": "+1-416-873-9994",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_5174943966",
+      "name": "Rahma Mosque",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 53.4966976,
+        "longitude": -113.62232
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_5177428754",
+      "name": "Al-Falah Masjid",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 53.4673598,
+        "longitude": -113.409494
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_5177462058",
+      "name": "Dar Al Sunnah",
+      "province": "Alberta",
+      "city": "Edmonton",
+      "address": "9228 144 Avenue NW, Edmonton, AB",
+      "coordinates": {
+        "latitude": 53.6070953,
+        "longitude": -113.4840028
+      },
+      "organization": null,
+      "website": "https://daralsunnah.com/",
+      "phone": "+1-780-761-3326",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_5689063816",
+      "name": "Darul-Uloom",
+      "province": "Canada",
+      "city": "",
+      "address": "2803 St. Joseph Boulevard",
+      "coordinates": {
+        "latitude": 45.4735064,
+        "longitude": -75.5205888
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_5917075347",
+      "name": "Jannatul Ferdous Mosque",
+      "province": "Canada",
+      "city": "Etobicoke",
+      "address": "1701 Martin Grove Road, Etobicoke",
+      "coordinates": {
+        "latitude": 43.7331459,
+        "longitude": -79.5882398
+      },
+      "organization": null,
+      "website": null,
+      "phone": "+1-416-742-3232",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_5995855529",
+      "name": "East Ottawa Masjid",
+      "province": "Canada",
+      "city": "",
+      "address": "967 St-Laurent Boulevard",
+      "coordinates": {
+        "latitude": 45.4298022,
+        "longitude": -75.6401819
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_6348392718",
+      "name": "The Reign of Islamic Da'Wah",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 43.6833105,
+        "longitude": -79.4809583
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_6392047499",
+      "name": "Masjid Annoor",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 53.4621498,
+        "longitude": -113.5037747
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_6392056722",
+      "name": "Annoor Islamic Centre",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 53.4610115,
+        "longitude": -113.5314742
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_6467166681",
+      "name": "Mosquée Al-Rawdah",
+      "province": "Canada",
+      "city": "Montréal",
+      "address": "12253 Boulevard Laurentien, Montréal, Québec",
+      "coordinates": {
+        "latitude": 45.5293795,
+        "longitude": -73.7222594
+      },
+      "organization": null,
+      "website": null,
+      "phone": "+1-514-227-5000",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_6495425610",
+      "name": "Hamza Mosque",
+      "province": "Canada",
+      "city": "",
+      "address": "1287 Queen Street West",
+      "coordinates": {
+        "latitude": 43.6414066,
+        "longitude": -79.432098
+      },
+      "organization": null,
+      "website": null,
+      "phone": "+1 4165343669",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_6549657698",
+      "name": "Masjid Al Qalam",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 43.6979569,
+        "longitude": -79.4514591
+      },
+      "organization": null,
+      "website": null,
+      "phone": "+1-647-435-8472",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_6593955528",
+      "name": "Masjid Bilal",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 43.7443451,
+        "longitude": -79.2199378
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_6594754978",
+      "name": "Masjid Al Jannah",
+      "province": "Canada",
+      "city": "",
+      "address": "2201 Ellesmere Road",
+      "coordinates": {
+        "latitude": 43.7764183,
+        "longitude": -79.2302198
+      },
+      "organization": null,
+      "website": "https://www.masjidaljannah.ca/",
+      "phone": "+1-647-342-7544",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_7027355629",
+      "name": "Abu Huraria Centre",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 43.7729913,
+        "longitude": -79.3345756
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_7283065469",
+      "name": "Charlottetown Mosque",
+      "province": "Canada",
+      "city": "",
+      "address": "125 Queen Street",
+      "coordinates": {
+        "latitude": 46.2339816,
+        "longitude": -63.1276967
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_7285780804",
+      "name": "Centre culturel islamique de Roussillon",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 45.3855508,
+        "longitude": -73.5902712
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_7503023673",
+      "name": "Centre musulman Al-Manara",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 45.3815799,
+        "longitude": -73.5593511
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_8099108067",
+      "name": "Centre culturel musulman Châteauguay",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 45.354953,
+        "longitude": -73.7185779
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_9062811515",
+      "name": "Baitul Jannah Islamic Center",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 43.7188156,
+        "longitude": -79.2402546
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_9063283315",
+      "name": "Al-Mustafa Academy",
+      "province": "Canada",
+      "city": "",
+      "address": "5441 125A Street",
+      "coordinates": {
+        "latitude": 49.1015267,
+        "longitude": -122.8748044
+      },
+      "organization": null,
+      "website": "https://amabc.ca/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_9606004145",
+      "name": "Centre Culturel Khadimou Rassoul - Keur Serigne Touba - Nourou Darayni - Sope Serig Fallou - FONCAB",
+      "province": "Quebec",
+      "city": "Montréal",
+      "address": "10775 Avenue Millen, Montréal, QC",
+      "coordinates": {
+        "latitude": 45.5571787,
+        "longitude": -73.6686341
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_9848014273",
+      "name": "Abu Huraira Masjid",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 45.2864853,
+        "longitude": -66.0772685
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_9972630089",
+      "name": "Rexdale Jame Masjid",
+      "province": "Ontario",
+      "city": "Etobicoke",
+      "address": "127 Westmore Drive, Etobicoke, ON",
+      "coordinates": {
+        "latitude": 43.7358347,
+        "longitude": -79.6008166
+      },
+      "organization": null,
+      "website": "http://rexdalemasjid.ca/",
+      "phone": "+1-416-744-3474",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_10072733735",
+      "name": "Al Aman",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 45.6115863,
+        "longitude": -73.7932816
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_10087958870",
+      "name": "Islamic Society of Vaughan",
+      "province": "Ontario",
+      "city": "Vaughan",
+      "address": "9100 Jane Street, Vaughan, Ontario",
+      "coordinates": {
+        "latitude": 43.8296836,
+        "longitude": -79.5328807
+      },
+      "organization": null,
+      "website": "http://www.islamicsocietyvaughan.com",
+      "phone": "+1-905-597-3233",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_10239306881",
+      "name": "Mosque Nour Al Medina",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 45.5269927,
+        "longitude": -73.6240341
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_10278276945",
+      "name": "Naqshbandi Sufi Toronto",
+      "province": "Canada",
+      "city": "",
+      "address": "129 East Drive",
+      "coordinates": {
+        "latitude": 43.7117703,
+        "longitude": -79.6890563
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_10555317739",
+      "name": "Muslim Neighbour Nexus",
+      "province": "Ontario",
+      "city": "Mississauga",
+      "address": "3520 Odyssey Drive, Mississauga, ON",
+      "coordinates": {
+        "latitude": 43.535318,
+        "longitude": -79.723061
+      },
+      "organization": null,
+      "website": "https://mnnexus.ca/",
+      "phone": "+1-833-666-3520",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_10763488549",
+      "name": "Centre islamique Bilal et culturel du Québec",
+      "province": "Quebec",
+      "city": "Montréal",
+      "address": "4139 Rue Jean-Talon Ouest, Montréal, QC",
+      "coordinates": {
+        "latitude": 45.5012308,
+        "longitude": -73.6461428
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_10794039084",
+      "name": "Muslim community of Lasalle",
+      "province": "Canada",
+      "city": "",
+      "address": "9023 Rue Airlie",
+      "coordinates": {
+        "latitude": 45.420997,
+        "longitude": -73.6312674
+      },
+      "organization": null,
+      "website": "http://www.cmlasalle.org/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_10913892272",
+      "name": "Centre islamique Île-des-Soeurs Al Jazira",
+      "province": "Quebec",
+      "city": "Verdun",
+      "address": "280 Rue Elgar, Verdun, QC",
+      "coordinates": {
+        "latitude": 45.4565917,
+        "longitude": -73.5469136
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_11203916310",
+      "name": "Centre Communautaire Islamique",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 45.5657576,
+        "longitude": -73.5868686
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_11375843499",
+      "name": "Al-Salaam Islamic Centre",
+      "province": "Ontario",
+      "city": "Kitchener",
+      "address": "300 Mill Street, Kitchener, Ontario",
+      "coordinates": {
+        "latitude": 43.4365784,
+        "longitude": -80.4841013
+      },
+      "organization": null,
+      "website": "https://www.alsalaam.ca",
+      "phone": "+1-519-498-7985",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_11386712347",
+      "name": "MAC Qurtuba Islamic Centre",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 45.3260789,
+        "longitude": -75.7199946
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_11393154884",
+      "name": "Centre Aljisr",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 45.5430878,
+        "longitude": -73.7260569
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_11495864137",
+      "name": "Imam Bukhari Centre",
+      "province": "Ontario",
+      "city": "Milton",
+      "address": "50 Steeles Avenue East, Milton, ON",
+      "coordinates": {
+        "latitude": 43.5177898,
+        "longitude": -79.8972278
+      },
+      "organization": null,
+      "website": "https://ahlehadithcanada.org/toronto/",
+      "phone": "+1-647-204-1261",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_11755420030",
+      "name": "Centre Communautaire Islamique",
+      "province": "Quebec",
+      "city": "Brossard",
+      "address": "5905 Grande Allée, Brossard, QC",
+      "coordinates": {
+        "latitude": 45.4697419,
+        "longitude": -73.4365828
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_11974328793",
+      "name": "Baitul Ma'moor Mosque",
+      "province": "Canada",
+      "city": "",
+      "address": "2833 Rue Ontario Est",
+      "coordinates": {
+        "latitude": 45.536337,
+        "longitude": -73.5505032
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_12029150923",
+      "name": "Mosquée Tawuba",
+      "province": "Canada",
+      "city": "",
+      "address": "2361 Rue Ontario Est",
+      "coordinates": {
+        "latitude": 45.5311193,
+        "longitude": -73.5545863
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_12101258391",
+      "name": "Akram Jomaa Islamic Centre",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 51.0880448,
+        "longitude": -114.0003833
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_12253978378",
+      "name": "Al-Hedaya Islamic Centre",
+      "province": "Alberta",
+      "city": "Calgary",
+      "address": "108 Savanna Avenue NE, Calgary, Alberta",
+      "coordinates": {
+        "latitude": 51.1340068,
+        "longitude": -113.9645688
+      },
+      "organization": null,
+      "website": "https://alhedayacentre.ca/",
+      "phone": "+1 403-454-1949",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_12253978379",
+      "name": "Hazrat Bilal Islamic Centre",
+      "province": "Alberta",
+      "city": "Calgary",
+      "address": "20 Saddlestone Drive NE, Calgary, AB",
+      "coordinates": {
+        "latitude": 51.1295071,
+        "longitude": -113.9289467
+      },
+      "organization": null,
+      "website": "https://hbic.ca/",
+      "phone": "+1 587-917-0333",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_12470604106",
+      "name": "Muslim Association of Tillsonburg",
+      "province": "Ontario",
+      "city": "Tillsonburg",
+      "address": "169 Broadway Street, Tillsonburg, ON",
+      "coordinates": {
+        "latitude": 42.8613247,
+        "longitude": -80.7288747
+      },
+      "organization": null,
+      "website": "https://muslimassociationtillsonburg.ca/",
+      "phone": "+1-519 957 9009",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_12557744443",
+      "name": "Regent Park Islamic Resource Center",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 43.6602569,
+        "longitude": -79.3636854
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_13089458341",
+      "name": "IISC Downtown Mosque",
+      "province": "Alberta",
+      "city": "Calgary",
+      "address": "1009 7 Avenue SW, Calgary, Alberta",
+      "coordinates": {
+        "latitude": 51.0468564,
+        "longitude": -114.0843631
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_13176969514",
+      "name": "Northwest Islamic Centre",
+      "province": "Alberta",
+      "city": "Calgary",
+      "address": "7750 Ranchview Drive NW, Calgary, AB",
+      "coordinates": {
+        "latitude": 51.1205776,
+        "longitude": -114.1806243
+      },
+      "organization": null,
+      "website": "https://www.ianwc.ca/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_13248626299",
+      "name": "Masjid Daril Ilmi",
+      "province": "Alberta",
+      "city": "Edmonton",
+      "address": "4225 118 Avenue NW, Edmonton, AB",
+      "coordinates": {
+        "latitude": 53.5701085,
+        "longitude": -113.4071889
+      },
+      "organization": null,
+      "website": "https://darulimischool.com",
+      "phone": "+1-780-934-7756",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_13275652357",
+      "name": "https://papemosque.ca/",
+      "province": "Canada",
+      "city": "",
+      "address": "336 Pape Avenue",
+      "coordinates": {
+        "latitude": 43.6676635,
+        "longitude": -79.3403977
+      },
+      "organization": null,
+      "website": "https://papemosque.ca/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_13408345699",
+      "name": "East Regina Mosque",
+      "province": "Saskatchewan",
+      "city": "Regina",
+      "address": "2318 Assiniboine Avenue, Regina, SK",
+      "coordinates": {
+        "latitude": 50.423192,
+        "longitude": -104.5504458
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_13411363128",
+      "name": "Regina City Jamia Masjid",
+      "province": "Saskatchewan",
+      "city": "Regina",
+      "address": "1910 McIntyre Street, Regina, SK",
+      "coordinates": {
+        "latitude": 50.4484805,
+        "longitude": -104.616999
+      },
+      "organization": null,
+      "website": "https://citymasjid.ca/",
+      "phone": "+13069995150",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_13415406894",
+      "name": "Al-Salaam Islamic Centre",
+      "province": "Alberta",
+      "city": "Edmonton",
+      "address": "550 Clareview Road NW, Edmonton, AB",
+      "coordinates": {
+        "latitude": 53.593653,
+        "longitude": -113.3848991
+      },
+      "organization": null,
+      "website": "https://masjidalsalaam.ca/",
+      "phone": "+1-587-521-4857",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_13420546521",
+      "name": "Markaz Al Imam Malik",
+      "province": "Alberta",
+      "city": "Edmonton",
+      "address": "14504 118 Street NW, Edmonton, AB",
+      "coordinates": {
+        "latitude": 53.6078682,
+        "longitude": -113.5260206
+      },
+      "organization": null,
+      "website": "https://www.markazalimammalik.com/",
+      "phone": "+1-780-280-0734",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_13420561226",
+      "name": "Alfalah Center Northside",
+      "province": "Alberta",
+      "city": "Edmonton",
+      "address": "4363 167 Avenue NW, Edmonton, AB",
+      "coordinates": {
+        "latitude": 53.6277355,
+        "longitude": -113.4075854
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_13444849695",
+      "name": "Masjid Al-Imam Al-Shafie",
+      "province": "Alberta",
+      "city": "Edmonton",
+      "address": "11748 95 Street NW, Edmonton, AB",
+      "coordinates": {
+        "latitude": 53.5699399,
+        "longitude": -113.4874686
+      },
+      "organization": null,
+      "website": null,
+      "phone": "+1-780-851-5160",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_13449313464",
+      "name": "Masjid At-Taqwa",
+      "province": "Alberta",
+      "city": "Edmonton",
+      "address": "10654 101 Street NW, Edmonton, AB",
+      "coordinates": {
+        "latitude": 53.551101,
+        "longitude": -113.4941971
+      },
+      "organization": null,
+      "website": "https://masjidtaqwa.ca/",
+      "phone": "+1-780-705-7525",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_13699079532",
+      "name": "Cornwall Masjid",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 45.0290051,
+        "longitude": -74.7354129
+      },
+      "organization": null,
+      "website": "https://cornwallislamiccentre.ca/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_13751194168",
+      "name": "Towfiq Islamic Centre",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 43.7079137,
+        "longitude": -79.5322668
+      },
+      "organization": null,
+      "website": null,
+      "phone": "+1 416-614-6565",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_13861200165",
+      "name": "Masjid Bilal",
+      "province": "Alberta",
+      "city": "Edmonton",
+      "address": "7814 83 Street NW, Edmonton, Alberta",
+      "coordinates": {
+        "latitude": 53.5144227,
+        "longitude": -113.4555435
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_13946430795",
+      "name": "Canadian Islamic Civic Academy",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 43.7428283,
+        "longitude": -79.6063599
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_14049628802",
+      "name": "Bab UL Hawaij Islamic Centre of Calgary",
+      "province": "Canada",
+      "city": "",
+      "address": "3025 12 Street NE",
+      "coordinates": {
+        "latitude": 51.07911,
+        "longitude": -114.02695
+      },
+      "organization": null,
+      "website": "https://babulhawaijcalgary.com/",
+      "phone": "+14033999044",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_node_14077163402",
+      "name": "Bosnian Canadian Islamic Centre",
+      "province": "Canada",
+      "city": "",
+      "address": "41 Holborn Avenue",
+      "coordinates": {
+        "latitude": 42.9631287,
+        "longitude": -81.2624967
+      },
+      "organization": null,
+      "website": "https://bkic.ca/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_32707332",
+      "name": "Ummah Nabawiah Masjid",
+      "province": "Canada",
+      "city": "",
+      "address": "2074 Kipling Avenue",
+      "coordinates": {
+        "latitude": 43.7149002,
+        "longitude": -79.5692053
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_32999667",
+      "name": "Isna Canada",
+      "province": "Ontario",
+      "city": "Mississauga",
+      "address": "2200 South Sheridan Way, Mississauga, Ontario",
+      "coordinates": {
+        "latitude": 43.5202656,
+        "longitude": -79.6503299
+      },
+      "organization": null,
+      "website": "https://www.isnacanada.com/",
+      "phone": "+1-905-403-8406",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_33042529",
+      "name": "Islamic Community Centre of Ontario (ICCO) MAC Masjid/Mosque",
+      "province": "Ontario",
+      "city": "Mississauga",
+      "address": "2550 Dunwin Drive, Mississauga, ON",
+      "coordinates": {
+        "latitude": 43.5285496,
+        "longitude": -79.6809409
+      },
+      "organization": null,
+      "website": "https://centres.macnet.ca/icco/",
+      "phone": "+1-289-430-5171",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_33542835",
+      "name": "Islamic Foundation of Toronto",
+      "province": "Canada",
+      "city": "Toronto",
+      "address": "441 Nugget Avenue, Toronto",
+      "coordinates": {
+        "latitude": 43.7980215,
+        "longitude": -79.24167
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_33729099",
+      "name": "Sayeda Khadija Centre",
+      "province": "Ontario",
+      "city": "Mississauga",
+      "address": "7150 Edwards Boulevard, Mississauga, ON",
+      "coordinates": {
+        "latitude": 43.6504787,
+        "longitude": -79.7085726
+      },
+      "organization": null,
+      "website": "https://www.sayedakhadijacentre.com/",
+      "phone": "+1-905-564-5509",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_34204564",
+      "name": "Al Huda Institute Canada",
+      "province": "Canada",
+      "city": "Mississauga",
+      "address": "5671 McAdam Road, Mississauga",
+      "coordinates": {
+        "latitude": 43.6249079,
+        "longitude": -79.665951
+      },
+      "organization": null,
+      "website": "https://alhudainstitute.ca/",
+      "phone": "+1-905-624-2030",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_34204832",
+      "name": "Jame Masjid",
+      "province": "Canada",
+      "city": "",
+      "address": "5761 Coopers Avenue",
+      "coordinates": {
+        "latitude": 43.6322732,
+        "longitude": -79.6578696
+      },
+      "organization": null,
+      "website": "https://ipcontario.com/",
+      "phone": "(905) 507-3323",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_34550567",
+      "name": "Baitul Hamd Mosque",
+      "province": "Ontario",
+      "city": "Mississauga",
+      "address": "1194 Matheson Boulevard East, Mississauga, Ontario",
+      "coordinates": {
+        "latitude": 43.6373731,
+        "longitude": -79.6369498
+      },
+      "organization": null,
+      "website": null,
+      "phone": "+1 905-206-1364",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_34550870",
+      "name": "Anatolia Islamic Centre",
+      "province": "Canada",
+      "city": "Mississauga",
+      "address": "5280 Maingate Drive, Mississauga",
+      "coordinates": {
+        "latitude": 43.6332267,
+        "longitude": -79.6324889
+      },
+      "organization": null,
+      "website": "http://www.anatoliacentre.ca/",
+      "phone": "(905) 629-0477",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_34749303",
+      "name": "Malton Islamic Centre",
+      "province": "Canada",
+      "city": "Mississauga",
+      "address": "6836 Professional Court, Mississauga",
+      "coordinates": {
+        "latitude": 43.7075165,
+        "longitude": -79.6310944
+      },
+      "organization": null,
+      "website": "https://www.maltonislamiccentre.com/",
+      "phone": "+1-905-453-6943",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_43805181",
+      "name": "Islamic Research Center of Canada Inc.",
+      "province": "Ontario",
+      "city": "Toronto",
+      "address": "1 Stamford Square North, Toronto, Ontario",
+      "coordinates": {
+        "latitude": 43.7111375,
+        "longitude": -79.2951115
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_43940186",
+      "name": "Hamilton Downtown Mosque",
+      "province": "Canada",
+      "city": "",
+      "address": "221 York Boulevard",
+      "coordinates": {
+        "latitude": 43.2610287,
+        "longitude": -79.8755949
+      },
+      "organization": null,
+      "website": "http://downtownmosque.com",
+      "phone": "+1-905-527-7371",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_46841471",
+      "name": "Centre Islamique Badr",
+      "province": "Canada",
+      "city": "",
+      "address": "8625 Boulevard Langelier",
+      "coordinates": {
+        "latitude": 45.598881,
+        "longitude": -73.59095
+      },
+      "organization": null,
+      "website": "https://centrebadr.net/",
+      "phone": "+1-514-255-6460",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_46865857",
+      "name": "Centre Islamique Libanais",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 45.5473573,
+        "longitude": -73.6560616
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_47221141",
+      "name": "Al Jamieh",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 45.4926196,
+        "longitude": -73.8379936
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_56202083",
+      "name": "Salaheddin Islamic Centre",
+      "province": "Canada",
+      "city": "",
+      "address": "741 Kennedy Road",
+      "coordinates": {
+        "latitude": 43.7308697,
+        "longitude": -79.2659976
+      },
+      "organization": null,
+      "website": "https://www.salaheddin.org/",
+      "phone": "+1-416-264-3900",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_58566249",
+      "name": "Bosnian Islamic Association Gazi Husrev-Beg",
+      "province": "Canada",
+      "city": "Etobicoke",
+      "address": "122 North Queen Street, Etobicoke",
+      "coordinates": {
+        "latitude": 43.6207841,
+        "longitude": -79.55001
+      },
+      "organization": null,
+      "website": "https://www.biaghb.com/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_60119177",
+      "name": "Baitul Mukarram Islamic Society",
+      "province": "Ontario",
+      "city": "Scarborough",
+      "address": "3340 Danforth Avenue, Scarborough, Ontario",
+      "coordinates": {
+        "latitude": 43.693917,
+        "longitude": -79.277756
+      },
+      "organization": null,
+      "website": "https://baitulmukarramtoronto.ca/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_60483157",
+      "name": "Toronto and Region Islamic Congregation",
+      "province": "Canada",
+      "city": "Toronto",
+      "address": "99 Beverly Hills Drive, Toronto",
+      "coordinates": {
+        "latitude": 43.7179654,
+        "longitude": -79.5159802
+      },
+      "organization": null,
+      "website": "https://taric.org/",
+      "phone": "+1-416-245-5675",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_61955974",
+      "name": "Imam Mahdi Islamic Centre",
+      "province": "Canada",
+      "city": "Thornhill",
+      "address": "7340 Bayview Avenue, Thornhill",
+      "coordinates": {
+        "latitude": 43.8111725,
+        "longitude": -79.4001251
+      },
+      "organization": null,
+      "website": "https://imammahdi.ca/",
+      "phone": "+1-416-762-8200",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_66979961",
+      "name": "Imdadul Islamic Jamat",
+      "province": "Canada",
+      "city": "Toronto",
+      "address": "26 Le Page Court, Toronto",
+      "coordinates": {
+        "latitude": 43.7590279,
+        "longitude": -79.4869955
+      },
+      "organization": null,
+      "website": null,
+      "phone": "+1-416-636-0044",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_67141470",
+      "name": "Masjid Huzaifah",
+      "province": "Canada",
+      "city": "Scarborough",
+      "address": "18 Progress Avenue, Scarborough",
+      "coordinates": {
+        "latitude": 43.770228,
+        "longitude": -79.280662
+      },
+      "organization": null,
+      "website": "https://www.masjidhuzaifah.com/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_67162340",
+      "name": "Islamic Society of York Region",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 43.9366856,
+        "longitude": -79.4069923
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_67298317",
+      "name": "Masjid Darul Iman",
+      "province": "Ontario",
+      "city": "Markham",
+      "address": "1330 Castlemore Avenue, Markham, ON",
+      "coordinates": {
+        "latitude": 43.9052155,
+        "longitude": -79.2639906
+      },
+      "organization": null,
+      "website": "https://daruliman.org/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_68588551",
+      "name": "Centre Islamique de L'Outaouais",
+      "province": "Canada",
+      "city": "Gatineau",
+      "address": "4 Rue Lois, Gatineau",
+      "coordinates": {
+        "latitude": 45.4290273,
+        "longitude": -75.7321088
+      },
+      "organization": null,
+      "website": "https://www.cio-oic.ca/",
+      "phone": "+1-819-776-1831",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_68658999",
+      "name": "Ottawa Islamic Centre & Assalam Mosque",
+      "province": "Canada",
+      "city": "",
+      "address": "2335 St-Laurent Boulevard",
+      "coordinates": {
+        "latitude": 45.383107,
+        "longitude": -75.620526
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_78592355",
+      "name": "Jame Makki Masjid Brampton",
+      "province": "Canada",
+      "city": "Brampton",
+      "address": "8450 Torbram Road, Brampton",
+      "coordinates": {
+        "latitude": 43.7216539,
+        "longitude": -79.6905252
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_79880277",
+      "name": "Ottawa Muslim Association",
+      "province": "Canada",
+      "city": "",
+      "address": "251 Northwestern Avenue",
+      "coordinates": {
+        "latitude": 45.401468,
+        "longitude": -75.7413381
+      },
+      "organization": null,
+      "website": "https://www.ottawamosque.ca/",
+      "phone": "+1-613-722-8763",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_82251132",
+      "name": "Usman Gousi Mosque",
+      "province": "Canada",
+      "city": "Toronto",
+      "address": "75 Kirkdene Drive, Toronto",
+      "coordinates": {
+        "latitude": 43.7945587,
+        "longitude": -79.138474
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_89342355",
+      "name": "Shalimar Islamic Centre",
+      "province": "Ontario",
+      "city": "Mississauga",
+      "address": "79 Cedarglen Gate, Mississauga, On",
+      "coordinates": {
+        "latitude": 43.5584348,
+        "longitude": -79.6426708
+      },
+      "organization": null,
+      "website": "https://shalimarislamiccentre.ca/",
+      "phone": "+1-647-920-3024",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_93988220",
+      "name": "Aylmer Mosque",
+      "province": "Canada",
+      "city": "Gatineau",
+      "address": "21 Rue Park, Gatineau",
+      "coordinates": {
+        "latitude": 45.3955834,
+        "longitude": -75.8448092
+      },
+      "organization": null,
+      "website": "https://www.mosque-aylmer.ca/",
+      "phone": "+1-819-684-9299",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_96069027",
+      "name": "Manitoba Islamic Association Community Center",
+      "province": "Canada",
+      "city": "",
+      "address": "2445 Waverley Street",
+      "coordinates": {
+        "latitude": 49.7913785,
+        "longitude": -97.1749976
+      },
+      "organization": null,
+      "website": "https://www.miaonline.org/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_96972548",
+      "name": "Bab ul Ilm - Bani Hashim Society",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 43.6250781,
+        "longitude": -79.6319577
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_98057018",
+      "name": "Hamilton Mountain Masjid",
+      "province": "Canada",
+      "city": "",
+      "address": "1545 Stone Church Road East",
+      "coordinates": {
+        "latitude": 43.1955722,
+        "longitude": -79.8205373
+      },
+      "organization": null,
+      "website": "https://hamiltonmosque.com/",
+      "phone": "+1-905-929-1526",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_123518024",
+      "name": "London Muslim Mosque",
+      "province": "Canada",
+      "city": "London",
+      "address": "151 Oxford Street West, London",
+      "coordinates": {
+        "latitude": 42.9909133,
+        "longitude": -81.2705905
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_126176089",
+      "name": "Al Rashid Mosque",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 53.5016883,
+        "longitude": -113.5780526
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_129445111",
+      "name": "Islamic Centre of Southwest Ontario",
+      "province": "Ontario",
+      "city": "London",
+      "address": "951 Pond Mills Road, London, ON",
+      "coordinates": {
+        "latitude": 42.9317152,
+        "longitude": -81.1919677
+      },
+      "organization": null,
+      "website": "https://islamiccentre.ca/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_135778701",
+      "name": "Hyatt Mosque and Center",
+      "province": "Canada",
+      "city": "London",
+      "address": "282 Hamilton Road, London",
+      "coordinates": {
+        "latitude": 42.9815977,
+        "longitude": -81.2240953
+      },
+      "organization": null,
+      "website": "https://www.hyattmosquecenter.com/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_137361969",
+      "name": "The BC Muslim Association",
+      "province": "Canada",
+      "city": "",
+      "address": "2218 Quadra Street",
+      "coordinates": {
+        "latitude": 48.4336253,
+        "longitude": -123.3585823
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_139934389",
+      "name": "Baitul Ahad Mosque",
+      "province": "Ontario",
+      "city": "London",
+      "address": "546 Beaverbrook Avenue, London, Ontario",
+      "coordinates": {
+        "latitude": 42.9804165,
+        "longitude": -81.278067
+      },
+      "organization": null,
+      "website": "https://www.ahmadiyya.ca/mosques/baitul-ahad",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_145387376",
+      "name": "Waterloo Masjid",
+      "province": "Canada",
+      "city": "Waterloo",
+      "address": "213 Erb Street West, Waterloo",
+      "coordinates": {
+        "latitude": 43.4590603,
+        "longitude": -80.5354741
+      },
+      "organization": null,
+      "website": "https://waterloomasjid.com/main/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_156973419",
+      "name": "Kitchener Masjid",
+      "province": "Canada",
+      "city": "Kitchener",
+      "address": "1017 Victoria Street North, Kitchener",
+      "coordinates": {
+        "latitude": 43.4647895,
+        "longitude": -80.4604245
+      },
+      "organization": null,
+      "website": "http://kitchenermasjid.com",
+      "phone": "+1-519-743-9111",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "icna_milton",
+      "name": "Islamic Community Centre of Milton (ICCM)",
+      "province": "Ontario",
+      "city": "Milton",
+      "address": "8069 Esquesing Line, Milton, ON L9T 7L4",
+      "coordinates": {
+        "latitude": 43.5426707,
+        "longitude": -79.8768914
+      },
+      "organization": "ICNA Canada",
+      "website": "http://www.icnamilton.com",
+      "phone": null,
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:11 am",
+          "iqamah": "5:45 am"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:22 pm",
+          "iqamah": "1:40 pm"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:10 pm",
+          "iqamah": "6:30 pm"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:10 pm",
+          "iqamah": "8:16 pm"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:36 pm",
+          "iqamah": "10:00 pm"
+        }
+      ],
+      "jummah": "01:30 pm",
+      "source": "icna"
+    },
+    {
+      "id": "osm_way_170023709",
+      "name": "Jamiat-Ul-Ansar of Brampton",
+      "province": "Canada",
+      "city": "Brampton",
+      "address": "291 Great Lakes Drive, Brampton",
+      "coordinates": {
+        "latitude": 43.7374773,
+        "longitude": -79.7695094
+      },
+      "organization": null,
+      "website": "http://www.jamiatulansar.ca/",
+      "phone": "+1-905-792-7576",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_170746233",
+      "name": "Newmarket Islamic Centre",
+      "province": "Ontario",
+      "city": "Newmarket",
+      "address": "700 Mulock Drive, Newmarket, Ontario",
+      "coordinates": {
+        "latitude": 44.0426668,
+        "longitude": -79.443425
+      },
+      "organization": null,
+      "website": "https://nmic.ca/",
+      "phone": "+19058958886",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_172429631",
+      "name": "Baitul Islam Mosque",
+      "province": "Ontario",
+      "city": "Vaughan",
+      "address": "10610 Jane Street, Vaughan, Ontario",
+      "coordinates": {
+        "latitude": 43.8648527,
+        "longitude": -79.5429879
+      },
+      "organization": null,
+      "website": "https://www.ahmadiyya.ca/",
+      "phone": "+1 905-303-4000",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_197830497",
+      "name": "Islamic Association",
+      "province": "Canada",
+      "city": "Fredericton",
+      "address": "130 Lincoln Road, Fredericton",
+      "coordinates": {
+        "latitude": 45.9369131,
+        "longitude": -66.6279094
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_206928941",
+      "name": "Masjid Rahmatul-lil-Alameen",
+      "province": "Canada",
+      "city": "Mississauga",
+      "address": "205 North Service Road, Mississauga",
+      "coordinates": {
+        "latitude": 43.5735625,
+        "longitude": -79.5952994
+      },
+      "organization": null,
+      "website": "https://www.rahmatmasjid.com/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_229623196",
+      "name": "Masjid Bilal, Islamic Society of Cumberland",
+      "province": "Canada",
+      "city": "",
+      "address": "4509 Innes Road",
+      "coordinates": {
+        "latitude": 45.4621642,
+        "longitude": -75.4846875
+      },
+      "organization": null,
+      "website": "https://www.masjidbilal.org/",
+      "phone": "+1-613-841-0786",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_232660679",
+      "name": "Masjid Al Itissam",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 45.5719272,
+        "longitude": -73.6942351
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_233908909",
+      "name": "Albatool Fatima Association",
+      "province": "Canada",
+      "city": "",
+      "address": "2575 Bond Street",
+      "coordinates": {
+        "latitude": 45.3638405,
+        "longitude": -75.7878475
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_242780311",
+      "name": "Masumeen Islamic Centre",
+      "province": "Ontario",
+      "city": "Brampton",
+      "address": "7580 Kennedy Road South, Brampton, ON",
+      "coordinates": {
+        "latitude": 43.6674141,
+        "longitude": -79.7116013
+      },
+      "organization": null,
+      "website": "https://jaffari.org/",
+      "phone": "+1-905-459-0891",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_243990301",
+      "name": "Manitoba Dawah Centre",
+      "province": "Canada",
+      "city": "",
+      "address": "368 Edmonton Street",
+      "coordinates": {
+        "latitude": 49.8948913,
+        "longitude": -97.1489524
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_249272479",
+      "name": "Ottawa South Mosque",
+      "province": "Canada",
+      "city": "",
+      "address": "7 Fairbairn Street",
+      "coordinates": {
+        "latitude": 45.3948791,
+        "longitude": -75.6812937
+      },
+      "organization": null,
+      "website": "https://ottawasouthmosque.ca/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_251872867",
+      "name": "Jam'e Masjid Markham",
+      "province": "Canada",
+      "city": "Markham",
+      "address": "2900 Denison Street, Markham",
+      "coordinates": {
+        "latitude": 43.841864,
+        "longitude": -79.2645245
+      },
+      "organization": "Islamic Society of Markham",
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_262858031",
+      "name": "Wilmot Muslim Centre",
+      "province": "Canada",
+      "city": "Saint Petersburg",
+      "address": "1000 Knechtel Court, Saint Petersburg",
+      "coordinates": {
+        "latitude": 43.3993619,
+        "longitude": -80.5382781
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_271401861",
+      "name": "Fort McMurray Islamic Centre",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 56.729412,
+        "longitude": -111.3758869
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_278791680",
+      "name": "Masjid-an-Noor",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 47.6071101,
+        "longitude": -52.6893568
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_279149911",
+      "name": "MAC Hespeler Masjid",
+      "province": "Ontario",
+      "city": "Cambridge",
+      "address": "64 Winston Boulevard, Cambridge, Ontario",
+      "coordinates": {
+        "latitude": 43.4254334,
+        "longitude": -80.3177917
+      },
+      "organization": null,
+      "website": "https://hespelermasjid.ca/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_282523880",
+      "name": "Bosnian Islamic Centre",
+      "province": "Ontario",
+      "city": "",
+      "address": "75 Birmingham Street, ON",
+      "coordinates": {
+        "latitude": 43.603482,
+        "longitude": -79.5042513
+      },
+      "organization": null,
+      "website": "https://bictoronto.com/",
+      "phone": "+1-416-255-8338",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_287886696",
+      "name": "Al Rayan Islamic Centre",
+      "province": "Ontario",
+      "city": "Courtice",
+      "address": "1660 Regional Highway 2, Courtice, ON",
+      "coordinates": {
+        "latitude": 43.911339,
+        "longitude": -78.7865665
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_288668015",
+      "name": "Jami Omar",
+      "province": "Canada",
+      "city": "",
+      "address": "3990 Old Richmond Road",
+      "coordinates": {
+        "latitude": 45.3116695,
+        "longitude": -75.828436
+      },
+      "organization": null,
+      "website": "https://www.jamiomar.org/",
+      "phone": "+1-613-864-6511",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_288678255",
+      "name": "Baitul Mukkarram Islamic Association",
+      "province": "Saskatchewan",
+      "city": "Regina",
+      "address": "1405 Albert Street, Regina, SK",
+      "coordinates": {
+        "latitude": 50.4565205,
+        "longitude": -104.6177603
+      },
+      "organization": null,
+      "website": "https://baitulmukarram.org",
+      "phone": "+13065005322",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_288849003",
+      "name": "Prairie Muslim Association",
+      "province": "Canada",
+      "city": "Saskatoon",
+      "address": "3350 Fairlight Drive, Saskatoon",
+      "coordinates": {
+        "latitude": 52.1272912,
+        "longitude": -106.7263894
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_289666913",
+      "name": "Islamic Society of Belleville",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 44.1682058,
+        "longitude": -77.3880989
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_293062093",
+      "name": "Sudbury Mosque",
+      "province": "Ontario",
+      "city": "Sudbury",
+      "address": "755 Churchill Avenue, Sudbury, ON",
+      "coordinates": {
+        "latitude": 46.5131805,
+        "longitude": -80.9345732
+      },
+      "organization": "Islamic Association of Sudbury",
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_305805121",
+      "name": "Abu Thar al-Gofary Mosque, Ottawa",
+      "province": "Canada",
+      "city": "",
+      "address": "273 Donald Street",
+      "coordinates": {
+        "latitude": 45.4282963,
+        "longitude": -75.6568356
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_307725712",
+      "name": "Ahmadiyya Muslim Center",
+      "province": "Ontario",
+      "city": "Winnipeg",
+      "address": "525 Kylemore Avenue, Winnipeg, ON",
+      "coordinates": {
+        "latitude": 49.8626565,
+        "longitude": -97.1362007
+      },
+      "organization": null,
+      "website": "https://www.ahmadiyya.ca/mosques/winnipeg",
+      "phone": "+1 204-475-2642",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_311209215",
+      "name": "Malton Masjid",
+      "province": "Ontario",
+      "city": "Mississauga",
+      "address": "7097 Airport Road, Mississauga, ON",
+      "coordinates": {
+        "latitude": 43.7063905,
+        "longitude": -79.6444861
+      },
+      "organization": null,
+      "website": "https://maltonmasjid.ad-din.site/",
+      "phone": "+19056718777",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_314470878",
+      "name": "Madani Mosque",
+      "province": "Canada",
+      "city": "",
+      "address": "12080 Boulevard Laurentien",
+      "coordinates": {
+        "latitude": 45.5268612,
+        "longitude": -73.7180557
+      },
+      "organization": null,
+      "website": "https://academyannoor.com/",
+      "phone": "+1 514-331-0733",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_319153252",
+      "name": "The Peace Mosque",
+      "province": "Canada",
+      "city": "Niagara Falls",
+      "address": "6735 Caledonia Street, Niagara Falls",
+      "coordinates": {
+        "latitude": 43.0737417,
+        "longitude": -79.1069196
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_320608539",
+      "name": "Scarborough Muslim Association - Jame Abu Bakr Siddique Masjid",
+      "province": "Canada",
+      "city": "Toronto",
+      "address": "2665 Lawrence Avenue East, Toronto",
+      "coordinates": {
+        "latitude": 43.7514785,
+        "longitude": -79.262164
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "icna_edmonton",
+      "name": "Al-Falah Islamic Centre Edmonton",
+      "province": "Alberta",
+      "city": "Edmonton",
+      "address": "2401 47 St NW, Edmonton, AB T6L 4P6",
+      "coordinates": {
+        "latitude": 53.4557345,
+        "longitude": -113.4146844
+      },
+      "organization": "ICNA Canada",
+      "website": "https://icna.ca/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "icna"
+    },
+    {
+      "id": "osm_way_322096347",
+      "name": "Markaz-Ul-Islam",
+      "province": "Alberta",
+      "city": "Edmonton",
+      "address": "7907 36 Avenue NW, Edmonton, AB",
+      "coordinates": {
+        "latitude": 53.4682597,
+        "longitude": -113.4547647
+      },
+      "organization": null,
+      "website": "https://www.markaz.ca/",
+      "phone": "+1 780 450 6170",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_322918434",
+      "name": "Muslim Community Mosque",
+      "province": "Canada",
+      "city": "Edmonton",
+      "address": "10721 86 Avenue NW, Edmonton",
+      "coordinates": {
+        "latitude": 53.5216771,
+        "longitude": -113.507308
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_323100208",
+      "name": "Bait-ul-Hadi",
+      "province": "Alberta",
+      "city": "Edmonton",
+      "address": "7005 98 Avenue NW, Edmonton, Alberta",
+      "coordinates": {
+        "latitude": 53.5370962,
+        "longitude": -113.4364849
+      },
+      "organization": null,
+      "website": "https://www.ahmadiyya.ca/mosques/baitul-hadi",
+      "phone": "+1 780-468-1617",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_324803316",
+      "name": "Sahaba Mosque",
+      "province": "Alberta",
+      "city": "Edmonton",
+      "address": "9216 105 Avenue NW, Edmonton, AB",
+      "coordinates": {
+        "latitude": 53.5505174,
+        "longitude": -113.4774663
+      },
+      "organization": null,
+      "website": "http://www.sahabamosque.ca/",
+      "phone": "+1-780-757-8800",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_325269803",
+      "name": "Masjid Quba",
+      "province": "Alberta",
+      "city": "Edmonton",
+      "address": "10210 118 Avenue NW, Edmonton, AB",
+      "coordinates": {
+        "latitude": 53.5706606,
+        "longitude": -113.496062
+      },
+      "organization": null,
+      "website": "https://masjidquba.ca/",
+      "phone": "+1-780-426-6373",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_326394261",
+      "name": "Al Rashid Mosque",
+      "province": "Alberta",
+      "city": "Edmonton",
+      "address": "13070 113 Street NW, Edmonton, AB",
+      "coordinates": {
+        "latitude": 53.5912428,
+        "longitude": -113.5157195
+      },
+      "organization": null,
+      "website": "http://www.alrashidmosque.ca/",
+      "phone": "+1-780-451-6694",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_326443505",
+      "name": "Al Ameen Masjid",
+      "province": "Alberta",
+      "city": "Edmonton",
+      "address": "5410 122 Avenue NW, Edmonton, AB",
+      "coordinates": {
+        "latitude": 53.576961,
+        "longitude": -113.4257571
+      },
+      "organization": null,
+      "website": "https://www.alameenmasjid.ca/",
+      "phone": "+1-780-471-5585",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_326461584",
+      "name": "Medina Mosque",
+      "province": "Alberta",
+      "city": "Edmonton",
+      "address": "12944 52 Street NW, Edmonton, AB",
+      "coordinates": {
+        "latitude": 53.588513,
+        "longitude": -113.4218434
+      },
+      "organization": null,
+      "website": "https://medinamosque.ca/",
+      "phone": "+1-780-863-9105",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_326793119",
+      "name": "Masjid Al Omari",
+      "province": "Alberta",
+      "city": "Edmonton",
+      "address": "6504 137 Avenue NW, Edmonton, AB",
+      "coordinates": {
+        "latitude": 53.6003667,
+        "longitude": -113.4412897
+      },
+      "organization": null,
+      "website": "https://www.alomarimasjid.ca/",
+      "phone": "+1-780-705-4191",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_330677110",
+      "name": "Masjid Al Farooq",
+      "province": "Canada",
+      "city": "Mississauga",
+      "address": "935 Eglinton Avenue West, Mississauga",
+      "coordinates": {
+        "latitude": 43.5870808,
+        "longitude": -79.6759189
+      },
+      "organization": null,
+      "website": "https://www.masjidfarooq.com/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_331321271",
+      "name": "Mount Pleasant Islamic Center",
+      "province": "Canada",
+      "city": "Brampton",
+      "address": "160 Salvation Road, Brampton",
+      "coordinates": {
+        "latitude": 43.6766727,
+        "longitude": -79.8195695
+      },
+      "organization": null,
+      "website": "https://www.mpicbrampton.com/",
+      "phone": "+1-905-840-5454",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_336941520",
+      "name": "Al Noor Masjid",
+      "province": "Saskatchewan",
+      "city": "Regina",
+      "address": "1025 Winnipeg Street, Regina, SK",
+      "coordinates": {
+        "latitude": 50.4624167,
+        "longitude": -104.5949006
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_353491161",
+      "name": "Halifax Jamia Masjid and Nova Scotia Islamic Community Centre",
+      "province": "Nova Scotia",
+      "city": "Bedford",
+      "address": "2141 Larry Uteck Boulevard, Bedford, Nova Scotia",
+      "coordinates": {
+        "latitude": 44.7207963,
+        "longitude": -63.7261203
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_364700604",
+      "name": "Al Qods",
+      "province": "Canada",
+      "city": "",
+      "address": "2465 Rue Bélanger",
+      "coordinates": {
+        "latitude": 45.5517823,
+        "longitude": -73.5991661
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_365774365",
+      "name": "Al-Salam Centre",
+      "province": "Canada",
+      "city": "",
+      "address": "6415 Ranchview Drive NW",
+      "coordinates": {
+        "latitude": 51.1148326,
+        "longitude": -114.1799531
+      },
+      "organization": null,
+      "website": "https://centres.macnet.ca/alsalamcentre/about-mac-al-salam-mosque/",
+      "phone": "+1-403-239-8070",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_366594888",
+      "name": "Centre Islamique du Quebec",
+      "province": "Canada",
+      "city": "Saint-Laurent",
+      "address": "2520 Chemin Laval, Saint-Laurent",
+      "coordinates": {
+        "latitude": 45.5212952,
+        "longitude": -73.7046974
+      },
+      "organization": null,
+      "website": "http://www.icqmontreal.com",
+      "phone": "+1 514-331-1770;+1 514-331-5582",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_369580571",
+      "name": "Kanata Muslim Association",
+      "province": "Canada",
+      "city": "",
+      "address": "351 Sandhill Road",
+      "coordinates": {
+        "latitude": 45.3560684,
+        "longitude": -75.9283763
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_372117220",
+      "name": "Centre Culturel Islamique de Laval",
+      "province": "Canada",
+      "city": "Laval",
+      "address": "1330 Rue Antonio, Laval, quebec",
+      "coordinates": {
+        "latitude": 45.5475641,
+        "longitude": -73.7542818
+      },
+      "organization": null,
+      "website": null,
+      "phone": "+1-450-680-1612",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_372984153",
+      "name": "Thunder Bay Masjid",
+      "province": "Canada",
+      "city": "Thunder Bay",
+      "address": "591 John Street, Thunder Bay, Ontartio",
+      "coordinates": {
+        "latitude": 48.431952,
+        "longitude": -89.2478948
+      },
+      "organization": null,
+      "website": "https://thunderbaymasjid.ca/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_373443926",
+      "name": "Islamic Society of Regina Masjid",
+      "province": "Saskatchewan",
+      "city": "Regina",
+      "address": "5048 Sherwood Drive, Regina, SK",
+      "coordinates": {
+        "latitude": 50.4772872,
+        "longitude": -104.6543151
+      },
+      "organization": null,
+      "website": "https://isrregina.ca/",
+      "phone": "+13062093912",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_387913351",
+      "name": "As-Salaam Alaykum Masjid Aisha",
+      "province": "Ontario",
+      "city": "Niagara Falls",
+      "address": "Stanley Avenue, Niagara Falls, ON",
+      "coordinates": {
+        "latitude": 43.0940132,
+        "longitude": -79.08484
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_389045553",
+      "name": "Mosquée Baitul Mukarram",
+      "province": "Quebec",
+      "city": "Montréal",
+      "address": "4225 Avenue de Courtrai, Montréal, QC",
+      "coordinates": {
+        "latitude": 45.5006171,
+        "longitude": -73.6430099
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_391094356",
+      "name": "Abbotsford Islamic Center",
+      "province": "Canada",
+      "city": "",
+      "address": "1980 Salton Road",
+      "coordinates": {
+        "latitude": 49.0383327,
+        "longitude": -122.2874137
+      },
+      "organization": "The B.C. Muslim Association",
+      "website": "https://org.thebcma.com/abbotsford",
+      "phone": "+1-604-270-2522",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_398280219",
+      "name": "Islamic Centre of Cambridge",
+      "province": "Canada",
+      "city": "",
+      "address": "1550 Dunbar Road",
+      "coordinates": {
+        "latitude": 43.3904363,
+        "longitude": -80.3176005
+      },
+      "organization": null,
+      "website": "https://www.iccambridge.com/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_421342729",
+      "name": "Islamic Center of Waterloo",
+      "province": "Canada",
+      "city": "Waterloo",
+      "address": "510 Erbsville Road, Waterloo",
+      "coordinates": {
+        "latitude": 43.4685221,
+        "longitude": -80.5891625
+      },
+      "organization": null,
+      "website": "https://www.icwaterloo.com",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_421916933",
+      "name": "Ibrahim Jame Mosque",
+      "province": "Canada",
+      "city": "",
+      "address": "778 King Street East",
+      "coordinates": {
+        "latitude": 43.2512039,
+        "longitude": -79.8441998
+      },
+      "organization": null,
+      "website": "https://www.ibrahimjamemosque.com/",
+      "phone": "+1-905-527-2392",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_427494852",
+      "name": "Garaage Musallah",
+      "province": "Saskatchewan",
+      "city": "Regina",
+      "address": "Sheppard Street, Regina, SK",
+      "coordinates": {
+        "latitude": 50.4796939,
+        "longitude": -104.6237976
+      },
+      "organization": null,
+      "website": "https://docs.google.com/spreadsheets/d/18jVM8cGid3GVOyKvHPStNU9kO8uuCog2kt1WwxlUhU0/edit?gid=0#gid=0",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_427541508",
+      "name": "Islamic Association Of Saskatchewan - Regina",
+      "province": "Saskatchewan",
+      "city": "Regina",
+      "address": "3273 Montague Street, Regina, SK",
+      "coordinates": {
+        "latitude": 50.4265739,
+        "longitude": -104.6292167
+      },
+      "organization": null,
+      "website": "https://iaosregina.com/",
+      "phone": "+13065850090",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_427636675",
+      "name": "Faizan-e-Madina Islamic Center Regina",
+      "province": "Saskatchewan",
+      "city": "Regina",
+      "address": "1169 Athol Street, Regina, SK",
+      "coordinates": {
+        "latitude": 50.4600359,
+        "longitude": -104.6278897
+      },
+      "organization": null,
+      "website": null,
+      "phone": "+13065815447",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_427638556",
+      "name": "Madni Islamic Center & Mosque",
+      "province": "Saskatchewan",
+      "city": "Regina",
+      "address": "639 Pasqua Street, Regina, SK",
+      "coordinates": {
+        "latitude": 50.468853,
+        "longitude": -104.6406525
+      },
+      "organization": null,
+      "website": "https://www.madnicanada.com",
+      "phone": "+13065378116",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_427923391",
+      "name": "Darul Falah Islamic Centre",
+      "province": "Saskatchewan",
+      "city": "Regina",
+      "address": "1876 Wallace Street, Regina, SK",
+      "coordinates": {
+        "latitude": 50.4489907,
+        "longitude": -104.5940955
+      },
+      "organization": null,
+      "website": "https://dficregina.com/",
+      "phone": "+13068035377",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_429006382",
+      "name": "House of the Commandments",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 44.1011149,
+        "longitude": -77.5806063
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_447011621",
+      "name": "Islamic Association of Nova Scotia",
+      "province": "Nova Scotia",
+      "city": "Dartmouth",
+      "address": "42 Leaman Drive, Dartmouth, Nova Scotia",
+      "coordinates": {
+        "latitude": 44.6885448,
+        "longitude": -63.5801759
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_452100145",
+      "name": "Umar Mosque",
+      "province": "Canada",
+      "city": "",
+      "address": "734 Rennie Street",
+      "coordinates": {
+        "latitude": 43.2465045,
+        "longitude": -79.7741582
+      },
+      "organization": null,
+      "website": "https://www.mahcanada.com/mosques/umar",
+      "phone": "+1-905-544-9016",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_456253681",
+      "name": "Surrey Jami'a Mosque",
+      "province": "Canada",
+      "city": "",
+      "address": "12407 72 Avenue",
+      "coordinates": {
+        "latitude": 49.1342216,
+        "longitude": -122.8786528
+      },
+      "organization": null,
+      "website": "https://org.thebcma.com/surreydelta",
+      "phone": "+1-604-596-7834",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_458493343",
+      "name": "Masjid Riyad Ul Jannah",
+      "province": "Canada",
+      "city": "Mississauga",
+      "address": "6680 Campobello Road, Mississauga",
+      "coordinates": {
+        "latitude": 43.6086461,
+        "longitude": -79.7336717
+      },
+      "organization": null,
+      "website": "http://jamiariyadhuljannah.com/",
+      "phone": "+1-905-567-1786",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_470244940",
+      "name": "Baitun Naseer Mosque",
+      "province": "Ontario",
+      "city": "Cumberland",
+      "address": "2620 Market Street, Cumberland, Ontario",
+      "coordinates": {
+        "latitude": 45.5165977,
+        "longitude": -75.4034007
+      },
+      "organization": null,
+      "website": null,
+      "phone": "+1 613-833-0968",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_478964239",
+      "name": "SNMC Center & Masjid",
+      "province": "Canada",
+      "city": "",
+      "address": "3020 Woodroffe Avenue",
+      "coordinates": {
+        "latitude": 45.2890632,
+        "longitude": -75.7266492
+      },
+      "organization": null,
+      "website": "https://www.snmc.ca/",
+      "phone": "+1-613-440-6300",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_482524672",
+      "name": "Masjid Noor-ul-Haram",
+      "province": "Canada",
+      "city": "Oavkville",
+      "address": "2478 9th Line, Oavkville",
+      "coordinates": {
+        "latitude": 43.5062371,
+        "longitude": -79.6958258
+      },
+      "organization": null,
+      "website": "https://wimcanada.com/",
+      "phone": "+1-905-257-1342",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_483089921",
+      "name": "Masjid ar-Rahmah",
+      "province": "Canada",
+      "city": "",
+      "address": "1216 Hunt Club Road",
+      "coordinates": {
+        "latitude": 45.351783,
+        "longitude": -75.647315
+      },
+      "organization": null,
+      "website": "https://www.mymasjid.ca",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_485777709",
+      "name": "Masjid in The Park",
+      "province": "Alberta",
+      "city": "Sherwood Park",
+      "address": "125 Broadview Drive, Sherwood Park, Alberta",
+      "coordinates": {
+        "latitude": 53.5451265,
+        "longitude": -113.312072
+      },
+      "organization": null,
+      "website": "https://www.masjidinthepark.org/",
+      "phone": "+1-780-467-7327",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_486651359",
+      "name": "Baitun Nur Mosque",
+      "province": "Alberta",
+      "city": "Calgary",
+      "address": "4354 54 Avenue NE, Calgary, Alberta",
+      "coordinates": {
+        "latitude": 51.101882,
+        "longitude": -113.9712837
+      },
+      "organization": null,
+      "website": "https://baitunnur.org/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_506312353",
+      "name": "Windsor Mosque",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 42.2774203,
+        "longitude": -83.0320469
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_507323381",
+      "name": "Mahmood Mosque",
+      "province": "Saskatchewan",
+      "city": "Regina",
+      "address": "3810 Eastgate Drive, Regina, SK",
+      "coordinates": {
+        "latitude": 50.4508691,
+        "longitude": -104.5281956
+      },
+      "organization": null,
+      "website": "https://www.ahmadiyya.ca/mosques/mahmood-mosque",
+      "phone": "+1 306-359-1713",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_524718674",
+      "name": "Oshawa Mosque",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 43.8924569,
+        "longitude": -78.8623798
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_536724829",
+      "name": "Hawkesbury Mosque",
+      "province": "Canada",
+      "city": "Hawkesbury",
+      "address": "651 Main Street East, Hawkesbury",
+      "coordinates": {
+        "latitude": 45.6105951,
+        "longitude": -74.6004479
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_547565136",
+      "name": "Stratford Mosque",
+      "province": "Canada",
+      "city": "Stratford",
+      "address": "97 Woods Street, Stratford",
+      "coordinates": {
+        "latitude": 43.3652278,
+        "longitude": -80.9954739
+      },
+      "organization": null,
+      "website": null,
+      "phone": "+1-519-305-1516",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_550368196",
+      "name": "Fraser Valley Jamatkhanna",
+      "province": "Canada",
+      "city": "",
+      "address": "15177 68 Avenue",
+      "coordinates": {
+        "latitude": 49.1269795,
+        "longitude": -122.8015885
+      },
+      "organization": null,
+      "website": "https://fraser-valley.edan.io/",
+      "phone": "+1-604-596-5354",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_550508694",
+      "name": "Darur Rahmat",
+      "province": "Saskatchewan",
+      "city": "Saskatoon",
+      "address": "101 Boychuk Drive, Saskatoon, SK",
+      "coordinates": {
+        "latitude": 52.1237797,
+        "longitude": -106.5858482
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_550569008",
+      "name": "Baitur Rahman Mosque",
+      "province": "British Columbia",
+      "city": "Delta",
+      "address": "9570 River Road, Delta, BC",
+      "coordinates": {
+        "latitude": 49.152624,
+        "longitude": -122.9578042
+      },
+      "organization": null,
+      "website": "https://www.vancouvermosque.ca/",
+      "phone": "+1 604-583-4669",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_552941695",
+      "name": "Masjid Alhakeem Bowmanville",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 43.9105436,
+        "longitude": -78.6831859
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_553399096",
+      "name": "Masjid Al Fatima",
+      "province": "Alberta",
+      "city": "Edmonton",
+      "address": "9275 25 Avenue NW, Edmonton, AB",
+      "coordinates": {
+        "latitude": 53.4535669,
+        "longitude": -113.472686
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_596118328",
+      "name": "Ummah Masjid",
+      "province": "Nova Scotia",
+      "city": "Halifax",
+      "address": "2510 St Matthias Street, Halifax, Nova Scotia",
+      "coordinates": {
+        "latitude": 44.6505843,
+        "longitude": -63.5977843
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_601868710",
+      "name": "Jamia Masjid Al-Aqsa",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 45.0233307,
+        "longitude": -74.7312012
+      },
+      "organization": null,
+      "website": "https://moonode.com/entity/al-aqsa-jamia-974445-507-pitt-st-cornwall",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_605740007",
+      "name": "Sarnia Muslim Association",
+      "province": "Canada",
+      "city": "Sarnia",
+      "address": "1609 London Line, Sarnia",
+      "coordinates": {
+        "latitude": 42.9831922,
+        "longitude": -82.3354944
+      },
+      "organization": null,
+      "website": "https://sarniamuslim.com/",
+      "phone": "+1-519-541-1335",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_608178071",
+      "name": "Truro Masjid",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 45.3921609,
+        "longitude": -63.2157995
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_617731420",
+      "name": "Lloydminster Islamic Centre",
+      "province": "Canada",
+      "city": "Lloydminster",
+      "address": "4610 49 Avenue, Lloydminster",
+      "coordinates": {
+        "latitude": 53.2802983,
+        "longitude": -110.003886
+      },
+      "organization": null,
+      "website": "https://mosqueoflight.wixsite.com/masjidunnoor",
+      "phone": "+1-780-870-1961",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_628291875",
+      "name": "Baitul Hafeez Mosque",
+      "province": "Nova Scotia",
+      "city": "Sydney",
+      "address": "1098 Grand Lake Road, Sydney, Nova Scotia",
+      "coordinates": {
+        "latitude": 46.1623935,
+        "longitude": -60.1079843
+      },
+      "organization": null,
+      "website": "https://www.ahmadiyya.ca/mosques/baitul-hafeez",
+      "phone": "+1 902-563-7464",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_628465384",
+      "name": "Baitul Amaan Mosque",
+      "province": "Canada",
+      "city": "Lloydminster",
+      "address": "4530 50 Street, Lloydminster",
+      "coordinates": {
+        "latitude": 53.2836129,
+        "longitude": -109.9943205
+      },
+      "organization": null,
+      "website": "https://www.ahmadiyya.ca/mosques/baitul-amaan",
+      "phone": "+1 306-825-3002",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_628607976",
+      "name": "Musalla As-Sahaba",
+      "province": "Canada",
+      "city": "",
+      "address": "2835 Dumaurier Avenue",
+      "coordinates": {
+        "latitude": 45.3506479,
+        "longitude": -75.7937122
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_644961689",
+      "name": "Noor-ul-Islam",
+      "province": "Ontario",
+      "city": "Windsor",
+      "address": "Lincoln Road, Windsor, Ontario",
+      "coordinates": {
+        "latitude": 42.3210224,
+        "longitude": -83.0159066
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_653770080",
+      "name": "Baitul Ehsaan Mosque",
+      "province": "Ontario",
+      "city": "Windsor",
+      "address": "1957 Head Avenue, Windsor, ON",
+      "coordinates": {
+        "latitude": 42.2910944,
+        "longitude": -82.9919258
+      },
+      "organization": null,
+      "website": "https://www.ahmadiyya.ca/mosques/baitul-ehsaan",
+      "phone": "+1 519-256-4166",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_656853729",
+      "name": "Islamic Centre of Kingston",
+      "province": "Canada",
+      "city": "Kingston",
+      "address": "Kingston",
+      "coordinates": {
+        "latitude": 44.284521,
+        "longitude": -76.5420575
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_659459666",
+      "name": "Islamic Institute of Toronto",
+      "province": "Ontario",
+      "city": "Toronto",
+      "address": "1630 Neilson Road, Toronto, Ontario",
+      "coordinates": {
+        "latitude": 43.818755,
+        "longitude": -79.229839
+      },
+      "organization": null,
+      "website": "https://islam.ca/",
+      "phone": "+1-416-335-9173",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_660074754",
+      "name": "Spiritual Society Canada",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 43.7743525,
+        "longitude": -79.1842505
+      },
+      "organization": null,
+      "website": "https://ssci.ad-din.site/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_661276513",
+      "name": "Al-Huda Islamic Centre",
+      "province": "Canada",
+      "city": "Toronto",
+      "address": "Toronto",
+      "coordinates": {
+        "latitude": 43.744817,
+        "longitude": -79.2725585
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_661843132",
+      "name": "Masjid al-Faisal (Islamic Society of Willowdale)",
+      "province": "Canada",
+      "city": "",
+      "address": "3551 Victoria Park Avenue",
+      "coordinates": {
+        "latitude": 43.801315,
+        "longitude": -79.334554
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_662151879",
+      "name": "Masjid El Noor",
+      "province": "Ontario",
+      "city": "Toronto",
+      "address": "277 Scott Road, Toronto, ON",
+      "coordinates": {
+        "latitude": 43.6896555,
+        "longitude": -79.4719435
+      },
+      "organization": null,
+      "website": "https://masjidelnoor.ca/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_662783001",
+      "name": "Masjid Vaughan",
+      "province": "Ontario",
+      "city": "Maple",
+      "address": "9954 Keele Street, Maple, Ontario",
+      "coordinates": {
+        "latitude": 43.853548,
+        "longitude": -79.5126835
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_663846455",
+      "name": "Brampton Islamic Center",
+      "province": "Canada",
+      "city": "Brampton",
+      "address": "6 Lowry Drive, Brampton",
+      "coordinates": {
+        "latitude": 43.701851,
+        "longitude": -79.8046835
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_681506911",
+      "name": "Baitun Nasir Mosque",
+      "province": "Ontario",
+      "city": "Cornwall",
+      "address": "341 Balmoral Avenue, Cornwall, Ontario",
+      "coordinates": {
+        "latitude": 45.0407431,
+        "longitude": -74.7368045
+      },
+      "organization": null,
+      "website": "https://www.ahmadiyya.ca/mosques/masjid-baitun-nasir",
+      "phone": "+1 613-361-9243",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_685858431",
+      "name": "Pictou County Mosque",
+      "province": "Canada",
+      "city": "Trenton",
+      "address": "25 Forge Street, Trenton",
+      "coordinates": {
+        "latitude": 45.6099063,
+        "longitude": -62.6367647
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_690340132",
+      "name": "Masjid Makkah-Al-Mukarramah",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 45.5069867,
+        "longitude": -73.8250112
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_706219512",
+      "name": "Fondation du Message de l’Islam",
+      "province": "Quebec",
+      "city": "Montréal",
+      "address": "10555 Boulevard Saint-Laurent, Montréal, Qc",
+      "coordinates": {
+        "latitude": 45.5499792,
+        "longitude": -73.6686754
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_735375291",
+      "name": "Midnight Sun Mosque",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 68.3683313,
+        "longitude": -133.7377672
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_745053091",
+      "name": "Masjid-e-Maryam Calgary",
+      "province": "Canada",
+      "city": "",
+      "address": "183 Beddington Drive NE",
+      "coordinates": {
+        "latitude": 51.1286546,
+        "longitude": -114.0681804
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_750633853",
+      "name": "Jami' Masjid Chatham",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 42.3900824,
+        "longitude": -82.1797045
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_755010396",
+      "name": "Red Deer Islamic Center",
+      "province": "Canada",
+      "city": "",
+      "address": "159 Douglas Avenue",
+      "coordinates": {
+        "latitude": 52.2589919,
+        "longitude": -113.7613684
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_773659063",
+      "name": "Masjid Aisha",
+      "province": "Canada",
+      "city": "Guelph",
+      "address": "44 Marlborough Road, Guelph",
+      "coordinates": {
+        "latitude": 43.5605888,
+        "longitude": -80.2640327
+      },
+      "organization": null,
+      "website": "http://masjidaisha.ca",
+      "phone": "+1-226-486-1143",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_781917069",
+      "name": "Jami' Masjid Zakariya",
+      "province": "Ontario",
+      "city": "Cornwall",
+      "address": "333 Second Street East, Cornwall, ON",
+      "coordinates": {
+        "latitude": 45.0208156,
+        "longitude": -74.7208737
+      },
+      "organization": null,
+      "website": "https://cornwallmasjid.ca/",
+      "phone": "+1-613-662-3402",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_785399687",
+      "name": "Windsor Islamic Association Centre",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 42.2743805,
+        "longitude": -83.031353
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_795980103",
+      "name": "Faith Mosque",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 43.6702656,
+        "longitude": -79.3196679
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_810898597",
+      "name": "Islamic Centre of Swift Current",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 50.2800696,
+        "longitude": -107.7990928
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_819982968",
+      "name": "Iqaluit Masjid",
+      "province": "Nunavut",
+      "city": "Iqaluit",
+      "address": "4121 Road to Nowhere, Iqaluit, NU",
+      "coordinates": {
+        "latitude": 63.747888,
+        "longitude": -68.4879886
+      },
+      "organization": null,
+      "website": "https://www.iqaluitmasjid.com/",
+      "phone": "+1-867-979-1362",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_844801469",
+      "name": "Baitun Nur Mosque",
+      "province": "Ontario",
+      "city": "Hamilton",
+      "address": "2301 King Street East, Hamilton, Ontario",
+      "coordinates": {
+        "latitude": 43.2296292,
+        "longitude": -79.7957217
+      },
+      "organization": null,
+      "website": "https://www.ahmadiyya.ca/mosques/baitun-nur-mosque",
+      "phone": "+1 905-544-3110",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_931652604",
+      "name": "Islamic Society of Guelph",
+      "province": "Ontario",
+      "city": "Guelph",
+      "address": "126 Norwich Street East, Guelph, ON",
+      "coordinates": {
+        "latitude": 43.5515302,
+        "longitude": -80.2519393
+      },
+      "organization": null,
+      "website": "http://isofg.ca/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_973426297",
+      "name": "Jamia Riyadhul Jannah",
+      "province": "British Columbia",
+      "city": "Maple Ridge",
+      "address": "27079 River Road, Maple Ridge, BC",
+      "coordinates": {
+        "latitude": 49.1747378,
+        "longitude": -122.472053
+      },
+      "organization": null,
+      "website": "https://riyadhuljannahmosque.com/",
+      "phone": "+1-236-818-5112;+1-778-847-1566;+1-416-994-5467",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_976180054",
+      "name": "Masjid al-Hidayah - Islamic Society of BC",
+      "province": "Canada",
+      "city": "",
+      "address": "2626 Kingsway Avenue",
+      "coordinates": {
+        "latitude": 49.2652087,
+        "longitude": -122.7879187
+      },
+      "organization": null,
+      "website": "https://theisbc.ca/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_998240981",
+      "name": "Masjid Al-Salaam",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 44.3092946,
+        "longitude": -78.3487231
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1000071591",
+      "name": "Zubaidah Tallab Masjid",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 55.7472926,
+        "longitude": -97.8704334
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1009553789",
+      "name": "Centre Islamique de Verdun",
+      "province": "Canada",
+      "city": "",
+      "address": "4583 Rue de Verdun",
+      "coordinates": {
+        "latitude": 45.4589831,
+        "longitude": -73.5714045
+      },
+      "organization": null,
+      "website": "https://centres.macnet.ca/civ/fr/",
+      "phone": "+1 514-508-9419",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1036047764",
+      "name": "Winnipeg Central Mosque",
+      "province": "Canada",
+      "city": "",
+      "address": "715 Ellice Avenue",
+      "coordinates": {
+        "latitude": 49.8933299,
+        "longitude": -97.1645088
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1036047778",
+      "name": "Abu Bakr Al-Siddiq Community Centre and Masjid",
+      "province": "Canada",
+      "city": "",
+      "address": "794 Ellice Avenue",
+      "coordinates": {
+        "latitude": 49.8930111,
+        "longitude": -97.1678989
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1064131736",
+      "name": "Green Dome Masjid",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 51.1261813,
+        "longitude": -113.9677231
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1082829360",
+      "name": "Yukon Muslim Society",
+      "province": "Yukon",
+      "city": "Whitehorse",
+      "address": "2176 Second Avenue, Whitehorse, YT",
+      "coordinates": {
+        "latitude": 60.7246361,
+        "longitude": -135.0568512
+      },
+      "organization": null,
+      "website": "https://yukonmuslims.com/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1111852818",
+      "name": "An-Najashi Musallah",
+      "province": "Alberta",
+      "city": "Edmonton",
+      "address": "11419 106 Avenue NW, Edmonton, AB",
+      "coordinates": {
+        "latitude": 53.549643,
+        "longitude": -113.518943
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1131303324",
+      "name": "Faizan-E-Makkah",
+      "province": "Canada",
+      "city": "",
+      "address": "509 Saint Mary's Road",
+      "coordinates": {
+        "latitude": 49.8678438,
+        "longitude": -97.1104153
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1148051859",
+      "name": "Cambridge Muslim Society",
+      "province": "Canada",
+      "city": "Cambridge",
+      "address": "252 Elgin Street North, Cambridge",
+      "coordinates": {
+        "latitude": 43.3740144,
+        "longitude": -80.303962
+      },
+      "organization": null,
+      "website": "https://www.cambridgemuslimsociety.org",
+      "phone": "+1-519-623-0568",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1149326197",
+      "name": "Centre Culture Islamique Cheikh Zayed",
+      "province": "Quebec",
+      "city": "Lasalle",
+      "address": "495 Avenue Lafleur, Lasalle, QC",
+      "coordinates": {
+        "latitude": 45.4338359,
+        "longitude": -73.645482
+      },
+      "organization": null,
+      "website": null,
+      "phone": "+1 514-558-9501",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1149484869",
+      "name": "Mubarak Mosque",
+      "province": "Ontario",
+      "city": "Brampton",
+      "address": "10545 Hurontario Street, Brampton, ON",
+      "coordinates": {
+        "latitude": 43.7169056,
+        "longitude": -79.8009379
+      },
+      "organization": null,
+      "website": "https://www.ahmadiyya.ca/mosques/masjid-mubarak",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1164425831",
+      "name": "Al-Andalous Islamic Center",
+      "province": "Canada",
+      "city": "Saint-Laurent",
+      "address": "816 Avenue Sainte-Croix, Saint-Laurent",
+      "coordinates": {
+        "latitude": 45.513657,
+        "longitude": -73.6762119
+      },
+      "organization": null,
+      "website": "https://www.icandalous.ca",
+      "phone": "+1 514-360-2360",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1176398981",
+      "name": "Al-Arqam Islamic Centre",
+      "province": "Canada",
+      "city": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 43.9492235,
+        "longitude": -78.853355
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1183043935",
+      "name": "Istiqlal Mosque",
+      "province": "Ontario",
+      "city": "Ballinafad",
+      "address": "14369 Trafalgar Road, Ballinafad, Ontario",
+      "coordinates": {
+        "latitude": 43.69548,
+        "longitude": -80.010826
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1189751238",
+      "name": "Hadiqa Ahmad",
+      "province": "Ontario",
+      "city": "Bradford",
+      "address": "3999 10th Sideroad, Bradford, Ontario",
+      "coordinates": {
+        "latitude": 44.1620864,
+        "longitude": -79.615089
+      },
+      "organization": null,
+      "website": null,
+      "phone": "+1 905-775-3299",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1189752936",
+      "name": "Baitul Karim Mosque",
+      "province": "Ontario",
+      "city": "Cambridge",
+      "address": "5 Elliott Street, Cambridge, Ontario",
+      "coordinates": {
+        "latitude": 43.3526807,
+        "longitude": -80.3124794
+      },
+      "organization": null,
+      "website": "https://www.ahmadiyya.ca/mosques/baitul-karim",
+      "phone": "+1-519-267-4220",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1189756200",
+      "name": "Baitul Mahdi Mosque",
+      "province": "Ontario",
+      "city": "Locust Hill",
+      "address": "3505 Salem Road, Locust Hill, Ontario",
+      "coordinates": {
+        "latitude": 43.9262591,
+        "longitude": -79.0420318
+      },
+      "organization": null,
+      "website": "https://www.ahmadiyya.ca/mosques/baitul-mahdi",
+      "phone": "+1 905-427-7479",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1189758763",
+      "name": "Mary Mosque (Maryam Mosque)",
+      "province": "Ontario",
+      "city": "Barrie",
+      "address": "110 Oro-Medonte Line 7, Barrie, ON",
+      "coordinates": {
+        "latitude": 44.4747797,
+        "longitude": -79.5318463
+      },
+      "organization": null,
+      "website": "https://www.ahmadiyya.ca/mosques/maryam-mosque",
+      "phone": "+1 705-487-0004",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1189759717",
+      "name": "Baitur Rehmat Mosque",
+      "province": "Saskatchewan",
+      "city": "Saskatoon",
+      "address": "304565 Township Road 362, Saskatoon, SK",
+      "coordinates": {
+        "latitude": 52.0849568,
+        "longitude": -106.5704327
+      },
+      "organization": null,
+      "website": "https://www.ahmadiyya.ca/mosques/baitur-rehmat",
+      "phone": "+1 306-500-0215",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1191512048",
+      "name": "Baitul Khabir",
+      "province": "Ontario",
+      "city": "Bradford",
+      "address": "Elizabeth Street, Bradford, Ontario",
+      "coordinates": {
+        "latitude": 44.1127925,
+        "longitude": -79.5648925
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1212404165",
+      "name": "Owen Sound Muslim Association",
+      "province": "Ontario",
+      "city": "Owen Sound",
+      "address": "895 7th Street East, Owen Sound, On",
+      "coordinates": {
+        "latitude": 44.5633946,
+        "longitude": -80.92729
+      },
+      "organization": null,
+      "website": "https://osmuslim.ca/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1233610675",
+      "name": "Masjid Sayyidna Bilal",
+      "province": "Ontario",
+      "city": "Paris",
+      "address": "26 Spruce Street, Paris, Ontario",
+      "coordinates": {
+        "latitude": 43.2023624,
+        "longitude": -80.3958423
+      },
+      "organization": null,
+      "website": "https://parismasjid.ca/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1285001440",
+      "name": "Erin Islamic Cultural Center",
+      "province": "Ontario",
+      "city": "Erin",
+      "address": "103 Main Street, Erin, Ontario",
+      "coordinates": {
+        "latitude": 43.770394,
+        "longitude": -80.0634324
+      },
+      "organization": null,
+      "website": "https://erinislamiccenter.ca/",
+      "phone": "+1-519-833-1035",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1296111434",
+      "name": "Islamic Centre in Yellowknife",
+      "province": "Canada",
+      "city": "",
+      "address": "4100 Wıìlıìdeh (50th) Avenue",
+      "coordinates": {
+        "latitude": 62.4598089,
+        "longitude": -114.3593345
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1333115216",
+      "name": "Abu Bakr Al-Siddiq Masjid",
+      "province": "Saskatchewan",
+      "city": "Moose Jaw",
+      "address": "73 Lancaster Road, Moose Jaw, SK",
+      "coordinates": {
+        "latitude": 50.4175386,
+        "longitude": -105.5173145
+      },
+      "organization": null,
+      "website": "https://iasmoosejaw.com/",
+      "phone": "+13066312567",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1347595602",
+      "name": "Prince George Islamic Centre",
+      "province": "Canada",
+      "city": "",
+      "address": "4668 5th Avenue",
+      "coordinates": {
+        "latitude": 53.9210797,
+        "longitude": -122.818567
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1366369641",
+      "name": "Townline Muslim Centre",
+      "province": "Canada",
+      "city": "Cambridge",
+      "address": "1170 Townline Road, Cambridge",
+      "coordinates": {
+        "latitude": 43.4022068,
+        "longitude": -80.2767592
+      },
+      "organization": null,
+      "website": "https://www.townlinemuslimcentre.ca/contact",
+      "phone": "+1-519-651-0335",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1461796576",
+      "name": "As Salam Mosque and Community Centre",
+      "province": "Saskatchewan",
+      "city": "Regina",
+      "address": "641 Victoria Avenue, Regina, SK",
+      "coordinates": {
+        "latitude": 50.4461848,
+        "longitude": -104.5746125
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
+      "id": "osm_way_1462985077",
+      "name": "Rüh a Rüh Mosque",
+      "province": "Alberta",
+      "city": "Edmonton",
+      "address": "5360 Admiral Girouard Street NW, Edmonton, AB",
+      "coordinates": {
+        "latitude": 53.6006871,
+        "longitude": -113.5130484
+      },
+      "organization": null,
+      "website": "https://ruharuh.ca/",
+      "phone": "+1-825-401-8965",
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "openstreetmap"
+    },
+    {
       "id": "bcma_1",
       "name": "The BC Muslim Association Branches & Chapters",
       "province": "British Columbia",
@@ -5555,49 +11015,6 @@
       "source": "mac"
     },
     {
-      "id": "icna_966",
-      "name": "966 Community Centre",
-      "province": "Ontario",
-      "city": "Mississauga",
-      "address": "966 Dundas St E, Unit 14, Mississauga, ON L4Y 4H5",
-      "coordinates": {
-        "latitude": 43.5997854,
-        "longitude": -79.5932131
-      },
-      "organization": "ICNA Canada",
-      "website": "https://icna.ca/966/",
-      "phone": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:07 am",
-          "iqamah": "5:30 am"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:20 pm",
-          "iqamah": "1:40 pm"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "6:15 pm",
-          "iqamah": "6:30 pm"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "8:07 pm",
-          "iqamah": "8:07 pm"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "9:13 pm",
-          "iqamah": "9:45 pm"
-        }
-      ],
-      "jummah": "01:30 pm",
-      "source": "icna"
-    },
-    {
       "id": "icna_aric",
       "name": "Ar-Rehman Islamic Centre (ARIC)",
       "province": "Ontario",
@@ -5629,49 +11046,6 @@
       "phone": null,
       "prayerTimes": [],
       "jummah": null,
-      "source": "icna"
-    },
-    {
-      "id": "icna_milton",
-      "name": "Islamic Community Centre of Milton (ICCM)",
-      "province": "Ontario",
-      "city": "Milton",
-      "address": "8069 Esquesing Line, Milton, ON L9T 7L4",
-      "coordinates": {
-        "latitude": 43.5426707,
-        "longitude": -79.8768914
-      },
-      "organization": "ICNA Canada",
-      "website": "http://www.icnamilton.com",
-      "phone": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:11 am",
-          "iqamah": "5:45 am"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:22 pm",
-          "iqamah": "1:40 pm"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "5:10 pm",
-          "iqamah": "6:30 pm"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "8:10 pm",
-          "iqamah": "8:16 pm"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "9:36 pm",
-          "iqamah": "10:00 pm"
-        }
-      ],
-      "jummah": "01:30 pm",
       "source": "icna"
     },
     {
@@ -5709,23 +11083,6 @@
       "source": "icna"
     },
     {
-      "id": "icna_edmonton",
-      "name": "Al-Falah Islamic Centre Edmonton",
-      "province": "Alberta",
-      "city": "Edmonton",
-      "address": "2401 47 St NW, Edmonton, AB T6L 4P6",
-      "coordinates": {
-        "latitude": 53.4557345,
-        "longitude": -113.4146844
-      },
-      "organization": "ICNA Canada",
-      "website": "https://icna.ca/",
-      "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
-      "source": "icna"
-    },
-    {
       "id": "icna_newfoundland",
       "name": "Al-Falah Islamic Centre St. John's",
       "province": "Newfoundland and Labrador",
@@ -5741,6 +11098,423 @@
       "prayerTimes": [],
       "jummah": null,
       "source": "icna"
+    },
+    {
+      "id": "awqat_5a7c9ed9-23f9-4ea2-8503-0944ade1ea5d",
+      "name": "Coquitlam Islamic Centre",
+      "province": "British Columbia",
+      "city": "Coquitlam",
+      "address": "202-504 Cottonwood Ave, Coquitlam, British Columbia, Canada",
+      "coordinates": {
+        "latitude": 49.258965,
+        "longitude": -122.8924772
+      },
+      "organization": "AlHikmah Foundation",
+      "website": null,
+      "phone": null,
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:38 AM",
+          "iqamah": "5:15 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:17 AM",
+          "iqamah": "6:17 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:14 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "6:03 PM",
+          "iqamah": "6:15 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:10 PM",
+          "iqamah": "8:15 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:49 PM",
+          "iqamah": "10:00 PM"
+        }
+      ],
+      "jummah": "1:35 PM",
+      "source": "awqat"
+    },
+    {
+      "id": "awqat_2a182e04-7959-4b22-b8a1-4b575c8c825c",
+      "name": "Fort St John Musallah",
+      "province": "British Columbia",
+      "city": "Fort St. John",
+      "address": "9715 102nd Street, Fort St. John, British Columbia, Canada",
+      "coordinates": null,
+      "organization": "Peace River Muslim Association",
+      "website": null,
+      "phone": null,
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "3:48 AM",
+          "iqamah": "4:03 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "5:50 AM",
+          "iqamah": "5:50 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:06 PM",
+          "iqamah": "1:21 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "4:59 PM",
+          "iqamah": "5:14 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:20 PM",
+          "iqamah": "8:25 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "10:25 PM",
+          "iqamah": "10:40 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
+    },
+    {
+      "id": "awqat_fede16e1-7b38-4abc-8473-2a832651a334",
+      "name": "Masjid Al Sahaba",
+      "province": "British Columbia",
+      "city": "Langley",
+      "address": "5768 203 St, Langley, British Columbia, Canada",
+      "coordinates": {
+        "latitude": 49.1170096,
+        "longitude": -122.660159
+      },
+      "organization": "Islamic Waqf Of Canada",
+      "website": "https://www.islamicwaqf.ca/",
+      "phone": null,
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:38 AM",
+          "iqamah": "5:15 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:16 AM",
+          "iqamah": "6:16 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:13 PM",
+          "iqamah": "1:45 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:03 PM",
+          "iqamah": "5:30 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:09 PM",
+          "iqamah": "8:14 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:47 PM",
+          "iqamah": "10:00 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
+    },
+    {
+      "id": "awqat_fa41d767-cac8-49f4-89b3-2073f224d0f7",
+      "name": "Al Ihsan Islamic Centre",
+      "province": "British Columbia",
+      "city": "Port Moody",
+      "address": "2701B Esplanade Street, Port Moody, British Columbia, Canada",
+      "coordinates": null,
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:37 AM",
+          "iqamah": "5:00 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:14 AM",
+          "iqamah": "6:14 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:15 PM",
+          "iqamah": "1:45 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:05 PM",
+          "iqamah": "5:30 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:13 PM",
+          "iqamah": "8:20 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:51 PM",
+          "iqamah": "10:00 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
+    },
+    {
+      "id": "awqat_b5e1a759-5980-4347-be43-8723e3dcaa72",
+      "name": "Abu Bakr Islamic Centre",
+      "province": "British Columbia",
+      "city": "Surrey",
+      "address": "7375 144 Street, Surrey, British Columbia, Canada",
+      "coordinates": {
+        "latitude": 49.0520145,
+        "longitude": -122.8232918
+      },
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:14 AM",
+          "iqamah": "5:40 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:15 AM",
+          "iqamah": "6:15 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:14 PM",
+          "iqamah": "2:00 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "6:03 PM",
+          "iqamah": "6:30 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:12 PM",
+          "iqamah": "8:12 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "10:03 PM",
+          "iqamah": "10:30 PM"
+        }
+      ],
+      "jummah": "1:15 PM",
+      "source": "awqat"
+    },
+    {
+      "id": "awqat_3fc905d5-5fc3-4d74-975c-f167c425e315",
+      "name": "Fleetwood Islamic Academy Society of BC",
+      "province": "British Columbia",
+      "city": "Surrey",
+      "address": "Unit 209 - 210, 8462 162 Street, Surrey, British Columbia, Canada",
+      "coordinates": null,
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:17 AM",
+          "iqamah": "5:30 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:16 AM",
+          "iqamah": "6:16 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:24 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "6:03 PM",
+          "iqamah": "6:40 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:16 PM",
+          "iqamah": "8:18 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:47 PM",
+          "iqamah": "10:10 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
+    },
+    {
+      "id": "awqat_01b11b55-7156-4559-a05c-e1534d99d943",
+      "name": "Surrey Jamea Masjid",
+      "province": "British Columbia",
+      "city": "Surrey",
+      "address": "12407 72nd Ave, Surrey, British Columbia, Canada",
+      "coordinates": null,
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:14 AM",
+          "iqamah": "5:30 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:15 AM",
+          "iqamah": "6:15 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:14 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:04 PM",
+          "iqamah": "6:50 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:12 PM",
+          "iqamah": "8:12 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "10:03 PM",
+          "iqamah": "10:13 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
+    },
+    {
+      "id": "awqat_42a4f039-5e07-4241-a8ab-e067199cf5fe",
+      "name": "Ajyal Islamic Center",
+      "province": "British Columbia",
+      "city": "Vancouver",
+      "address": "181 Keefer Street, Unit 202, Vancouver, BC, CA",
+      "coordinates": {
+        "latitude": 49.2794985,
+        "longitude": -123.1005564
+      },
+      "organization": "Located in Downtown Vancouver",
+      "website": "https://www.ajyal.ca/",
+      "phone": null,
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:39 AM",
+          "iqamah": "5:20 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:17 AM",
+          "iqamah": "6:17 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:15 PM",
+          "iqamah": "1:30 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:05 PM",
+          "iqamah": "5:14 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:11 PM",
+          "iqamah": "8:16 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:49 PM",
+          "iqamah": "9:54 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
+    },
+    {
+      "id": "awqat_eae4e528-be10-493f-abe6-b96f0125a74a",
+      "name": "Granville musallah",
+      "province": "British Columbia",
+      "city": "Vancouver",
+      "address": "695 Smithe St Vancouver BC V6B 2C9 Canada, Vancouver, BC, CA",
+      "coordinates": null,
+      "organization": "Vancouver downtown musallah on Granville and Smithe street",
+      "website": "https://chat.whatsapp.com/G9TqWh1GIgME9477lZRLCK?mode=gi_t",
+      "phone": null,
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:39 AM",
+          "iqamah": "4:50 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:15 AM",
+          "iqamah": "6:15 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:16 PM",
+          "iqamah": "1:30 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:06 PM",
+          "iqamah": "5:40 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "8:14 PM",
+          "iqamah": "8:19 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:52 PM",
+          "iqamah": "10:50 PM"
+        }
+      ],
+      "jummah": null,
+      "source": "awqat"
     }
   ]
 }
