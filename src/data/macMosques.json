@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-24T03:56:23.029Z",
+  "scrapedAt": "2026-08-24T04:45:08.423Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -143,7 +143,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:11 AM",
+          "adhan": "5:13 AM",
           "iqamah": "5:45 AM"
         },
         {
@@ -153,17 +153,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "6:13 PM",
+          "adhan": "6:12 PM",
           "iqamah": "6:30 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "8:14 PM",
-          "iqamah": "8:18 PM"
+          "adhan": "8:12 PM",
+          "iqamah": "8:16 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "9:40 PM",
+          "adhan": "9:38 PM",
           "iqamah": "9:45 PM"
         }
       ],
@@ -227,7 +227,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:11 am",
+          "adhan": "5:12 am",
           "iqamah": "5:30 am"
         },
         {
@@ -237,17 +237,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "5:13 pm",
+          "adhan": "5:12 pm",
           "iqamah": "6:30 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "8:14 pm",
-          "iqamah": "8:19 pm"
+          "adhan": "8:12 pm",
+          "iqamah": "8:17 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:40 pm",
+          "adhan": "9:38 pm",
           "iqamah": "10:00 pm"
         }
       ],
@@ -297,7 +297,7 @@
     },
     {
       "slug": "westmount",
-      "name": "Westmount Masjid",
+      "name": "MAC Westmount Islamic Centre",
       "province": "Ontario",
       "city": "London",
       "address": "312 Commissioners Rd W Unit 5, London, ON N6J 1Y3",
@@ -353,8 +353,8 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:15 am",
-          "iqamah": "5:45 am"
+          "adhan": "5:17 am",
+          "iqamah": "5:47 am"
         },
         {
           "salat": "Dhuhr",
@@ -363,18 +363,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "5:16 pm",
+          "adhan": "5:15 pm",
           "iqamah": "5:45 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "8:16 pm",
-          "iqamah": "8:23 pm"
+          "adhan": "8:15 pm",
+          "iqamah": "8:22 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:37 pm",
-          "iqamah": "9:47 pm"
+          "adhan": "9:36 pm",
+          "iqamah": "9:46 pm"
         }
       ],
       "jummah": null
@@ -423,7 +423,7 @@
     },
     {
       "slug": "theciic",
-      "name": "Canadian Institute of Islamic Civilization (CIIC)",
+      "name": "The CIIC Montreal",
       "province": "Quebec",
       "city": "Montreal",
       "address": "615 Rue Belmont, Montréal, QC H3B 2L8",
@@ -520,13 +520,13 @@
     },
     {
       "slug": "ccv",
-      "name": "Accueil",
+      "name": "Centre Communautaire Villeray (CCV) / Mosquée Aboubakr",
       "province": "Quebec",
       "city": "Montreal",
       "address": "371, Rue Jean-Talon, Montreal, QC H2R1T4\n (514) 506-8899\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tFacebook",
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/ccv/fr/accueil/",
+      "website": "https://centres.macnet.ca/ccv/",
       "phone": "(514) 506-8899",
       "prayerTimes": [
         {
@@ -573,28 +573,28 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "4:35 am",
-          "iqamah": "5:00 am"
+          "adhan": "4:37 am",
+          "iqamah": "5:15 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "12:58 pm",
+          "adhan": "12:57 pm",
           "iqamah": "1:15 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "4:47 pm",
+          "adhan": "4:46 pm",
           "iqamah": "5:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:50 pm",
-          "iqamah": "7:55 pm"
+          "adhan": "7:49 pm",
+          "iqamah": "7:54 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:20 pm",
-          "iqamah": "9:25 pm"
+          "adhan": "9:18 pm",
+          "iqamah": "9:23 pm"
         }
       ],
       "jummah": null
@@ -615,28 +615,28 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "4:35 am",
+          "adhan": "4:37 am",
           "iqamah": "5:15 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "12:58 pm",
+          "adhan": "12:57 pm",
           "iqamah": "1:30 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "4:47 pm",
+          "adhan": "4:46 pm",
           "iqamah": "5:15 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:50 pm",
-          "iqamah": "7:55 pm"
+          "adhan": "7:49 pm",
+          "iqamah": "7:54 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:20 pm",
-          "iqamah": "9:25 pm"
+          "adhan": "9:18 pm",
+          "iqamah": "9:23 pm"
         }
       ],
       "jummah": null
@@ -685,7 +685,7 @@
     },
     {
       "slug": "qic",
-      "name": "Qurtuba Islamic Centre",
+      "name": "MAC Qurtuba",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1950 Merivale Rd, Ottawa, ON K2G 5T5, Canada",
@@ -701,7 +701,7 @@
     },
     {
       "slug": "mycentre",
-      "name": "MAC Islamic Centre",
+      "name": "Islamic Centre Ottawa",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1085 Grenon Ave, Ottawa, ON, Canada",
@@ -717,7 +717,7 @@
     },
     {
       "slug": "masjidtoronto",
-      "name": "Masjid Toronto Dundas & Adelaide",
+      "name": "Masjid Toronto (Dundas & Adelaide)",
       "province": "Ontario",
       "city": "Toronto",
       "address": "168 Dundas St. West, Toronto, ON M5G 1C6 Canada",
@@ -815,27 +815,27 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:15 am",
+          "adhan": "5:16 am",
           "iqamah": "6:00 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "1:35 pm",
+          "adhan": "1:34 pm",
           "iqamah": "2:00 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "5:21 pm",
+          "adhan": "5:20 pm",
           "iqamah": "5:45 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "8:23 pm",
-          "iqamah": "8:28 pm"
+          "adhan": "8:21 pm",
+          "iqamah": "8:26 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:44 pm",
+          "adhan": "9:42 pm",
           "iqamah": "10:00 pm"
         }
       ],
