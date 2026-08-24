@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-24T05:40:18.712Z",
+  "scrapedAt": "2026-08-24T06:50:39.717Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -59,8 +59,8 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:06 am",
-          "iqamah": "5:26 am"
+          "adhan": "5:07 am",
+          "iqamah": "5:27 am"
         },
         {
           "salat": "Dhuhr",
@@ -69,18 +69,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "5:30 pm",
+          "adhan": "5:29 pm",
           "iqamah": "6:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "8:41 pm",
-          "iqamah": "8:51 pm"
+          "adhan": "8:39 pm",
+          "iqamah": "8:49 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "10:11 pm",
-          "iqamah": "10:16 pm"
+          "adhan": "10:09 pm",
+          "iqamah": "10:14 pm"
         }
       ],
       "jummah": null
@@ -297,7 +297,7 @@
     },
     {
       "slug": "westmount",
-      "name": "Westmount Masjid",
+      "name": "MAC Westmount Islamic Centre",
       "province": "Ontario",
       "city": "London",
       "address": "312 Commissioners Rd W Unit 5, London, ON N6J 1Y3",
@@ -717,7 +717,7 @@
     },
     {
       "slug": "masjidtoronto",
-      "name": "Masjid Toronto Dundas & Adelaide",
+      "name": "Masjid Toronto (Dundas & Adelaide)",
       "province": "Ontario",
       "city": "Toronto",
       "address": "168 Dundas St. West, Toronto, ON M5G 1C6 Canada",
@@ -759,7 +759,7 @@
     },
     {
       "slug": "macvancouvercentre",
-      "name": "MAC Vancouver Center",
+      "name": "MAC Vancouver Centre",
       "province": "British Columbia",
       "city": "Vancouver",
       "address": "2122 Kingsway, Vancouver, BC V5N 2T5",
@@ -843,13 +843,13 @@
     },
     {
       "slug": "edmonton",
-      "name": "MAC edmonton",
+      "name": "Edmonton Chapter",
       "province": "Ontario",
       "city": "",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://chapters.macnet.ca/edmonton",
+      "website": "https://chapters.macnet.ca/edmonton/",
       "phone": null,
       "prayerTimes": [],
       "jummah": null
