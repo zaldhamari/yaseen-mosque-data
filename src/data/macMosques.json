@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-24T15:40:08.488Z",
+  "scrapedAt": "2026-08-24T16:33:25.183Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -8,8 +8,8 @@
       "city": "Cold Lake",
       "address": "5003 50 Ave, Cold Lake, AB T9M 1X6",
       "coordinates": {
-        "latitude": 54.41334,
-        "longitude": -110.1933829
+        "latitude": 54.4133827,
+        "longitude": -110.2126489
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/coldlake/",
@@ -297,7 +297,7 @@
     },
     {
       "slug": "westmount",
-      "name": "Westmount Masjid",
+      "name": "MAC Westmount Islamic Centre",
       "province": "Ontario",
       "city": "London",
       "address": "312 Commissioners Rd W Unit 5, London, ON N6J 1Y3",
@@ -520,13 +520,13 @@
     },
     {
       "slug": "ccv",
-      "name": "Accueil",
+      "name": "Centre Communautaire Villeray (CCV) / Mosquée Aboubakr",
       "province": "Quebec",
       "city": "Montreal",
       "address": "371, Rue Jean-Talon, Montreal, QC H2R1T4\n (514) 506-8899\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tFacebook",
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/ccv/fr/accueil/",
+      "website": "https://centres.macnet.ca/ccv/",
       "phone": "(514) 506-8899",
       "prayerTimes": [
         {
@@ -559,7 +559,7 @@
     },
     {
       "slug": "civ",
-      "name": "Centre Islamique de Verdun (CIV)",
+      "name": "Centre Islamique de Verdun (MAC)",
       "province": "Quebec",
       "city": "Montreal",
       "address": "4538 Rue de VerdunVerdun, Montreal, QC H4G 1M3",
@@ -568,7 +568,7 @@
         "longitude": -73.571548
       },
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/civ/",
+      "website": "https://centres.macnet.ca/civ/fr/",
       "phone": "(514) 508-9419",
       "prayerTimes": [
         {
@@ -643,7 +643,7 @@
     },
     {
       "slug": "bic",
-      "name": "MAC Barrhaven Islamic Centre",
+      "name": "Barrhaven Islamic Centre",
       "province": "Ontario",
       "city": "Nepean",
       "address": "3971 Greenbank Road,Nepean, ON K2C 3H2  info@bic.macnet.ca",
