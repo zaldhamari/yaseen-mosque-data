@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-25T05:33:15.436Z",
+  "scrapedAt": "2026-08-25T06:44:04.667Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -8,8 +8,8 @@
       "city": "Cold Lake",
       "address": "5003 50 Ave, Cold Lake, AB T9M 1X6",
       "coordinates": {
-        "latitude": 54.41334,
-        "longitude": -110.1933829
+        "latitude": 54.4133827,
+        "longitude": -110.2126489
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/coldlake/",
@@ -59,41 +59,41 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:07 am",
-          "iqamah": "5:27 am"
+          "adhan": "5:09 am",
+          "iqamah": "5:29 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "1:39 pm",
+          "adhan": "1:38 pm",
           "iqamah": "2:00 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "5:29 pm",
+          "adhan": "5:28 pm",
           "iqamah": "6:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "8:39 pm",
-          "iqamah": "8:49 pm"
+          "adhan": "8:37 pm",
+          "iqamah": "8:47 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "10:09 pm",
-          "iqamah": "10:14 pm"
+          "adhan": "10:07 pm",
+          "iqamah": "10:12 pm"
         }
       ],
       "jummah": null
     },
     {
       "slug": "rahmamosque",
-      "name": "MAC Islamic Centre (Rahma Mosque)",
+      "name": "Rahma Mosque",
       "province": "Alberta",
       "city": "Edmonton",
       "address": "6104 172 St NW, Edmonton, AB T6M 1G9",
       "coordinates": {
-        "latitude": 53.4969222,
-        "longitude": -113.6211177
+        "latitude": 53.4964557,
+        "longitude": -113.6216659
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/rahmamosque/",
@@ -297,7 +297,7 @@
     },
     {
       "slug": "westmount",
-      "name": "MAC Westmount Islamic Centre",
+      "name": "Westmount Masjid",
       "province": "Ontario",
       "city": "London",
       "address": "312 Commissioners Rd W Unit 5, London, ON N6J 1Y3",
@@ -520,18 +520,18 @@
     },
     {
       "slug": "ccv",
-      "name": "Centre Communautaire Villeray (CCV) / Mosquée Aboubakr",
+      "name": "Accueil",
       "province": "Quebec",
       "city": "Montreal",
       "address": "371, Rue Jean-Talon, Montreal, QC H2R1T4\n (514) 506-8899\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tFacebook",
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/ccv/",
+      "website": "https://centres.macnet.ca/ccv/fr/accueil/",
       "phone": "(514) 506-8899",
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "4:37 am",
+          "adhan": "4:39 am",
           "iqamah": "5:15 am"
         },
         {
@@ -541,18 +541,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:47 pm",
+          "adhan": "4:46 pm",
           "iqamah": "5:15 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:49 pm",
-          "iqamah": "7:54 pm"
+          "adhan": "7:47 pm",
+          "iqamah": "7:52 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:19 pm",
-          "iqamah": "9:24 pm"
+          "adhan": "9:17 pm",
+          "iqamah": "9:22 pm"
         }
       ],
       "jummah": "12:00 pm"
