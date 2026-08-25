@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-25T17:28:55.925Z",
+  "scrapedAt": "2026-08-25T18:34:38.075Z",
   "mosques": [
     {
       "id": "979b2ff1-f133-443a-a808-e05ad4273a14",
@@ -12,39 +12,8 @@
       },
       "organization": null,
       "website": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "4:41 AM",
-          "iqamah": "5:15 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "6:17 AM",
-          "iqamah": "6:17 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:15 PM",
-          "iqamah": "1:45 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "5:04 PM",
-          "iqamah": "5:30 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "8:11 PM",
-          "iqamah": "8:16 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "9:49 PM",
-          "iqamah": "10:00 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "a71534e1-caa0-429a-a5c3-e102b4bdce0d",
@@ -333,8 +302,8 @@
       "address": "5768 203 St, Langley, British Columbia, Canada",
       "city": "Langley",
       "coordinates": {
-        "latitude": 49.103121,
-        "longitude": -122.6597012
+        "latitude": 49.1083276,
+        "longitude": -122.6601481
       },
       "organization": "Islamic Waqf Of Canada",
       "website": "https://www.islamicwaqf.ca/",
@@ -468,8 +437,8 @@
       "address": "1398 W. 15th St., North Vancouver, British Columbia, Canada",
       "city": "North Vancouver",
       "coordinates": {
-        "latitude": 49.3222972,
-        "longitude": -123.0958186
+        "latitude": 49.3221378,
+        "longitude": -123.0785916
       },
       "organization": null,
       "website": "https://northvanmasjid.ca/",
@@ -600,8 +569,8 @@
       "address": "7375 144 Street, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.1954314,
-        "longitude": -122.8230573
+        "latitude": 49.192848,
+        "longitude": -122.8230862
       },
       "organization": null,
       "website": null,
@@ -735,8 +704,8 @@
       "address": "17665 66A Ave, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.1238268,
-        "longitude": -122.733699
+        "latitude": 49.1234506,
+        "longitude": -122.7333016
       },
       "organization": "ddd",
       "website": "https://cloverdaleislamiccenter.com/",
@@ -1254,38 +1223,7 @@
       "coordinates": null,
       "organization": "Vancouver downtown musallah on Granville and Smithe street",
       "website": "https://chat.whatsapp.com/G9TqWh1GIgME9477lZRLCK?mode=gi_t",
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "4:41 AM",
-          "iqamah": "4:50 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "6:17 AM",
-          "iqamah": "6:17 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:15 PM",
-          "iqamah": "1:30 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "5:05 PM",
-          "iqamah": "5:40 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "8:12 PM",
-          "iqamah": "8:17 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "9:50 PM",
-          "iqamah": "10:50 PM"
-        }
-      ],
+      "prayerTimes": [],
       "jummah": null
     },
     {
