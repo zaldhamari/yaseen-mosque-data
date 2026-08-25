@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-25T02:23:14.356Z",
+  "scrapedAt": "2026-08-25T03:49:28.147Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -8,8 +8,8 @@
       "city": "Cold Lake",
       "address": "5003 50 Ave, Cold Lake, AB T9M 1X6",
       "coordinates": {
-        "latitude": 54.41334,
-        "longitude": -110.1933829
+        "latitude": 54.4133827,
+        "longitude": -110.2126489
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/coldlake/",
@@ -87,13 +87,13 @@
     },
     {
       "slug": "rahmamosque",
-      "name": "MAC Islamic Centre (Rahma Mosque)",
+      "name": "Rahma Mosque",
       "province": "Alberta",
       "city": "Edmonton",
       "address": "6104 172 St NW, Edmonton, AB T6M 1G9",
       "coordinates": {
-        "latitude": 53.4964557,
-        "longitude": -113.6216659
+        "latitude": 53.4969222,
+        "longitude": -113.6211177
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/rahmamosque/",
@@ -185,28 +185,28 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:13 am",
-          "iqamah": "5:45 am"
+          "adhan": "4:37 am",
+          "iqamah": "5:30 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "1:25 pm",
+          "adhan": "1:29 pm",
           "iqamah": "1:45 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "5:12 pm",
-          "iqamah": "6:30 pm"
+          "adhan": "5:28 pm",
+          "iqamah": "6:45 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "8:12 pm",
-          "iqamah": "8:12 pm"
+          "adhan": "8:46 pm",
+          "iqamah": "8:45 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:38 pm",
-          "iqamah": "10:00 pm"
+          "adhan": "10:21 pm",
+          "iqamah": "10:30 pm"
         }
       ],
       "jummah": "1:30 pm"
@@ -297,7 +297,7 @@
     },
     {
       "slug": "westmount",
-      "name": "MAC Westmount Islamic Centre",
+      "name": "Westmount Masjid",
       "province": "Ontario",
       "city": "London",
       "address": "312 Commissioners Rd W Unit 5, London, ON N6J 1Y3",
@@ -423,7 +423,7 @@
     },
     {
       "slug": "theciic",
-      "name": "Canadian Institute of Islamic Civilization (CIIC)",
+      "name": "The CIIC Montreal",
       "province": "Quebec",
       "city": "Montreal",
       "address": "615 Rue Belmont, Montréal, QC H3B 2L8",
@@ -439,13 +439,13 @@
     },
     {
       "slug": "mac-quebec",
-      "name": "Centre communautaire MAC, ville de Québec",
+      "name": "Centre Communautaire MAC (Ville de Québec)",
       "province": "Quebec",
       "city": "Quebec City",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/mac-quebec/fr/",
+      "website": "https://centres.macnet.ca/mac-quebec/",
       "phone": null,
       "prayerTimes": [
         {
@@ -520,13 +520,13 @@
     },
     {
       "slug": "ccv",
-      "name": "Centre Communautaire Villeray (CCV) / Mosquée Aboubakr",
+      "name": "Accueil",
       "province": "Quebec",
       "city": "Montreal",
       "address": "371, Rue Jean-Talon, Montreal, QC H2R1T4\n (514) 506-8899\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tFacebook",
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/ccv/",
+      "website": "https://centres.macnet.ca/ccv/fr/accueil/",
       "phone": "(514) 506-8899",
       "prayerTimes": [
         {
@@ -685,7 +685,7 @@
     },
     {
       "slug": "qic",
-      "name": "MAC Qurtuba",
+      "name": "Qurtuba Islamic Centre",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1950 Merivale Rd, Ottawa, ON K2G 5T5, Canada",
@@ -759,7 +759,7 @@
     },
     {
       "slug": "macvancouvercentre",
-      "name": "MAC Vancouver Centre",
+      "name": "MAC Vancouver Center",
       "province": "British Columbia",
       "city": "Vancouver",
       "address": "2122 Kingsway, Vancouver, BC V5N 2T5",
@@ -843,13 +843,13 @@
     },
     {
       "slug": "edmonton",
-      "name": "MAC edmonton",
+      "name": "Edmonton Chapter",
       "province": "Ontario",
       "city": "",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://chapters.macnet.ca/edmonton",
+      "website": "https://chapters.macnet.ca/edmonton/",
       "phone": null,
       "prayerTimes": [],
       "jummah": null
