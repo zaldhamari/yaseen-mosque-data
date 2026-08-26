@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-26T16:16:19.820Z",
+  "scrapedAt": "2026-08-26T18:57:19.621Z",
   "mosques": [
     {
       "id": "979b2ff1-f133-443a-a808-e05ad4273a14",
@@ -12,39 +12,8 @@
       },
       "organization": null,
       "website": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "4:43 AM",
-          "iqamah": "5:15 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "6:18 AM",
-          "iqamah": "6:18 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:14 PM",
-          "iqamah": "1:45 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "5:03 PM",
-          "iqamah": "5:30 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "8:09 PM",
-          "iqamah": "8:14 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "9:46 PM",
-          "iqamah": "10:00 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "a71534e1-caa0-429a-a5c3-e102b4bdce0d",
@@ -71,39 +40,8 @@
       },
       "organization": null,
       "website": "https://www.bmismosque.com/",
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:10 AM",
-          "iqamah": "5:20 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "6:20 AM",
-          "iqamah": "6:20 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:30 PM",
-          "iqamah": "1:40 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "6:00 PM",
-          "iqamah": "6:10 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "8:07 PM",
-          "iqamah": "8:12 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "9:50 PM",
-          "iqamah": "10:00 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "aee6c992-6831-41c8-9b56-2ca5af4d28ec",
@@ -161,39 +99,8 @@
       },
       "organization": "Al Salam Masjid",
       "website": "https://org.thebcma.com/burnaby",
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "4:21 AM",
-          "iqamah": "5:25 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "6:19 AM",
-          "iqamah": "6:19 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:17 PM",
-          "iqamah": "1:40 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "6:00 PM",
-          "iqamah": "6:15 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "8:10 PM",
-          "iqamah": "8:11 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "9:42 PM",
-          "iqamah": "9:52 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "5a7c9ed9-23f9-4ea2-8503-0944ade1ea5d",
@@ -201,44 +108,13 @@
       "address": "202-504 Cottonwood Ave, Coquitlam, British Columbia, Canada",
       "city": "Coquitlam",
       "coordinates": {
-        "latitude": 49.258965,
-        "longitude": -122.8924772
+        "latitude": 49.2588647,
+        "longitude": -122.8913018
       },
       "organization": "AlHikmah Foundation",
       "website": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "4:42 AM",
-          "iqamah": "5:15 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "6:19 AM",
-          "iqamah": "6:19 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:13 PM",
-          "iqamah": "1:40 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "6:00 PM",
-          "iqamah": "6:15 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "8:06 PM",
-          "iqamah": "8:11 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "9:43 PM",
-          "iqamah": "10:00 PM"
-        }
-      ],
-      "jummah": "1:35 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "a71546cc-d9c5-4441-9407-0d286992c44f",
@@ -251,39 +127,8 @@
       },
       "organization": null,
       "website": "https://org.thebcma.com/delta",
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:30 AM",
-          "iqamah": "5:40 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "6:19 AM",
-          "iqamah": "6:19 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:30 PM",
-          "iqamah": "1:40 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "6:30 PM",
-          "iqamah": "6:40 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "8:08 PM",
-          "iqamah": "8:12 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "10:00 PM",
-          "iqamah": "10:10 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "2a182e04-7959-4b22-b8a1-4b575c8c825c",
@@ -1162,44 +1007,13 @@
       "address": "181 Keefer Street, Unit 202, Vancouver, BC, CA",
       "city": "Vancouver",
       "coordinates": {
-        "latitude": 49.2794985,
-        "longitude": -123.1005564
+        "latitude": 49.2793738,
+        "longitude": -123.0934533
       },
       "organization": "Located in Downtown Vancouver",
       "website": "https://www.ajyal.ca/",
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "4:43 AM",
-          "iqamah": "5:20 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "6:20 AM",
-          "iqamah": "6:20 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:14 PM",
-          "iqamah": "1:30 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "5:02 PM",
-          "iqamah": "5:12 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "8:07 PM",
-          "iqamah": "8:12 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "9:44 PM",
-          "iqamah": "9:49 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "dba7e795-3213-44a1-b8b6-c0c6d49f4126",
