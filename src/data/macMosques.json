@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-26T09:41:49.791Z",
+  "scrapedAt": "2026-08-26T10:36:58.821Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -87,7 +87,7 @@
     },
     {
       "slug": "rahmamosque",
-      "name": "MAC Islamic Centre (Rahma Mosque)",
+      "name": "Rahma Mosque",
       "province": "Alberta",
       "city": "Edmonton",
       "address": "6104 172 St NW, Edmonton, AB T6M 1G9",
@@ -101,7 +101,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "4:08 am",
+          "adhan": "4:11 am",
           "iqamah": "5:30 am"
         },
         {
@@ -111,18 +111,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "5:29 pm",
-          "iqamah": "5:44 pm"
+          "adhan": "5:27 pm",
+          "iqamah": "5:42 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "8:39 pm",
-          "iqamah": "8:44 pm"
+          "adhan": "8:37 pm",
+          "iqamah": "8:42 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "10:50 pm",
-          "iqamah": "10:57 pm"
+          "adhan": "10:46 pm",
+          "iqamah": "10:53 pm"
         }
       ],
       "jummah": "2:00 PM"
@@ -297,7 +297,7 @@
     },
     {
       "slug": "westmount",
-      "name": "MAC Westmount Islamic Centre",
+      "name": "Westmount Masjid",
       "province": "Ontario",
       "city": "London",
       "address": "312 Commissioners Rd W Unit 5, London, ON N6J 1Y3",
@@ -439,13 +439,13 @@
     },
     {
       "slug": "mac-quebec",
-      "name": "Centre Communautaire MAC (Ville de Québec)",
+      "name": "Centre communautaire MAC, ville de Québec",
       "province": "Quebec",
       "city": "Quebec City",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/mac-quebec/",
+      "website": "https://centres.macnet.ca/mac-quebec/fr/",
       "phone": null,
       "prayerTimes": [
         {
@@ -717,7 +717,7 @@
     },
     {
       "slug": "masjidtoronto",
-      "name": "Masjid Toronto Dundas & Adelaide",
+      "name": "Masjid Toronto (Dundas & Adelaide)",
       "province": "Ontario",
       "city": "Toronto",
       "address": "168 Dundas St. West, Toronto, ON M5G 1C6 Canada",
