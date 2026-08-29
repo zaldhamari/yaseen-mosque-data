@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-29T19:09:29.592Z",
+  "scrapedAt": "2026-08-29T22:16:25.589Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -8,8 +8,8 @@
       "city": "Cold Lake",
       "address": "5003 50 Ave, Cold Lake, AB T9M 1X6",
       "coordinates": {
-        "latitude": 54.4133827,
-        "longitude": -110.2126489
+        "latitude": 54.41334,
+        "longitude": -110.1933829
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/coldlake/",
@@ -353,8 +353,8 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:22 am",
-          "iqamah": "5:52 am"
+          "adhan": "5:24 am",
+          "iqamah": "5:54 am"
         },
         {
           "salat": "Dhuhr",
@@ -363,18 +363,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "5:12 pm",
+          "adhan": "5:11 pm",
           "iqamah": "5:45 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "8:08 pm",
-          "iqamah": "8:15 pm"
+          "adhan": "8:06 pm",
+          "iqamah": "8:13 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:30 pm",
-          "iqamah": "9:40 pm"
+          "adhan": "9:28 pm",
+          "iqamah": "9:38 pm"
         }
       ],
       "jummah": null
@@ -439,13 +439,13 @@
     },
     {
       "slug": "mac-quebec",
-      "name": "Centre Communautaire MAC (Ville de Québec)",
+      "name": "Centre communautaire MAC, ville de Québec",
       "province": "Quebec",
       "city": "Quebec City",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/mac-quebec/",
+      "website": "https://centres.macnet.ca/mac-quebec/fr/",
       "phone": null,
       "prayerTimes": [
         {
