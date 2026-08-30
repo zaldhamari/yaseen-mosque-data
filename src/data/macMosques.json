@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-30T20:30:35.047Z",
+  "scrapedAt": "2026-08-30T23:11:13.113Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -8,8 +8,8 @@
       "city": "Cold Lake",
       "address": "5003 50 Ave, Cold Lake, AB T9M 1X6",
       "coordinates": {
-        "latitude": 54.4133827,
-        "longitude": -110.2126489
+        "latitude": 54.41334,
+        "longitude": -110.1933829
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/coldlake/",
@@ -439,13 +439,13 @@
     },
     {
       "slug": "mac-quebec",
-      "name": "Centre Communautaire MAC (Ville de Québec)",
+      "name": "Centre communautaire MAC, ville de Québec",
       "province": "Quebec",
       "city": "Quebec City",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/mac-quebec/",
+      "website": "https://centres.macnet.ca/mac-quebec/fr/",
       "phone": null,
       "prayerTimes": [
         {
@@ -478,7 +478,7 @@
     },
     {
       "slug": "cclmac",
-      "name": "Centre Communautaire Laurentien (MAC)",
+      "name": "Centre Communautaire Laurentien (CCL)",
       "province": "Quebec",
       "city": "Montreal",
       "address": "12265, Boul. Laurentien, Montréal, QC H4K 1N5",
@@ -487,7 +487,7 @@
         "longitude": -73.7224426
       },
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/cclmac/fr/",
+      "website": "https://centres.macnet.ca/cclmac/",
       "phone": "(514) 227-5000",
       "prayerTimes": [
         {
@@ -643,7 +643,7 @@
     },
     {
       "slug": "bic",
-      "name": "Barrhaven Islamic Centre",
+      "name": "MAC Barrhaven Islamic Centre",
       "province": "Ontario",
       "city": "Nepean",
       "address": "3971 Greenbank Road,Nepean, ON K2C 3H2  info@bic.macnet.ca",
@@ -657,35 +657,35 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "4:54 am",
+          "adhan": "4:56 am",
           "iqamah": "5:30 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "1:04 pm",
+          "adhan": "1:03 pm",
           "iqamah": "1:30 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "4:48 pm",
+          "adhan": "4:47 pm",
           "iqamah": "5:45 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:45 pm",
-          "iqamah": "7:50 pm"
+          "adhan": "7:43 pm",
+          "iqamah": "7:48 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:12 pm",
-          "iqamah": "9:17 pm"
+          "adhan": "9:10 pm",
+          "iqamah": "9:15 pm"
         }
       ],
       "jummah": "1:00 pm"
     },
     {
       "slug": "qic",
-      "name": "MAC Qurtuba",
+      "name": "Qurtuba Islamic Centre",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1950 Merivale Rd, Ottawa, ON K2G 5T5, Canada",
@@ -1070,23 +1070,23 @@
         },
         {
           "salat": "Dhuhr",
-          "adhan": "1:25 pm",
+          "adhan": "1:27 pm",
           "iqamah": "2:00 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "5:08 pm",
+          "adhan": "5:11 pm",
           "iqamah": "5:45 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "8:03 pm",
+          "adhan": "8:06 pm",
           "iqamah": "8:12 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:26 pm",
-          "iqamah": "9:41 pm"
+          "adhan": "9:28 pm",
+          "iqamah": "9:43 pm"
         }
       ],
       "jummah": null
