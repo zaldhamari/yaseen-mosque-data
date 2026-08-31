@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-31T17:27:47.719Z",
+  "scrapedAt": "2026-08-31T22:24:27.686Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -269,7 +269,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:20 am",
+          "adhan": "5:21 am",
           "iqamah": "6:00 am"
         },
         {
@@ -279,17 +279,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "5:05 pm",
+          "adhan": "5:04 pm",
           "iqamah": "5:15 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "8:01 pm",
-          "iqamah": "8:06 pm"
+          "adhan": "7:59 pm",
+          "iqamah": "8:04 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:24 pm",
+          "adhan": "9:22 pm",
           "iqamah": "9:30 pm"
         }
       ],
@@ -297,7 +297,7 @@
     },
     {
       "slug": "westmount",
-      "name": "Westmount Masjid",
+      "name": "MAC Westmount Islamic Centre",
       "province": "Ontario",
       "city": "London",
       "address": "312 Commissioners Rd W Unit 5, London, ON N6J 1Y3",
@@ -353,8 +353,8 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:25 am",
-          "iqamah": "5:55 am"
+          "adhan": "5:26 am",
+          "iqamah": "5:56 am"
         },
         {
           "salat": "Dhuhr",
@@ -363,18 +363,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "5:10 pm",
-          "iqamah": "5:45 pm"
+          "adhan": "5:09 pm",
+          "iqamah": "5:30 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "8:05 pm",
-          "iqamah": "8:12 pm"
+          "adhan": "8:03 pm",
+          "iqamah": "8:10 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:27 pm",
-          "iqamah": "9:37 pm"
+          "adhan": "9:25 pm",
+          "iqamah": "9:35 pm"
         }
       ],
       "jummah": null
@@ -423,7 +423,7 @@
     },
     {
       "slug": "theciic",
-      "name": "The CIIC Montreal",
+      "name": "Canadian Institute of Islamic Civilization (CIIC)",
       "province": "Quebec",
       "city": "Montreal",
       "address": "615 Rue Belmont, Montréal, QC H3B 2L8",
@@ -439,39 +439,39 @@
     },
     {
       "slug": "mac-quebec",
-      "name": "Centre Communautaire MAC (Ville de Québec)",
+      "name": "Centre communautaire MAC, ville de Québec",
       "province": "Quebec",
       "city": "Quebec City",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/mac-quebec/",
+      "website": "https://centres.macnet.ca/mac-quebec/fr/",
       "phone": null,
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "4:47 am",
+          "adhan": "4:49 am",
           "iqamah": "5:15 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "12:56 pm",
+          "adhan": "12:55 pm",
           "iqamah": "1:30 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "4:39 pm",
+          "adhan": "4:38 pm",
           "iqamah": "5:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:37 pm",
-          "iqamah": "7:42 pm"
+          "adhan": "7:35 pm",
+          "iqamah": "7:40 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:04 pm",
-          "iqamah": "9:09 pm"
+          "adhan": "9:02 pm",
+          "iqamah": "9:07 pm"
         }
       ],
       "jummah": "12:15 pm"
@@ -815,27 +815,27 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:25 am",
+          "adhan": "5:26 am",
           "iqamah": "6:00 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "1:33 pm",
+          "adhan": "1:32 pm",
           "iqamah": "2:00 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "5:15 pm",
+          "adhan": "5:14 pm",
           "iqamah": "5:30 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "8:11 pm",
-          "iqamah": "8:16 pm"
+          "adhan": "8:10 pm",
+          "iqamah": "8:15 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:30 pm",
+          "adhan": "9:28 pm",
           "iqamah": "9:45 pm"
         }
       ],
