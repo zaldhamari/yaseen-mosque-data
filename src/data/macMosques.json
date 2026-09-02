@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-01T23:00:17.956Z",
+  "scrapedAt": "2026-09-02T00:55:23.714Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -185,27 +185,27 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:24 am",
+          "adhan": "5:25 am",
           "iqamah": "6:00 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "1:23 pm",
+          "adhan": "1:22 pm",
           "iqamah": "1:45 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "5:05 pm",
+          "adhan": "5:04 pm",
           "iqamah": "6:15 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:59 pm",
-          "iqamah": "7:58 pm"
+          "adhan": "7:57 pm",
+          "iqamah": "7:56 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:21 pm",
+          "adhan": "9:19 pm",
           "iqamah": "9:30 pm"
         }
       ],
@@ -269,7 +269,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:23 am",
+          "adhan": "5:24 am",
           "iqamah": "6:00 am"
         },
         {
@@ -279,17 +279,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "5:03 pm",
+          "adhan": "5:02 pm",
           "iqamah": "5:15 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:57 pm",
-          "iqamah": "8:02 pm"
+          "adhan": "7:55 pm",
+          "iqamah": "8:00 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:20 pm",
+          "adhan": "9:18 pm",
           "iqamah": "9:30 pm"
         }
       ],
@@ -439,18 +439,18 @@
     },
     {
       "slug": "mac-quebec",
-      "name": "Centre Communautaire MAC (Ville de Québec)",
+      "name": "Centre communautaire MAC, ville de Québec",
       "province": "Quebec",
       "city": "Quebec City",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/mac-quebec/",
+      "website": "https://centres.macnet.ca/mac-quebec/fr/",
       "phone": null,
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "4:50 am",
+          "adhan": "4:52 am",
           "iqamah": "5:15 am"
         },
         {
@@ -460,18 +460,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:37 pm",
+          "adhan": "4:36 pm",
           "iqamah": "5:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:33 pm",
-          "iqamah": "7:38 pm"
+          "adhan": "7:32 pm",
+          "iqamah": "7:37 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:00 pm",
-          "iqamah": "9:05 pm"
+          "adhan": "8:58 pm",
+          "iqamah": "9:03 pm"
         }
       ],
       "jummah": "12:15 pm"
@@ -492,7 +492,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "4:50 am",
+          "adhan": "4:52 am",
           "iqamah": "5:15 am"
         },
         {
@@ -502,31 +502,31 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:37 pm",
+          "adhan": "4:36 pm",
           "iqamah": "5:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:33 pm",
-          "iqamah": "7:38 pm"
+          "adhan": "7:32 pm",
+          "iqamah": "7:37 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:00 pm",
-          "iqamah": "9:05 pm"
+          "adhan": "8:58 pm",
+          "iqamah": "9:03 pm"
         }
       ],
       "jummah": null
     },
     {
       "slug": "ccv",
-      "name": "Centre Communautaire Villeray (CCV) / Mosquée Aboubakr",
+      "name": "Accueil",
       "province": "Quebec",
       "city": "Montreal",
       "address": "371, Rue Jean-Talon, Montreal, QC H2R1T4\n (514) 506-8899\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tFacebook",
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/ccv/",
+      "website": "https://centres.macnet.ca/ccv/fr/accueil/",
       "phone": "(514) 506-8899",
       "prayerTimes": [
         {
@@ -685,7 +685,7 @@
     },
     {
       "slug": "qic",
-      "name": "Qurtuba Islamic Centre",
+      "name": "MAC Qurtuba",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1950 Merivale Rd, Ottawa, ON K2G 5T5, Canada",
@@ -701,7 +701,7 @@
     },
     {
       "slug": "mycentre",
-      "name": "Islamic Centre Ottawa",
+      "name": "MAC Islamic Centre",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1085 Grenon Ave, Ottawa, ON, Canada",
@@ -717,7 +717,7 @@
     },
     {
       "slug": "masjidtoronto",
-      "name": "Masjid Toronto Dundas & Adelaide",
+      "name": "Masjid Toronto (Dundas & Adelaide)",
       "province": "Ontario",
       "city": "Toronto",
       "address": "168 Dundas St. West, Toronto, ON M5G 1C6 Canada",
