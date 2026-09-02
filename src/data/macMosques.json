@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-02T18:28:10.157Z",
+  "scrapedAt": "2026-09-02T21:37:06.409Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -423,7 +423,7 @@
     },
     {
       "slug": "theciic",
-      "name": "Canadian Institute of Islamic Civilization (CIIC)",
+      "name": "The CIIC Montreal",
       "province": "Quebec",
       "city": "Montreal",
       "address": "615 Rue Belmont, Montréal, QC H3B 2L8",
@@ -439,13 +439,13 @@
     },
     {
       "slug": "mac-quebec",
-      "name": "Centre communautaire MAC, ville de Québec",
+      "name": "Centre Communautaire MAC (Ville de Québec)",
       "province": "Quebec",
       "city": "Quebec City",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/mac-quebec/fr/",
+      "website": "https://centres.macnet.ca/mac-quebec/",
       "phone": null,
       "prayerTimes": [
         {
@@ -701,7 +701,7 @@
     },
     {
       "slug": "mycentre",
-      "name": "Islamic Centre Ottawa",
+      "name": "MAC Islamic Centre",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1085 Grenon Ave, Ottawa, ON, Canada",
@@ -717,7 +717,7 @@
     },
     {
       "slug": "masjidtoronto",
-      "name": "Masjid Toronto Dundas & Adelaide",
+      "name": "Masjid Toronto (Dundas & Adelaide)",
       "province": "Ontario",
       "city": "Toronto",
       "address": "168 Dundas St. West, Toronto, ON M5G 1C6 Canada",
@@ -843,13 +843,13 @@
     },
     {
       "slug": "edmonton",
-      "name": "Edmonton Chapter",
+      "name": "MAC edmonton",
       "province": "Ontario",
       "city": "",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://chapters.macnet.ca/edmonton/",
+      "website": "https://chapters.macnet.ca/edmonton",
       "phone": null,
       "prayerTimes": [],
       "jummah": null
