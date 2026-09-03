@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-03T16:58:49.410Z",
+  "scrapedAt": "2026-09-03T19:41:44.365Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -423,7 +423,7 @@
     },
     {
       "slug": "theciic",
-      "name": "The CIIC Montreal",
+      "name": "Canadian Institute of Islamic Civilization (CIIC)",
       "province": "Quebec",
       "city": "Montreal",
       "address": "615 Rue Belmont, Montréal, QC H3B 2L8",
@@ -701,7 +701,7 @@
     },
     {
       "slug": "mycentre",
-      "name": "MAC Islamic Centre",
+      "name": "Islamic Centre Ottawa",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1085 Grenon Ave, Ottawa, ON, Canada",
@@ -815,27 +815,27 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:29 am",
+          "adhan": "5:30 am",
           "iqamah": "6:00 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "1:32 pm",
+          "adhan": "1:31 pm",
           "iqamah": "2:00 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "5:12 pm",
+          "adhan": "5:11 pm",
           "iqamah": "5:30 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "8:06 pm",
-          "iqamah": "8:11 pm"
+          "adhan": "8:05 pm",
+          "iqamah": "8:10 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:24 pm",
+          "adhan": "9:22 pm",
           "iqamah": "9:45 pm"
         }
       ],
