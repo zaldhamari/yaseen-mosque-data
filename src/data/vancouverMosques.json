@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-03T07:41:31.067Z",
+  "scrapedAt": "2026-09-03T12:31:49.135Z",
   "mosques": [
     {
       "id": "979b2ff1-f133-443a-a808-e05ad4273a14",
@@ -333,8 +333,8 @@
       "address": "5768 203 St, Langley, British Columbia, Canada",
       "city": "Langley",
       "coordinates": {
-        "latitude": 49.1083276,
-        "longitude": -122.6601481
+        "latitude": 49.103121,
+        "longitude": -122.6597012
       },
       "organization": "Islamic Waqf Of Canada",
       "website": "https://www.islamicwaqf.ca/",
@@ -477,7 +477,7 @@
         {
           "salat": "Fajr",
           "adhan": "4:58 AM",
-          "iqamah": "5:34 AM"
+          "iqamah": "5:32 AM"
         },
         {
           "salat": "Sunrise",
@@ -1148,8 +1148,8 @@
       "address": "15515 24 Ave #61, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.0464025,
-        "longitude": -122.7927862
+        "latitude": 49.045875,
+        "longitude": -122.7927916
       },
       "organization": null,
       "website": "https://whiterockmuslims.com/prayer-services",
@@ -1162,8 +1162,8 @@
       "address": "181 Keefer Street, Unit 202, Vancouver, BC, CA",
       "city": "Vancouver",
       "coordinates": {
-        "latitude": 49.2792344,
-        "longitude": -123.1023986
+        "latitude": 49.2793738,
+        "longitude": -123.0934533
       },
       "organization": "Located in Downtown Vancouver",
       "website": "https://www.ajyal.ca/",
@@ -1241,7 +1241,7 @@
         {
           "salat": "Isha",
           "adhan": "9:24 PM",
-          "iqamah": "10:15 PM"
+          "iqamah": "10:00 PM"
         }
       ],
       "jummah": "1:30 PM"
@@ -1497,7 +1497,7 @@
         {
           "salat": "Fajr",
           "adhan": "4:58 AM",
-          "iqamah": "5:20 AM"
+          "iqamah": "5:30 AM"
         },
         {
           "salat": "Sunrise",
@@ -1522,7 +1522,7 @@
         {
           "salat": "Isha",
           "adhan": "9:24 PM",
-          "iqamah": "9:50 PM"
+          "iqamah": "9:40 PM"
         }
       ],
       "jummah": "2:00 PM"
