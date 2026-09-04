@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-03T22:18:41.664Z",
+  "scrapedAt": "2026-09-04T00:50:35.397Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -269,7 +269,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:26 am",
+          "adhan": "5:27 am",
           "iqamah": "6:00 am"
         },
         {
@@ -279,17 +279,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "5:01 pm",
+          "adhan": "5:00 pm",
           "iqamah": "5:15 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:54 pm",
-          "iqamah": "7:59 pm"
+          "adhan": "7:52 pm",
+          "iqamah": "7:57 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:16 pm",
+          "adhan": "9:14 pm",
           "iqamah": "9:30 pm"
         }
       ],
@@ -297,7 +297,7 @@
     },
     {
       "slug": "westmount",
-      "name": "MAC Westmount Islamic Centre",
+      "name": "Westmount Masjid",
       "province": "Ontario",
       "city": "London",
       "address": "312 Commissioners Rd W Unit 5, London, ON N6J 1Y3",
@@ -423,7 +423,7 @@
     },
     {
       "slug": "theciic",
-      "name": "The CIIC Montreal",
+      "name": "Canadian Institute of Islamic Civilization (CIIC)",
       "province": "Quebec",
       "city": "Montreal",
       "address": "615 Rue Belmont, Montréal, QC H3B 2L8",
@@ -439,18 +439,18 @@
     },
     {
       "slug": "mac-quebec",
-      "name": "Centre Communautaire MAC (Ville de Québec)",
+      "name": "Centre communautaire MAC, ville de Québec",
       "province": "Quebec",
       "city": "Quebec City",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/mac-quebec/",
+      "website": "https://centres.macnet.ca/mac-quebec/fr/",
       "phone": null,
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "4:53 am",
+          "adhan": "4:55 am",
           "iqamah": "5:15 am"
         },
         {
@@ -460,18 +460,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:35 pm",
+          "adhan": "4:34 pm",
           "iqamah": "5:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:30 pm",
-          "iqamah": "7:35 pm"
+          "adhan": "7:28 pm",
+          "iqamah": "7:33 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "8:55 pm",
-          "iqamah": "9:00 pm"
+          "adhan": "8:53 pm",
+          "iqamah": "8:58 pm"
         }
       ],
       "jummah": "12:15 pm"
@@ -492,7 +492,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "4:53 am",
+          "adhan": "4:55 am",
           "iqamah": "5:15 am"
         },
         {
@@ -502,18 +502,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:35 pm",
+          "adhan": "4:34 pm",
           "iqamah": "5:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:30 pm",
-          "iqamah": "7:35 pm"
+          "adhan": "7:28 pm",
+          "iqamah": "7:33 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "8:55 pm",
-          "iqamah": "9:00 pm"
+          "adhan": "8:53 pm",
+          "iqamah": "8:58 pm"
         }
       ],
       "jummah": null
@@ -685,7 +685,7 @@
     },
     {
       "slug": "qic",
-      "name": "MAC Qurtuba",
+      "name": "Qurtuba Islamic Centre",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1950 Merivale Rd, Ottawa, ON K2G 5T5, Canada",
@@ -701,7 +701,7 @@
     },
     {
       "slug": "mycentre",
-      "name": "Islamic Centre Ottawa",
+      "name": "MAC Islamic Centre",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1085 Grenon Ave, Ottawa, ON, Canada",
