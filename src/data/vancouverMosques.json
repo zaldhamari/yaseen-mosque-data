@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-05T09:52:42.028Z",
+  "scrapedAt": "2026-09-05T13:14:32.286Z",
   "mosques": [
     {
       "id": "979b2ff1-f133-443a-a808-e05ad4273a14",
@@ -12,39 +12,8 @@
       },
       "organization": null,
       "website": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:01 AM",
-          "iqamah": "5:30 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "6:32 AM",
-          "iqamah": "6:32 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:11 PM",
-          "iqamah": "1:45 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "4:51 PM",
-          "iqamah": "5:15 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "7:49 PM",
-          "iqamah": "7:54 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "9:21 PM",
-          "iqamah": "9:45 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "a71534e1-caa0-429a-a5c3-e102b4bdce0d",
@@ -468,8 +437,8 @@
       "address": "1398 W. 15th St., North Vancouver, British Columbia, Canada",
       "city": "North Vancouver",
       "coordinates": {
-        "latitude": 49.3222626,
-        "longitude": -123.0911522
+        "latitude": 49.3221378,
+        "longitude": -123.0785916
       },
       "organization": null,
       "website": "https://northvanmasjid.ca/",
@@ -515,39 +484,8 @@
       "coordinates": null,
       "organization": null,
       "website": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:01 AM",
-          "iqamah": "5:25 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "6:32 AM",
-          "iqamah": "6:32 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:11 PM",
-          "iqamah": "1:45 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "4:50 PM",
-          "iqamah": "5:15 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "7:48 PM",
-          "iqamah": "7:55 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "9:21 PM",
-          "iqamah": "9:30 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "0712ba08-ad7c-45f3-8fe3-caaae76dbf4d",
@@ -600,8 +538,8 @@
       "address": "7375 144 Street, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.192848,
-        "longitude": -122.8230862
+        "latitude": 49.1954314,
+        "longitude": -122.8230573
       },
       "organization": null,
       "website": null,
@@ -735,8 +673,8 @@
       "address": "17665 66A Ave, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.1238268,
-        "longitude": -122.733699
+        "latitude": 49.1234506,
+        "longitude": -122.7333016
       },
       "organization": "ddd",
       "website": "https://cloverdaleislamiccenter.com/",
@@ -1162,8 +1100,8 @@
       "address": "181 Keefer Street, Unit 202, Vancouver, BC, CA",
       "city": "Vancouver",
       "coordinates": {
-        "latitude": 49.2793738,
-        "longitude": -123.0934533
+        "latitude": 49.2792344,
+        "longitude": -123.1023986
       },
       "organization": "Located in Downtown Vancouver",
       "website": "https://www.ajyal.ca/",
@@ -1258,7 +1196,7 @@
         {
           "salat": "Fajr",
           "adhan": "5:02 AM",
-          "iqamah": "5:30 AM"
+          "iqamah": "5:35 AM"
         },
         {
           "salat": "Sunrise",
@@ -1273,7 +1211,7 @@
         {
           "salat": "Asr",
           "adhan": "4:51 PM",
-          "iqamah": "5:15 PM"
+          "iqamah": "5:05 PM"
         },
         {
           "salat": "Maghrib",
@@ -1283,7 +1221,7 @@
         {
           "salat": "Isha",
           "adhan": "9:22 PM",
-          "iqamah": "9:45 PM"
+          "iqamah": "9:30 PM"
         }
       ],
       "jummah": null
