@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-06T16:42:15.507Z",
+  "scrapedAt": "2026-09-06T18:51:18.493Z",
   "mosques": [
     {
       "id": "979b2ff1-f133-443a-a808-e05ad4273a14",
@@ -12,8 +12,39 @@
       },
       "organization": null,
       "website": null,
-      "prayerTimes": [],
-      "jummah": null
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:03 AM",
+          "iqamah": "5:30 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:34 AM",
+          "iqamah": "6:34 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:11 PM",
+          "iqamah": "1:45 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "4:49 PM",
+          "iqamah": "5:15 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "7:46 PM",
+          "iqamah": "7:51 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:19 PM",
+          "iqamah": "9:45 PM"
+        }
+      ],
+      "jummah": "1:30 PM"
     },
     {
       "id": "a71534e1-caa0-429a-a5c3-e102b4bdce0d",
@@ -302,13 +333,44 @@
       "address": "5768 203 St, Langley, British Columbia, Canada",
       "city": "Langley",
       "coordinates": {
-        "latitude": 49.1083276,
-        "longitude": -122.6601481
+        "latitude": 49.1024284,
+        "longitude": -122.6597411
       },
       "organization": "Islamic Waqf Of Canada",
       "website": "https://www.islamicwaqf.ca/",
-      "prayerTimes": [],
-      "jummah": null
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:02 AM",
+          "iqamah": "5:30 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:35 AM",
+          "iqamah": "6:35 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:09 PM",
+          "iqamah": "1:45 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "4:47 PM",
+          "iqamah": "5:30 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "7:42 PM",
+          "iqamah": "7:47 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:14 PM",
+          "iqamah": "9:20 PM"
+        }
+      ],
+      "jummah": "1:30 PM"
     },
     {
       "id": "558e3a10-99c3-49e8-8fa9-0c6d8fc5e075",
@@ -538,8 +600,8 @@
       "address": "7375 144 Street, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.1076691,
-        "longitude": -122.8233734
+        "latitude": 49.192848,
+        "longitude": -122.8230862
       },
       "organization": null,
       "website": null,
@@ -945,8 +1007,39 @@
       },
       "organization": null,
       "website": null,
-      "prayerTimes": [],
-      "jummah": null
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:41 AM",
+          "iqamah": "5:50 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:34 AM",
+          "iqamah": "6:34 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:10 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:42 PM",
+          "iqamah": "6:20 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "7:47 PM",
+          "iqamah": "7:47 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:29 PM",
+          "iqamah": "9:39 PM"
+        }
+      ],
+      "jummah": "1:30 PM"
     },
     {
       "id": "8f21a37a-a674-4e8d-bfbf-6626d355ddcd",
@@ -1055,8 +1148,8 @@
       "address": "15515 24 Ave #61, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.0468223,
-        "longitude": -122.7927916
+        "latitude": 49.0464944,
+        "longitude": -122.7919345
       },
       "organization": null,
       "website": "https://whiterockmuslims.com/prayer-services",
@@ -1074,8 +1167,39 @@
       },
       "organization": "Located in Downtown Vancouver",
       "website": "https://www.ajyal.ca/",
-      "prayerTimes": [],
-      "jummah": null
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:03 AM",
+          "iqamah": "5:45 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:36 AM",
+          "iqamah": "6:36 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:11 PM",
+          "iqamah": "1:30 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "4:48 PM",
+          "iqamah": "4:58 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "7:44 PM",
+          "iqamah": "7:49 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:17 PM",
+          "iqamah": "9:22 PM"
+        }
+      ],
+      "jummah": "1:30 PM"
     },
     {
       "id": "dba7e795-3213-44a1-b8b6-c0c6d49f4126",

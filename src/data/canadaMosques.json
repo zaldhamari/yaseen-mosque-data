@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-06T16:53:52.598Z",
-  "totalMosques": 598,
+  "scrapedAt": "2026-09-06T18:59:12.916Z",
+  "totalMosques": 599,
   "provinces": 14,
   "sources": [
     "bc_hardcoded",
@@ -25,8 +25,39 @@
       "organization": null,
       "website": null,
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:03 AM",
+          "iqamah": "5:30 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:34 AM",
+          "iqamah": "6:34 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:11 PM",
+          "iqamah": "1:45 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "4:49 PM",
+          "iqamah": "5:15 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "7:46 PM",
+          "iqamah": "7:51 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:19 PM",
+          "iqamah": "9:45 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
       "source": "awqat"
     },
     {
@@ -352,21 +383,21 @@
       "source": "awqat"
     },
     {
-      "id": "awqat_fede16e1-7b38-4abc-8473-2a832651a334",
+      "id": "bc_masjid_al_sahaba",
       "name": "Masjid Al Sahaba",
       "province": "British Columbia",
       "city": "Langley",
-      "address": "5768 203 St, Langley, British Columbia, Canada",
+      "address": "5768 203 St, Langley, BC V3A 1W5",
       "coordinates": {
-        "latitude": 49.1083276,
-        "longitude": -122.6601481
+        "latitude": 49.1065789,
+        "longitude": -122.6600511
       },
-      "organization": "Islamic Waqf Of Canada",
-      "website": "https://www.islamicwaqf.ca/",
+      "organization": null,
+      "website": null,
       "phone": null,
       "prayerTimes": [],
       "jummah": null,
-      "source": "awqat"
+      "source": "bc_hardcoded"
     },
     {
       "id": "awqat_558e3a10-99c3-49e8-8fa9-0c6d8fc5e075",
@@ -895,8 +926,39 @@
       "organization": null,
       "website": null,
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:41 AM",
+          "iqamah": "5:50 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:34 AM",
+          "iqamah": "6:34 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:10 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:42 PM",
+          "iqamah": "6:20 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "7:47 PM",
+          "iqamah": "7:47 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:29 PM",
+          "iqamah": "9:39 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
       "source": "awqat"
     },
     {
@@ -988,8 +1050,8 @@
       "city": "Surrey",
       "address": "15515 24 Ave #61, Surrey, British Columbia, Canada",
       "coordinates": {
-        "latitude": 49.0468223,
-        "longitude": -122.7927916
+        "latitude": 49.0464944,
+        "longitude": -122.7919345
       },
       "organization": null,
       "website": "https://whiterockmuslims.com/prayer-services",
@@ -1011,8 +1073,39 @@
       "organization": "Located in Downtown Vancouver",
       "website": "https://www.ajyal.ca/",
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:03 AM",
+          "iqamah": "5:45 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:36 AM",
+          "iqamah": "6:36 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:11 PM",
+          "iqamah": "1:30 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "4:48 PM",
+          "iqamah": "4:58 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "7:44 PM",
+          "iqamah": "7:49 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:17 PM",
+          "iqamah": "9:22 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
       "source": "awqat"
     },
     {
@@ -7317,7 +7410,7 @@
         },
         {
           "salat": "Dhuhr",
-          "adhan": "1:19 pm",
+          "adhan": "1:18 pm",
           "iqamah": "1:40 pm"
         },
         {
@@ -11193,6 +11286,54 @@
       "source": "awqat"
     },
     {
+      "id": "awqat_fede16e1-7b38-4abc-8473-2a832651a334",
+      "name": "Masjid Al Sahaba",
+      "province": "British Columbia",
+      "city": "Langley",
+      "address": "5768 203 St, Langley, British Columbia, Canada",
+      "coordinates": {
+        "latitude": 49.1024284,
+        "longitude": -122.6597411
+      },
+      "organization": "Islamic Waqf Of Canada",
+      "website": "https://www.islamicwaqf.ca/",
+      "phone": null,
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:02 AM",
+          "iqamah": "5:30 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:35 AM",
+          "iqamah": "6:35 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:09 PM",
+          "iqamah": "1:45 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "4:47 PM",
+          "iqamah": "5:30 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "7:42 PM",
+          "iqamah": "7:47 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:14 PM",
+          "iqamah": "9:20 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
+    },
+    {
       "id": "awqat_fa41d767-cac8-49f4-89b3-2073f224d0f7",
       "name": "Al Ihsan Islamic Centre",
       "province": "British Columbia",
@@ -11244,8 +11385,8 @@
       "city": "Surrey",
       "address": "7375 144 Street, Surrey, British Columbia, Canada",
       "coordinates": {
-        "latitude": 49.1076691,
-        "longitude": -122.8233734
+        "latitude": 49.192848,
+        "longitude": -122.8230862
       },
       "organization": null,
       "website": null,
