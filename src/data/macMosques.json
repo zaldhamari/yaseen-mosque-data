@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-07T11:27:46.680Z",
+  "scrapedAt": "2026-09-07T21:07:37.270Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -685,7 +685,7 @@
     },
     {
       "slug": "qic",
-      "name": "MAC Qurtuba",
+      "name": "Qurtuba Islamic Centre",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1950 Merivale Rd, Ottawa, ON K2G 5T5, Canada",
@@ -701,7 +701,7 @@
     },
     {
       "slug": "mycentre",
-      "name": "Islamic Centre Ottawa",
+      "name": "MAC Islamic Centre",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1085 Grenon Ave, Ottawa, ON, Canada",
@@ -717,7 +717,7 @@
     },
     {
       "slug": "masjidtoronto",
-      "name": "Masjid Toronto (Dundas & Adelaide)",
+      "name": "Masjid Toronto Dundas & Adelaide",
       "province": "Ontario",
       "city": "Toronto",
       "address": "168 Dundas St. West, Toronto, ON M5G 1C6 Canada",
@@ -1066,7 +1066,7 @@
         {
           "salat": "Fajr",
           "adhan": "5:34 am",
-          "iqamah": "6:06 am"
+          "iqamah": "6:04 am"
         },
         {
           "salat": "Dhuhr",
