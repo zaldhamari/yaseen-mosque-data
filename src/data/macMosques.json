@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-08T12:35:49.098Z",
+  "scrapedAt": "2026-09-08T17:08:16.795Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -297,7 +297,7 @@
     },
     {
       "slug": "westmount",
-      "name": "MAC Westmount Islamic Centre",
+      "name": "Westmount Masjid",
       "province": "Ontario",
       "city": "London",
       "address": "312 Commissioners Rd W Unit 5, London, ON N6J 1Y3",
@@ -643,7 +643,7 @@
     },
     {
       "slug": "bic",
-      "name": "Barrhaven Islamic Centre",
+      "name": "MAC Barrhaven Islamic Centre",
       "province": "Ontario",
       "city": "Nepean",
       "address": "3971 Greenbank Road,Nepean, ON K2C 3H2  info@bic.macnet.ca",
@@ -657,35 +657,35 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:08 am",
+          "adhan": "5:09 am",
           "iqamah": "5:30 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "1:01 pm",
+          "adhan": "1:00 pm",
           "iqamah": "1:30 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "4:38 pm",
+          "adhan": "4:37 pm",
           "iqamah": "5:30 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:29 pm",
-          "iqamah": "7:34 pm"
+          "adhan": "7:27 pm",
+          "iqamah": "7:32 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "8:53 pm",
-          "iqamah": "8:58 pm"
+          "adhan": "8:51 pm",
+          "iqamah": "8:56 pm"
         }
       ],
       "jummah": "1:00 pm"
     },
     {
       "slug": "qic",
-      "name": "MAC Qurtuba",
+      "name": "Qurtuba Islamic Centre",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1950 Merivale Rd, Ottawa, ON K2G 5T5, Canada",
