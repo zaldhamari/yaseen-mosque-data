@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-08T00:01:28.714Z",
+  "scrapedAt": "2026-09-08T02:44:27.282Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -185,27 +185,27 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:32 am",
+          "adhan": "5:34 am",
           "iqamah": "6:00 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "1:21 pm",
+          "adhan": "1:20 pm",
           "iqamah": "1:45 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "4:58 pm",
+          "adhan": "4:57 pm",
           "iqamah": "6:15 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:48 pm",
-          "iqamah": "7:47 pm"
+          "adhan": "7:46 pm",
+          "iqamah": "7:46 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:09 pm",
+          "adhan": "9:07 pm",
           "iqamah": "9:30 pm"
         }
       ],
@@ -269,27 +269,27 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:31 am",
+          "adhan": "5:32 am",
           "iqamah": "6:00 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "1:20 pm",
+          "adhan": "1:19 pm",
           "iqamah": "1:45 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "4:57 pm",
+          "adhan": "4:55 pm",
           "iqamah": "5:15 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:47 pm",
-          "iqamah": "7:52 pm"
+          "adhan": "7:45 pm",
+          "iqamah": "7:50 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:08 pm",
+          "adhan": "9:06 pm",
           "iqamah": "9:15 pm"
         }
       ],
@@ -439,13 +439,13 @@
     },
     {
       "slug": "mac-quebec",
-      "name": "Centre communautaire MAC, ville de Québec",
+      "name": "Centre Communautaire MAC (Ville de Québec)",
       "province": "Quebec",
       "city": "Quebec City",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/mac-quebec/fr/",
+      "website": "https://centres.macnet.ca/mac-quebec/",
       "phone": null,
       "prayerTimes": [
         {
@@ -492,7 +492,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "4:59 am",
+          "adhan": "5:01 am",
           "iqamah": "5:30 am"
         },
         {
@@ -502,18 +502,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:30 pm",
+          "adhan": "4:29 pm",
           "iqamah": "5:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:22 pm",
-          "iqamah": "7:27 pm"
+          "adhan": "7:20 pm",
+          "iqamah": "7:25 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "8:47 pm",
-          "iqamah": "8:52 pm"
+          "adhan": "8:45 pm",
+          "iqamah": "8:50 pm"
         }
       ],
       "jummah": null
@@ -843,13 +843,13 @@
     },
     {
       "slug": "edmonton",
-      "name": "MAC edmonton",
+      "name": "Edmonton Chapter",
       "province": "Ontario",
       "city": "",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://chapters.macnet.ca/edmonton",
+      "website": "https://chapters.macnet.ca/edmonton/",
       "phone": null,
       "prayerTimes": [],
       "jummah": null
