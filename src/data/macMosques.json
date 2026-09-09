@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-09T18:29:57.263Z",
+  "scrapedAt": "2026-09-09T21:35:33.612Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -8,8 +8,8 @@
       "city": "Cold Lake",
       "address": "5003 50 Ave, Cold Lake, AB T9M 1X6",
       "coordinates": {
-        "latitude": 54.41334,
-        "longitude": -110.1933829
+        "latitude": 54.4133827,
+        "longitude": -110.2126489
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/coldlake/",
@@ -269,8 +269,8 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:32 am",
-          "iqamah": "6:00 am"
+          "adhan": "5:34 am",
+          "iqamah": "6:15 am"
         },
         {
           "salat": "Dhuhr",
@@ -279,17 +279,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:55 pm",
-          "iqamah": "5:15 pm"
+          "adhan": "4:54 pm",
+          "iqamah": "5:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:45 pm",
-          "iqamah": "7:50 pm"
+          "adhan": "7:43 pm",
+          "iqamah": "7:48 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:06 pm",
+          "adhan": "9:04 pm",
           "iqamah": "9:15 pm"
         }
       ],
@@ -297,7 +297,7 @@
     },
     {
       "slug": "westmount",
-      "name": "Westmount Masjid",
+      "name": "MAC Westmount Islamic Centre",
       "province": "Ontario",
       "city": "London",
       "address": "312 Commissioners Rd W Unit 5, London, ON N6J 1Y3",
@@ -353,8 +353,8 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:37 am",
-          "iqamah": "6:07 am"
+          "adhan": "5:38 am",
+          "iqamah": "6:08 am"
         },
         {
           "salat": "Dhuhr",
@@ -363,18 +363,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "5:00 pm",
+          "adhan": "4:59 pm",
           "iqamah": "5:30 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:49 pm",
-          "iqamah": "7:56 pm"
+          "adhan": "7:47 pm",
+          "iqamah": "7:54 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:10 pm",
-          "iqamah": "9:20 pm"
+          "adhan": "9:08 pm",
+          "iqamah": "9:18 pm"
         }
       ],
       "jummah": null
@@ -423,7 +423,7 @@
     },
     {
       "slug": "theciic",
-      "name": "Canadian Institute of Islamic Civilization (CIIC)",
+      "name": "The CIIC Montreal",
       "province": "Quebec",
       "city": "Montreal",
       "address": "615 Rue Belmont, Montréal, QC H3B 2L8",
@@ -439,13 +439,13 @@
     },
     {
       "slug": "mac-quebec",
-      "name": "Centre communautaire MAC, ville de Québec",
+      "name": "Centre Communautaire MAC (Ville de Québec)",
       "province": "Quebec",
       "city": "Quebec City",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/mac-quebec/fr/",
+      "website": "https://centres.macnet.ca/mac-quebec/",
       "phone": null,
       "prayerTimes": [
         {
@@ -685,7 +685,7 @@
     },
     {
       "slug": "qic",
-      "name": "Qurtuba Islamic Centre",
+      "name": "MAC Qurtuba",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1950 Merivale Rd, Ottawa, ON K2G 5T5, Canada",
@@ -701,7 +701,7 @@
     },
     {
       "slug": "mycentre",
-      "name": "MAC Islamic Centre",
+      "name": "Islamic Centre Ottawa",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1085 Grenon Ave, Ottawa, ON, Canada",
@@ -717,7 +717,7 @@
     },
     {
       "slug": "masjidtoronto",
-      "name": "Masjid Toronto Dundas & Adelaide",
+      "name": "Masjid Toronto (Dundas & Adelaide)",
       "province": "Ontario",
       "city": "Toronto",
       "address": "168 Dundas St. West, Toronto, ON M5G 1C6 Canada",
