@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-10T19:32:32.270Z",
+  "scrapedAt": "2026-09-10T22:16:07.505Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -8,8 +8,8 @@
       "city": "Cold Lake",
       "address": "5003 50 Ave, Cold Lake, AB T9M 1X6",
       "coordinates": {
-        "latitude": 54.41334,
-        "longitude": -110.1933829
+        "latitude": 54.4133827,
+        "longitude": -110.2126489
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/coldlake/",
@@ -87,7 +87,7 @@
     },
     {
       "slug": "rahmamosque",
-      "name": "MAC Islamic Centre (Rahma Mosque)",
+      "name": "Rahma Mosque",
       "province": "Alberta",
       "city": "Edmonton",
       "address": "6104 172 St NW, Edmonton, AB T6M 1G9",
@@ -185,28 +185,28 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:35 am",
-          "iqamah": "6:00 am"
+          "adhan": "12:00 am",
+          "iqamah": "12:00 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "1:20 pm",
-          "iqamah": "1:45 pm"
+          "adhan": "12:00 am",
+          "iqamah": "12:00 am"
         },
         {
           "salat": "Asr",
-          "adhan": "4:56 pm",
-          "iqamah": "6:15 pm"
+          "adhan": "12:00 am",
+          "iqamah": "12:00 am"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:44 pm",
-          "iqamah": "7:44 pm"
+          "adhan": "12:00 am",
+          "iqamah": "12:00 am"
         },
         {
           "salat": "Isha",
-          "adhan": "9:05 pm",
-          "iqamah": "9:30 pm"
+          "adhan": "12:00 am",
+          "iqamah": "12:00 am"
         }
       ],
       "jummah": "1:30 pm"
@@ -423,7 +423,7 @@
     },
     {
       "slug": "theciic",
-      "name": "Canadian Institute of Islamic Civilization (CIIC)",
+      "name": "The CIIC Montreal",
       "province": "Quebec",
       "city": "Montreal",
       "address": "615 Rue Belmont, Montréal, QC H3B 2L8",
@@ -520,13 +520,13 @@
     },
     {
       "slug": "ccv",
-      "name": "Centre Communautaire Villeray (CCV) / Mosquée Aboubakr",
+      "name": "Accueil",
       "province": "Quebec",
       "city": "Montreal",
       "address": "371, Rue Jean-Talon, Montreal, QC H2R1T4\n (514) 506-8899\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tFacebook",
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/ccv/",
+      "website": "https://centres.macnet.ca/ccv/fr/accueil/",
       "phone": "(514) 506-8899",
       "prayerTimes": [
         {
@@ -643,7 +643,7 @@
     },
     {
       "slug": "bic",
-      "name": "Barrhaven Islamic Centre",
+      "name": "MAC Barrhaven Islamic Centre",
       "province": "Ontario",
       "city": "Nepean",
       "address": "3971 Greenbank Road,Nepean, ON K2C 3H2  info@bic.macnet.ca",
@@ -717,7 +717,7 @@
     },
     {
       "slug": "masjidtoronto",
-      "name": "Masjid Toronto (Dundas & Adelaide)",
+      "name": "Masjid Toronto Dundas & Adelaide",
       "province": "Ontario",
       "city": "Toronto",
       "address": "168 Dundas St. West, Toronto, ON M5G 1C6 Canada",
@@ -843,13 +843,13 @@
     },
     {
       "slug": "edmonton",
-      "name": "Edmonton Chapter",
+      "name": "MAC edmonton",
       "province": "Ontario",
       "city": "",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://chapters.macnet.ca/edmonton/",
+      "website": "https://chapters.macnet.ca/edmonton",
       "phone": null,
       "prayerTimes": [],
       "jummah": null
