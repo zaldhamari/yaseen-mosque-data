@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-12T07:38:28.441Z",
+  "scrapedAt": "2026-09-12T14:53:08.155Z",
   "mosques": [
     {
       "id": "979b2ff1-f133-443a-a808-e05ad4273a14",
@@ -468,8 +468,8 @@
       "address": "1398 W. 15th St., North Vancouver, British Columbia, Canada",
       "city": "North Vancouver",
       "coordinates": {
-        "latitude": 49.3221454,
-        "longitude": -123.0971278
+        "latitude": 49.3222972,
+        "longitude": -123.0958186
       },
       "organization": null,
       "website": "https://northvanmasjid.ca/",
@@ -645,8 +645,8 @@
       "address": "7375 144 Street, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.0520145,
-        "longitude": -122.8232918
+        "latitude": 49.1076691,
+        "longitude": -122.8233734
       },
       "organization": null,
       "website": null,
@@ -1193,8 +1193,8 @@
       "address": "15515 24 Ave #61, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.0468223,
-        "longitude": -122.7927916
+        "latitude": 49.0464944,
+        "longitude": -122.7919345
       },
       "organization": null,
       "website": "https://whiterockmuslims.com/prayer-services",
@@ -1207,8 +1207,8 @@
       "address": "181 Keefer Street, Unit 202, Vancouver, BC, CA",
       "city": "Vancouver",
       "coordinates": {
-        "latitude": 49.2793738,
-        "longitude": -123.0934533
+        "latitude": 49.2792527,
+        "longitude": -123.0872058
       },
       "organization": "Located in Downtown Vancouver",
       "website": "https://www.ajyal.ca/",
@@ -1286,7 +1286,7 @@
         {
           "salat": "Isha",
           "adhan": "9:02 PM",
-          "iqamah": "9:45 PM"
+          "iqamah": "9:30 PM"
         }
       ],
       "jummah": "1:30 PM"
@@ -1474,8 +1474,8 @@
       "address": "4162 Welwyn Street, Vancouver, British Columbia, Canada",
       "city": "Vancouver",
       "coordinates": {
-        "latitude": 49.2456875,
-        "longitude": -123.0699783
+        "latitude": 49.2479585,
+        "longitude": -123.0696038
       },
       "organization": null,
       "website": null,
