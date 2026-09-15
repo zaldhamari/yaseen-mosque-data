@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-15T00:12:27.989Z",
+  "scrapedAt": "2026-09-15T05:44:17.008Z",
   "mosques": [
     {
       "id": "979b2ff1-f133-443a-a808-e05ad4273a14",
@@ -7,8 +7,8 @@
       "address": "204-7060 Waltham Ave, Burnaby, British Columbia, Canada",
       "city": "Burnaby",
       "coordinates": {
-        "latitude": 49.2193772,
-        "longitude": -122.9762093
+        "latitude": 49.2211127,
+        "longitude": -122.9764615
       },
       "organization": null,
       "website": null,
@@ -66,8 +66,8 @@
       "address": "6409 Arbroath St, Burnaby, British Columbia, Canada",
       "city": "Burnaby",
       "coordinates": {
-        "latitude": 49.2185545,
-        "longitude": -122.97022
+        "latitude": 49.2183366,
+        "longitude": -122.9708734
       },
       "organization": null,
       "website": "https://www.bmismosque.com/",
@@ -111,8 +111,8 @@
       "address": "7726 Edmonds St, Burnaby, British Columbia, Canada",
       "city": "Burnaby",
       "coordinates": {
-        "latitude": 49.224285,
-        "longitude": -122.9403307
+        "latitude": 49.2209898,
+        "longitude": -122.946799
       },
       "organization": null,
       "website": null,
@@ -156,13 +156,44 @@
       "address": "5060 Canada Way, Burnaby, British Columbia, Canada",
       "city": "Burnaby",
       "coordinates": {
-        "latitude": 49.2399995,
-        "longitude": -122.964121
+        "latitude": 49.22621,
+        "longitude": -122.9436333
       },
       "organization": "Al Salam Masjid",
       "website": "https://org.thebcma.com/burnaby",
-      "prayerTimes": [],
-      "jummah": null
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:00 AM",
+          "iqamah": "6:00 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:48 AM",
+          "iqamah": "6:48 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:11 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:26 PM",
+          "iqamah": "5:45 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "7:27 PM",
+          "iqamah": "7:28 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "8:53 PM",
+          "iqamah": "9:15 PM"
+        }
+      ],
+      "jummah": "1:30 PM"
     },
     {
       "id": "5a7c9ed9-23f9-4ea2-8503-0944ade1ea5d",
@@ -170,8 +201,8 @@
       "address": "202-504 Cottonwood Ave, Coquitlam, British Columbia, Canada",
       "city": "Coquitlam",
       "coordinates": {
-        "latitude": 49.258965,
-        "longitude": -122.8924772
+        "latitude": 49.2588056,
+        "longitude": -122.886797
       },
       "organization": "AlHikmah Foundation",
       "website": null,
@@ -392,8 +423,8 @@
       "address": "1206 Kingston Street, New Westminster, British Columbia, Canada",
       "city": "New Westminster",
       "coordinates": {
-        "latitude": 49.2099144,
-        "longitude": -122.9338948
+        "latitude": 49.2111013,
+        "longitude": -122.9318308
       },
       "organization": "Canada Islamic Cultural Society (CICS)",
       "website": "https://cicsnw.org/",
@@ -437,8 +468,8 @@
       "address": "1398 W. 15th St., North Vancouver, British Columbia, Canada",
       "city": "North Vancouver",
       "coordinates": {
-        "latitude": 49.3221096,
-        "longitude": -123.0969645
+        "latitude": 49.3222972,
+        "longitude": -123.0958186
       },
       "organization": null,
       "website": "https://northvanmasjid.ca/",
@@ -524,8 +555,8 @@
       "address": "12031 Second Ave, Richmond, British Columbia, Canada",
       "city": "Richmond",
       "coordinates": {
-        "latitude": 49.1246879,
-        "longitude": -123.184256
+        "latitude": 49.1256661,
+        "longitude": -123.1842612
       },
       "organization": null,
       "website": null,
@@ -614,13 +645,44 @@
       "address": "7375 144 Street, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.0520145,
-        "longitude": -122.8232918
+        "latitude": 49.0334349,
+        "longitude": -122.8233158
       },
       "organization": null,
       "website": null,
-      "prayerTimes": [],
-      "jummah": null
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "4:58 AM",
+          "iqamah": "6:10 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:46 AM",
+          "iqamah": "6:46 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:07 PM",
+          "iqamah": "2:00 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:27 PM",
+          "iqamah": "6:00 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "7:25 PM",
+          "iqamah": "7:25 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "9:07 PM",
+          "iqamah": "9:30 PM"
+        }
+      ],
+      "jummah": "1:15 PM"
     },
     {
       "id": "1c6309c5-5dda-4f37-9cbe-d9801190da4d",
@@ -673,8 +735,8 @@
       "address": "9250 Scott Rd, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.1709537,
-        "longitude": -122.8900421
+        "latitude": 49.1933341,
+        "longitude": -122.8894532
       },
       "organization": null,
       "website": null,
@@ -718,8 +780,8 @@
       "address": "17665 66A Ave, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.1238268,
-        "longitude": -122.733699
+        "latitude": 49.1234506,
+        "longitude": -122.7333016
       },
       "organization": "ddd",
       "website": "https://cloverdaleislamiccenter.com/",
@@ -1131,8 +1193,8 @@
       "address": "15515 24 Ave #61, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.045875,
-        "longitude": -122.7927916
+        "latitude": 49.0464944,
+        "longitude": -122.7919345
       },
       "organization": null,
       "website": "https://whiterockmuslims.com/prayer-services",
@@ -1145,8 +1207,8 @@
       "address": "181 Keefer Street, Unit 202, Vancouver, BC, CA",
       "city": "Vancouver",
       "coordinates": {
-        "latitude": 49.2793738,
-        "longitude": -123.0934533
+        "latitude": 49.2794985,
+        "longitude": -123.1005564
       },
       "organization": "Located in Downtown Vancouver",
       "website": "https://www.ajyal.ca/",
