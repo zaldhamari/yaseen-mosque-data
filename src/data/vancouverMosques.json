@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-16T19:21:06.104Z",
+  "scrapedAt": "2026-09-16T22:37:15.192Z",
   "mosques": [
     {
       "id": "979b2ff1-f133-443a-a808-e05ad4273a14",
@@ -40,39 +40,8 @@
       },
       "organization": null,
       "website": "https://www.bmismosque.com/",
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:40 AM",
-          "iqamah": "5:50 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "6:51 AM",
-          "iqamah": "6:51 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:30 PM",
-          "iqamah": "1:40 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "5:30 PM",
-          "iqamah": "5:40 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "7:23 PM",
-          "iqamah": "7:28 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "9:00 PM",
-          "iqamah": "9:10 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "aee6c992-6831-41c8-9b56-2ca5af4d28ec",
@@ -262,39 +231,8 @@
       "coordinates": null,
       "organization": "Peace River Muslim Association",
       "website": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "4:51 AM",
-          "iqamah": "5:06 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "6:36 AM",
-          "iqamah": "6:36 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "12:59 PM",
-          "iqamah": "1:14 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "4:20 PM",
-          "iqamah": "4:35 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "7:20 PM",
-          "iqamah": "7:25 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "9:07 PM",
-          "iqamah": "9:22 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "fede16e1-7b38-4abc-8473-2a832651a334",
@@ -302,8 +240,8 @@
       "address": "5768 203 St, Langley, British Columbia, Canada",
       "city": "Langley",
       "coordinates": {
-        "latitude": 49.1031355,
-        "longitude": -122.6598814
+        "latitude": 49.0988277,
+        "longitude": -122.659821
       },
       "organization": "Islamic Waqf Of Canada",
       "website": "https://www.islamicwaqf.ca/",
@@ -583,8 +521,8 @@
       "address": "7375 144 Street, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.0520145,
-        "longitude": -122.8232918
+        "latitude": 49.192848,
+        "longitude": -122.8230862
       },
       "organization": null,
       "website": null,
@@ -718,8 +656,8 @@
       "address": "17665 66A Ave, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.1238268,
-        "longitude": -122.733699
+        "latitude": 49.1234506,
+        "longitude": -122.7333016
       },
       "organization": "ddd",
       "website": "https://cloverdaleislamiccenter.com/",
@@ -1018,21 +956,10 @@
       },
       "organization": null,
       "website": "https://surreyislamiccenter.com/",
-      "prayerTimes": [],
-      "jummah": null
-    },
-    {
-      "id": "01b11b55-7156-4559-a05c-e1534d99d943",
-      "name": "Surrey Jamea Masjid",
-      "address": "12407 72nd Ave, Surrey, British Columbia, Canada",
-      "city": "Surrey",
-      "coordinates": null,
-      "organization": null,
-      "website": null,
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:00 AM",
+          "adhan": "5:08 AM",
           "iqamah": "6:00 AM"
         },
         {
@@ -1042,26 +969,37 @@
         },
         {
           "salat": "Dhuhr",
-          "adhan": "1:06 PM",
+          "adhan": "1:09 PM",
           "iqamah": "1:40 PM"
         },
         {
           "salat": "Asr",
-          "adhan": "4:33 PM",
-          "iqamah": "6:10 PM"
+          "adhan": "5:25 PM",
+          "iqamah": "5:40 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:23 PM",
-          "iqamah": "7:23 PM"
+          "adhan": "7:25 PM",
+          "iqamah": "7:30 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "9:04 PM",
-          "iqamah": "9:20 PM"
+          "adhan": "8:51 PM",
+          "iqamah": "9:10 PM"
         }
       ],
       "jummah": "1:30 PM"
+    },
+    {
+      "id": "01b11b55-7156-4559-a05c-e1534d99d943",
+      "name": "Surrey Jamea Masjid",
+      "address": "12407 72nd Ave, Surrey, British Columbia, Canada",
+      "city": "Surrey",
+      "coordinates": null,
+      "organization": null,
+      "website": null,
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "e2fb4334-c87a-4372-9761-8a06627305c2",
@@ -1069,8 +1007,8 @@
       "address": "15515 24 Ave #61, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.0464025,
-        "longitude": -122.7927862
+        "latitude": 49.045875,
+        "longitude": -122.7927916
       },
       "organization": null,
       "website": "https://whiterockmuslims.com/prayer-services",
@@ -1088,39 +1026,8 @@
       },
       "organization": "Located in Downtown Vancouver",
       "website": "https://www.ajyal.ca/",
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:21 AM",
-          "iqamah": "5:55 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "6:51 AM",
-          "iqamah": "6:51 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:07 PM",
-          "iqamah": "1:30 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "4:34 PM",
-          "iqamah": "4:44 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "7:23 PM",
-          "iqamah": "7:27 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "8:52 PM",
-          "iqamah": "8:57 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "dba7e795-3213-44a1-b8b6-c0c6d49f4126",
