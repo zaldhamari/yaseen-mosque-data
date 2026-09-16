@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-15T22:45:18.189Z",
+  "scrapedAt": "2026-09-16T01:05:19.374Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -8,8 +8,8 @@
       "city": "Cold Lake",
       "address": "5003 50 Ave, Cold Lake, AB T9M 1X6",
       "coordinates": {
-        "latitude": 54.4133827,
-        "longitude": -110.2126489
+        "latitude": 54.41334,
+        "longitude": -110.1933829
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/coldlake/",
@@ -87,7 +87,7 @@
     },
     {
       "slug": "rahmamosque",
-      "name": "MAC Islamic Centre (Rahma Mosque)",
+      "name": "Rahma Mosque",
       "province": "Alberta",
       "city": "Edmonton",
       "address": "6104 172 St NW, Edmonton, AB T6M 1G9",
@@ -492,7 +492,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:11 am",
+          "adhan": "5:12 am",
           "iqamah": "5:30 am"
         },
         {
@@ -502,18 +502,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:20 pm",
+          "adhan": "4:19 pm",
           "iqamah": "5:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:07 pm",
-          "iqamah": "7:12 pm"
+          "adhan": "7:05 pm",
+          "iqamah": "7:10 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "8:30 pm",
-          "iqamah": "8:35 pm"
+          "adhan": "8:28 pm",
+          "iqamah": "8:33 pm"
         }
       ],
       "jummah": null
@@ -759,7 +759,7 @@
     },
     {
       "slug": "macvancouvercentre",
-      "name": "MAC Vancouver Center",
+      "name": "MAC Vancouver Centre",
       "province": "British Columbia",
       "city": "Vancouver",
       "address": "2122 Kingsway, Vancouver, BC V5N 2T5",
