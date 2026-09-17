@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-17T07:09:04.443Z",
+  "scrapedAt": "2026-09-17T13:05:18.339Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -8,8 +8,8 @@
       "city": "Cold Lake",
       "address": "5003 50 Ave, Cold Lake, AB T9M 1X6",
       "coordinates": {
-        "latitude": 54.41334,
-        "longitude": -110.1933829
+        "latitude": 54.4133827,
+        "longitude": -110.2126489
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/coldlake/",
@@ -87,7 +87,7 @@
     },
     {
       "slug": "rahmamosque",
-      "name": "MAC Islamic Centre (Rahma Mosque)",
+      "name": "Rahma Mosque",
       "province": "Alberta",
       "city": "Edmonton",
       "address": "6104 172 St NW, Edmonton, AB T6M 1G9",
@@ -101,28 +101,28 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:05 am",
+          "adhan": "5:07 am",
           "iqamah": "6:00 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "1:30 pm",
-          "iqamah": "1:45 pm"
+          "adhan": "1:29 pm",
+          "iqamah": "1:44 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "4:54 pm",
-          "iqamah": "5:09 pm"
+          "adhan": "4:53 pm",
+          "iqamah": "5:08 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:46 pm",
-          "iqamah": "7:51 pm"
+          "adhan": "7:44 pm",
+          "iqamah": "7:49 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:41 pm",
-          "iqamah": "9:48 pm"
+          "adhan": "9:38 pm",
+          "iqamah": "9:45 pm"
         }
       ],
       "jummah": "2:00 PM"
@@ -423,7 +423,7 @@
     },
     {
       "slug": "theciic",
-      "name": "The CIIC Montreal",
+      "name": "Canadian Institute of Islamic Civilization (CIIC)",
       "province": "Quebec",
       "city": "Montreal",
       "address": "615 Rue Belmont, Montréal, QC H3B 2L8",
@@ -439,39 +439,39 @@
     },
     {
       "slug": "mac-quebec",
-      "name": "Centre Communautaire MAC (Ville de Québec)",
+      "name": "Centre communautaire MAC, ville de Québec",
       "province": "Quebec",
       "city": "Quebec City",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/mac-quebec/",
+      "website": "https://centres.macnet.ca/mac-quebec/fr/",
       "phone": null,
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:12 am",
+          "adhan": "5:13 am",
           "iqamah": "5:30 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "12:50 pm",
+          "adhan": "12:49 pm",
           "iqamah": "1:30 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "4:19 pm",
+          "adhan": "4:18 pm",
           "iqamah": "5:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:05 pm",
-          "iqamah": "7:10 pm"
+          "adhan": "7:03 pm",
+          "iqamah": "7:08 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "8:28 pm",
-          "iqamah": "8:33 pm"
+          "adhan": "8:25 pm",
+          "iqamah": "8:30 pm"
         }
       ],
       "jummah": "12:15 pm"
@@ -483,8 +483,8 @@
       "city": "Montreal",
       "address": "12265, Boul. Laurentien, Montréal, QC H4K 1N5",
       "coordinates": {
-        "latitude": 45.5307128,
-        "longitude": -73.7246169
+        "latitude": 45.5294142,
+        "longitude": -73.7224426
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/cclmac/fr/",
@@ -685,7 +685,7 @@
     },
     {
       "slug": "qic",
-      "name": "Qurtuba Islamic Centre",
+      "name": "MAC Qurtuba",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1950 Merivale Rd, Ottawa, ON K2G 5T5, Canada",
@@ -717,7 +717,7 @@
     },
     {
       "slug": "masjidtoronto",
-      "name": "Masjid Toronto Dundas & Adelaide",
+      "name": "Masjid Toronto (Dundas & Adelaide)",
       "province": "Ontario",
       "city": "Toronto",
       "address": "168 Dundas St. West, Toronto, ON M5G 1C6 Canada",
