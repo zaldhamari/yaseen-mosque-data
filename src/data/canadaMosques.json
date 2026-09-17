@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-17T13:09:54.342Z",
-  "totalMosques": 602,
+  "scrapedAt": "2026-09-17T17:44:27.947Z",
+  "totalMosques": 600,
   "provinces": 14,
   "sources": [
     "bc_hardcoded",
@@ -25,8 +25,39 @@
       "organization": null,
       "website": null,
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:22 AM",
+          "iqamah": "6:00 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:50 AM",
+          "iqamah": "6:50 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:07 PM",
+          "iqamah": "1:45 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "4:34 PM",
+          "iqamah": "5:00 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "7:23 PM",
+          "iqamah": "7:28 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "8:52 PM",
+          "iqamah": "9:15 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
       "source": "awqat"
     },
     {
@@ -191,21 +222,52 @@
       "source": "awqat"
     },
     {
-      "id": "bc_coquitlam_islamic_centre",
+      "id": "awqat_5a7c9ed9-23f9-4ea2-8503-0944ade1ea5d",
       "name": "Coquitlam Islamic Centre",
       "province": "British Columbia",
       "city": "Coquitlam",
-      "address": "202-504 Cottonwood Ave, Coquitlam, BC V3J 2R4",
+      "address": "202-504 Cottonwood Ave, Coquitlam, British Columbia, Canada",
       "coordinates": {
         "latitude": 49.2588056,
         "longitude": -122.886797
       },
-      "organization": null,
+      "organization": "AlHikmah Foundation",
       "website": null,
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
-      "source": "bc_hardcoded"
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:22 AM",
+          "iqamah": "5:45 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:51 AM",
+          "iqamah": "6:51 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:06 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:23 PM",
+          "iqamah": "5:45 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "7:20 PM",
+          "iqamah": "7:25 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "8:49 PM",
+          "iqamah": "9:15 PM"
+        }
+      ],
+      "jummah": "1:35 PM",
+      "source": "awqat"
     },
     {
       "id": "bc_al_ihsan_port_moody",
@@ -386,21 +448,52 @@
       "source": "awqat"
     },
     {
-      "id": "bc_masjid_ar_rahman_nv",
+      "id": "awqat_e7bfc68e-552f-4921-851a-cf64127aec31",
       "name": "Masjid Ar-Rahman North Vancouver",
       "province": "British Columbia",
       "city": "North Vancouver",
-      "address": "1398 W 15th St, North Vancouver, BC V7P 1M2",
+      "address": "1398 W. 15th St., North Vancouver, British Columbia, Canada",
       "coordinates": {
         "latitude": 49.3221096,
         "longitude": -123.0969645
       },
       "organization": null,
-      "website": null,
+      "website": "https://northvanmasjid.ca/",
       "phone": null,
-      "prayerTimes": [],
-      "jummah": null,
-      "source": "bc_hardcoded"
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:22 AM",
+          "iqamah": "5:53 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:52 AM",
+          "iqamah": "6:52 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:07 PM",
+          "iqamah": "1:30 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "4:32 PM",
+          "iqamah": "4:42 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "7:21 PM",
+          "iqamah": "7:31 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "8:50 PM",
+          "iqamah": "9:00 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
     },
     {
       "id": "awqat_20f192db-eedf-4440-9a9d-dafd70ccafb3",
@@ -570,8 +663,8 @@
       "city": "Surrey",
       "address": "17665 66A Ave, Surrey, British Columbia, Canada",
       "coordinates": {
-        "latitude": 49.1238268,
-        "longitude": -122.733699
+        "latitude": 49.1234506,
+        "longitude": -122.7333016
       },
       "organization": "ddd",
       "website": "https://cloverdaleislamiccenter.com/",
@@ -957,8 +1050,8 @@
       "city": "Surrey",
       "address": "15515 24 Ave #61, Surrey, British Columbia, Canada",
       "coordinates": {
-        "latitude": 49.0461695,
-        "longitude": -122.792788
+        "latitude": 49.045875,
+        "longitude": -122.7927916
       },
       "organization": null,
       "website": "https://whiterockmuslims.com/prayer-services",
@@ -5319,8 +5412,8 @@
       "city": "Mississauga",
       "address": "966 Dundas St E, Unit 14, Mississauga, ON L4Y 4H5",
       "coordinates": {
-        "latitude": 43.6001566,
-        "longitude": -79.5929824
+        "latitude": 43.5997854,
+        "longitude": -79.5932131
       },
       "organization": "ICNA Canada",
       "website": "https://icna.ca/966/",
@@ -7348,7 +7441,7 @@
         },
         {
           "salat": "Dhuhr",
-          "adhan": "1:15 pm",
+          "adhan": "1:14 pm",
           "iqamah": "1:40 pm"
         },
         {
@@ -11100,8 +11193,8 @@
       "city": "Mississauga",
       "address": "1-6120 Montevideo Road, Mississauga, ON L5N 3W5",
       "coordinates": {
-        "latitude": 43.5827414,
-        "longitude": -79.7429206
+        "latitude": 43.5821489,
+        "longitude": -79.7426695
       },
       "organization": "ICNA Canada",
       "website": "http://www.aric-icna.ca/",
@@ -11179,54 +11272,6 @@
       "source": "icna"
     },
     {
-      "id": "awqat_5a7c9ed9-23f9-4ea2-8503-0944ade1ea5d",
-      "name": "Coquitlam Islamic Centre",
-      "province": "British Columbia",
-      "city": "Coquitlam",
-      "address": "202-504 Cottonwood Ave, Coquitlam, British Columbia, Canada",
-      "coordinates": {
-        "latitude": 49.258965,
-        "longitude": -122.8924772
-      },
-      "organization": "AlHikmah Foundation",
-      "website": null,
-      "phone": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:22 AM",
-          "iqamah": "5:45 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "6:51 AM",
-          "iqamah": "6:51 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:06 PM",
-          "iqamah": "1:40 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "5:23 PM",
-          "iqamah": "5:45 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "7:20 PM",
-          "iqamah": "7:25 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "8:49 PM",
-          "iqamah": "9:15 PM"
-        }
-      ],
-      "jummah": "1:35 PM",
-      "source": "awqat"
-    },
-    {
       "id": "awqat_2a182e04-7959-4b22-b8a1-4b575c8c825c",
       "name": "Fort St John Musallah",
       "province": "British Columbia",
@@ -11278,8 +11323,8 @@
       "city": "Langley",
       "address": "5768 203 St, Langley, British Columbia, Canada",
       "coordinates": {
-        "latitude": 49.102411,
-        "longitude": -122.6596769
+        "latitude": 49.1031355,
+        "longitude": -122.6598814
       },
       "organization": "Islamic Waqf Of Canada",
       "website": "https://www.islamicwaqf.ca/",
@@ -11313,54 +11358,6 @@
         {
           "salat": "Isha",
           "adhan": "8:48 PM",
-          "iqamah": "9:00 PM"
-        }
-      ],
-      "jummah": "1:30 PM",
-      "source": "awqat"
-    },
-    {
-      "id": "awqat_e7bfc68e-552f-4921-851a-cf64127aec31",
-      "name": "Masjid Ar-Rahman North Vancouver",
-      "province": "British Columbia",
-      "city": "North Vancouver",
-      "address": "1398 W. 15th St., North Vancouver, British Columbia, Canada",
-      "coordinates": {
-        "latitude": 49.3221378,
-        "longitude": -123.0785916
-      },
-      "organization": null,
-      "website": "https://northvanmasjid.ca/",
-      "phone": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:22 AM",
-          "iqamah": "5:53 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "6:52 AM",
-          "iqamah": "6:52 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:07 PM",
-          "iqamah": "1:30 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "4:32 PM",
-          "iqamah": "4:42 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "7:21 PM",
-          "iqamah": "7:31 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "8:50 PM",
           "iqamah": "9:00 PM"
         }
       ],
@@ -11467,8 +11464,8 @@
       "city": "Surrey",
       "address": "7375 144 Street, Surrey, British Columbia, Canada",
       "coordinates": {
-        "latitude": 49.1076691,
-        "longitude": -122.8233734
+        "latitude": 49.192848,
+        "longitude": -122.8230862
       },
       "organization": null,
       "website": null,

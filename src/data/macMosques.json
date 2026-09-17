@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-17T13:05:18.339Z",
+  "scrapedAt": "2026-09-17T17:37:37.642Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -269,7 +269,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:43 am",
+          "adhan": "5:44 am",
           "iqamah": "6:15 am"
         },
         {
@@ -279,17 +279,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:46 pm",
+          "adhan": "4:45 pm",
           "iqamah": "5:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:30 pm",
-          "iqamah": "7:35 pm"
+          "adhan": "7:28 pm",
+          "iqamah": "7:33 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "8:50 pm",
+          "adhan": "8:48 pm",
           "iqamah": "9:00 pm"
         }
       ],
@@ -353,8 +353,8 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:47 am",
-          "iqamah": "6:17 am"
+          "adhan": "5:48 am",
+          "iqamah": "6:18 am"
         },
         {
           "salat": "Dhuhr",
@@ -363,18 +363,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:51 pm",
+          "adhan": "4:50 pm",
           "iqamah": "5:30 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:35 pm",
-          "iqamah": "7:42 pm"
+          "adhan": "7:33 pm",
+          "iqamah": "7:40 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "8:54 pm",
-          "iqamah": "9:04 pm"
+          "adhan": "8:52 pm",
+          "iqamah": "9:02 pm"
         }
       ],
       "jummah": null
@@ -423,7 +423,7 @@
     },
     {
       "slug": "theciic",
-      "name": "Canadian Institute of Islamic Civilization (CIIC)",
+      "name": "The CIIC Montreal",
       "province": "Quebec",
       "city": "Montreal",
       "address": "615 Rue Belmont, Montréal, QC H3B 2L8",
@@ -701,7 +701,7 @@
     },
     {
       "slug": "mycentre",
-      "name": "Islamic Centre Ottawa",
+      "name": "MAC Islamic Centre",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1085 Grenon Ave, Ottawa, ON, Canada",
@@ -843,13 +843,13 @@
     },
     {
       "slug": "edmonton",
-      "name": "MAC edmonton",
+      "name": "Edmonton Chapter",
       "province": "Ontario",
       "city": "",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://chapters.macnet.ca/edmonton",
+      "website": "https://chapters.macnet.ca/edmonton/",
       "phone": null,
       "prayerTimes": [],
       "jummah": null
