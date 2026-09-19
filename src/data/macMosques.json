@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-19T05:28:32.874Z",
+  "scrapedAt": "2026-09-19T10:15:46.869Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -59,8 +59,8 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:46 am",
-          "iqamah": "6:06 am"
+          "adhan": "5:48 am",
+          "iqamah": "6:08 am"
         },
         {
           "salat": "Dhuhr",
@@ -69,18 +69,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:53 pm",
+          "adhan": "4:52 pm",
           "iqamah": "5:30 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:43 pm",
-          "iqamah": "7:53 pm"
+          "adhan": "7:41 pm",
+          "iqamah": "7:51 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:13 pm",
-          "iqamah": "9:23 pm"
+          "adhan": "9:11 pm",
+          "iqamah": "9:21 pm"
         }
       ],
       "jummah": null
@@ -297,7 +297,7 @@
     },
     {
       "slug": "westmount",
-      "name": "Westmount Masjid",
+      "name": "MAC Westmount Islamic Centre",
       "province": "Ontario",
       "city": "London",
       "address": "312 Commissioners Rd W Unit 5, London, ON N6J 1Y3",
@@ -353,8 +353,8 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:50 am",
-          "iqamah": "6:20 am"
+          "adhan": "5:51 am",
+          "iqamah": "6:21 am"
         },
         {
           "salat": "Dhuhr",
@@ -363,18 +363,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:48 pm",
+          "adhan": "4:47 pm",
           "iqamah": "5:30 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:31 pm",
-          "iqamah": "7:38 pm"
+          "adhan": "7:29 pm",
+          "iqamah": "7:36 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "8:50 pm",
-          "iqamah": "9:00 pm"
+          "adhan": "8:48 pm",
+          "iqamah": "8:58 pm"
         }
       ],
       "jummah": null
@@ -386,8 +386,8 @@
       "city": "Mississauga",
       "address": "2550 Dunwin Dr.\nMississauga, ON L5L 1J5",
       "coordinates": {
-        "latitude": 43.5285308,
-        "longitude": -79.6809361
+        "latitude": 43.529182,
+        "longitude": -79.680928
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/icco/",
@@ -685,7 +685,7 @@
     },
     {
       "slug": "qic",
-      "name": "Qurtuba Islamic Centre",
+      "name": "MAC Qurtuba",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1950 Merivale Rd, Ottawa, ON K2G 5T5, Canada",
@@ -717,7 +717,7 @@
     },
     {
       "slug": "masjidtoronto",
-      "name": "Masjid Toronto Dundas & Adelaide",
+      "name": "Masjid Toronto (Dundas & Adelaide)",
       "province": "Ontario",
       "city": "Toronto",
       "address": "168 Dundas St. West, Toronto, ON M5G 1C6 Canada",
@@ -764,8 +764,8 @@
       "city": "Vancouver",
       "address": "2122 Kingsway, Vancouver, BC V5N 2T5",
       "coordinates": {
-        "latitude": 49.2437319,
-        "longitude": -123.0621637
+        "latitude": 49.2440397,
+        "longitude": -123.063553
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/macvancouvercentre/",
@@ -773,28 +773,28 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:10 am",
+          "adhan": "5:12 am",
           "iqamah": "5:45 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "1:09 pm",
+          "adhan": "1:08 pm",
           "iqamah": "1:45 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "4:34 pm",
+          "adhan": "4:33 pm",
           "iqamah": "5:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:23 pm",
-          "iqamah": "7:49 pm"
+          "adhan": "7:21 pm",
+          "iqamah": "7:47 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "8:55 pm",
-          "iqamah": "9:00 pm"
+          "adhan": "8:52 pm",
+          "iqamah": "8:57 pm"
         }
       ],
       "jummah": null
@@ -843,13 +843,13 @@
     },
     {
       "slug": "edmonton",
-      "name": "MAC edmonton",
+      "name": "Edmonton Chapter",
       "province": "Ontario",
       "city": "",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://chapters.macnet.ca/edmonton",
+      "website": "https://chapters.macnet.ca/edmonton/",
       "phone": null,
       "prayerTimes": [],
       "jummah": null
