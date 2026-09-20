@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-09-20T10:39:08.354Z",
-  "totalMosques": 601,
+  "scrapedAt": "2026-09-20T14:38:20.520Z",
+  "totalMosques": 602,
   "provinces": 14,
   "sources": [
     "bc_hardcoded",
@@ -25,39 +25,8 @@
       "organization": null,
       "website": null,
       "phone": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:27 AM",
-          "iqamah": "6:00 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "6:54 AM",
-          "iqamah": "6:54 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:06 PM",
-          "iqamah": "1:45 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "4:29 PM",
-          "iqamah": "4:45 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "7:16 PM",
-          "iqamah": "7:21 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "8:45 PM",
-          "iqamah": "9:00 PM"
-        }
-      ],
-      "jummah": "1:30 PM",
+      "prayerTimes": [],
+      "jummah": null,
       "source": "awqat"
     },
     {
@@ -138,39 +107,8 @@
       "organization": null,
       "website": null,
       "phone": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:27 AM",
-          "iqamah": "5:45 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "6:56 AM",
-          "iqamah": "6:56 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:05 PM",
-          "iqamah": "1:40 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "4:27 PM",
-          "iqamah": "4:37 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "7:14 PM",
-          "iqamah": "7:19 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "8:42 PM",
-          "iqamah": "8:47 PM"
-        }
-      ],
-      "jummah": "1:30 PM",
+      "prayerTimes": [],
+      "jummah": null,
       "source": "awqat"
     },
     {
@@ -222,52 +160,21 @@
       "source": "awqat"
     },
     {
-      "id": "awqat_5a7c9ed9-23f9-4ea2-8503-0944ade1ea5d",
+      "id": "bc_coquitlam_islamic_centre",
       "name": "Coquitlam Islamic Centre",
       "province": "British Columbia",
       "city": "Coquitlam",
-      "address": "202-504 Cottonwood Ave, Coquitlam, British Columbia, Canada",
+      "address": "202-504 Cottonwood Ave, Coquitlam, BC V3J 2R4",
       "coordinates": {
         "latitude": 49.2588056,
         "longitude": -122.886797
       },
-      "organization": "AlHikmah Foundation",
+      "organization": null,
       "website": null,
       "phone": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:27 AM",
-          "iqamah": "6:00 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "6:55 AM",
-          "iqamah": "6:55 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:05 PM",
-          "iqamah": "1:40 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "5:18 PM",
-          "iqamah": "5:30 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "7:13 PM",
-          "iqamah": "7:18 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "8:42 PM",
-          "iqamah": "9:00 PM"
-        }
-      ],
-      "jummah": "1:35 PM",
-      "source": "awqat"
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "bc_hardcoded"
     },
     {
       "id": "bc_al_ihsan_port_moody",
@@ -991,39 +898,8 @@
       "organization": null,
       "website": "https://surreyislamiccenter.com/",
       "phone": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:16 AM",
-          "iqamah": "6:10 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "6:54 AM",
-          "iqamah": "6:54 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:08 PM",
-          "iqamah": "1:40 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "5:17 PM",
-          "iqamah": "5:30 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "7:17 PM",
-          "iqamah": "7:22 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "8:41 PM",
-          "iqamah": "8:50 PM"
-        }
-      ],
-      "jummah": "1:30 PM",
+      "prayerTimes": [],
+      "jummah": null,
       "source": "awqat"
     },
     {
@@ -1050,8 +926,8 @@
       "city": "Surrey",
       "address": "15515 24 Ave #61, Surrey, British Columbia, Canada",
       "coordinates": {
-        "latitude": 49.0464944,
-        "longitude": -122.7919345
+        "latitude": 49.045875,
+        "longitude": -122.7927916
       },
       "organization": null,
       "website": "https://whiterockmuslims.com/prayer-services",
@@ -5381,8 +5257,8 @@
       "city": "Mississauga",
       "address": "966 Dundas St E, Unit 14, Mississauga, ON L4Y 4H5",
       "coordinates": {
-        "latitude": 43.6000719,
-        "longitude": -79.5930752
+        "latitude": 43.5997854,
+        "longitude": -79.5932131
       },
       "organization": "ICNA Canada",
       "website": "https://icna.ca/966/",
@@ -11241,6 +11117,54 @@
       "source": "icna"
     },
     {
+      "id": "awqat_5a7c9ed9-23f9-4ea2-8503-0944ade1ea5d",
+      "name": "Coquitlam Islamic Centre",
+      "province": "British Columbia",
+      "city": "Coquitlam",
+      "address": "202-504 Cottonwood Ave, Coquitlam, British Columbia, Canada",
+      "coordinates": {
+        "latitude": 49.258965,
+        "longitude": -122.8924772
+      },
+      "organization": "AlHikmah Foundation",
+      "website": null,
+      "phone": null,
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:27 AM",
+          "iqamah": "6:00 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:55 AM",
+          "iqamah": "6:55 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:05 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:18 PM",
+          "iqamah": "5:30 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "7:13 PM",
+          "iqamah": "7:18 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "8:42 PM",
+          "iqamah": "9:00 PM"
+        }
+      ],
+      "jummah": "1:35 PM",
+      "source": "awqat"
+    },
+    {
       "id": "awqat_2a182e04-7959-4b22-b8a1-4b575c8c825c",
       "name": "Fort St John Musallah",
       "province": "British Columbia",
@@ -11571,8 +11495,8 @@
       "city": "Vancouver",
       "address": "181 Keefer Street, Unit 202, Vancouver, BC, CA",
       "coordinates": {
-        "latitude": 49.2793738,
-        "longitude": -123.0934533
+        "latitude": 49.2794985,
+        "longitude": -123.1005564
       },
       "organization": "Located in Downtown Vancouver",
       "website": "https://www.ajyal.ca/",

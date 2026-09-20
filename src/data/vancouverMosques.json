@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-20T10:29:58.535Z",
+  "scrapedAt": "2026-09-20T14:28:56.975Z",
   "mosques": [
     {
       "id": "979b2ff1-f133-443a-a808-e05ad4273a14",
@@ -12,39 +12,8 @@
       },
       "organization": null,
       "website": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:27 AM",
-          "iqamah": "6:00 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "6:54 AM",
-          "iqamah": "6:54 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:06 PM",
-          "iqamah": "1:45 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "4:29 PM",
-          "iqamah": "4:45 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "7:16 PM",
-          "iqamah": "7:21 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "8:45 PM",
-          "iqamah": "9:00 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "a71534e1-caa0-429a-a5c3-e102b4bdce0d",
@@ -116,39 +85,8 @@
       },
       "organization": null,
       "website": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:27 AM",
-          "iqamah": "5:45 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "6:56 AM",
-          "iqamah": "6:56 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:05 PM",
-          "iqamah": "1:40 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "4:27 PM",
-          "iqamah": "4:37 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "7:14 PM",
-          "iqamah": "7:19 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "8:42 PM",
-          "iqamah": "8:47 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "f267c0e2-edf6-4c01-86cf-2cffdea6c6df",
@@ -201,8 +139,8 @@
       "address": "202-504 Cottonwood Ave, Coquitlam, British Columbia, Canada",
       "city": "Coquitlam",
       "coordinates": {
-        "latitude": 49.2588056,
-        "longitude": -122.886797
+        "latitude": 49.258965,
+        "longitude": -122.8924772
       },
       "organization": "AlHikmah Foundation",
       "website": null,
@@ -1111,39 +1049,8 @@
       },
       "organization": null,
       "website": "https://surreyislamiccenter.com/",
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:16 AM",
-          "iqamah": "6:10 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "6:54 AM",
-          "iqamah": "6:54 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:08 PM",
-          "iqamah": "1:40 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "5:17 PM",
-          "iqamah": "5:30 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "7:17 PM",
-          "iqamah": "7:22 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "8:41 PM",
-          "iqamah": "8:50 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "01b11b55-7156-4559-a05c-e1534d99d943",
@@ -1193,8 +1100,8 @@
       "address": "15515 24 Ave #61, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.0464944,
-        "longitude": -122.7919345
+        "latitude": 49.045875,
+        "longitude": -122.7927916
       },
       "organization": null,
       "website": "https://whiterockmuslims.com/prayer-services",
@@ -1207,8 +1114,8 @@
       "address": "181 Keefer Street, Unit 202, Vancouver, BC, CA",
       "city": "Vancouver",
       "coordinates": {
-        "latitude": 49.2793738,
-        "longitude": -123.0934533
+        "latitude": 49.2794985,
+        "longitude": -123.1005564
       },
       "organization": "Located in Downtown Vancouver",
       "website": "https://www.ajyal.ca/",
