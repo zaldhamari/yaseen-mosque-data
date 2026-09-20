@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-20T05:40:28.452Z",
+  "scrapedAt": "2026-09-20T10:29:58.535Z",
   "mosques": [
     {
       "id": "979b2ff1-f133-443a-a808-e05ad4273a14",
@@ -12,8 +12,39 @@
       },
       "organization": null,
       "website": null,
-      "prayerTimes": [],
-      "jummah": null
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:27 AM",
+          "iqamah": "6:00 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:54 AM",
+          "iqamah": "6:54 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:06 PM",
+          "iqamah": "1:45 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "4:29 PM",
+          "iqamah": "4:45 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "7:16 PM",
+          "iqamah": "7:21 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "8:45 PM",
+          "iqamah": "9:00 PM"
+        }
+      ],
+      "jummah": "1:30 PM"
     },
     {
       "id": "a71534e1-caa0-429a-a5c3-e102b4bdce0d",
@@ -85,8 +116,39 @@
       },
       "organization": null,
       "website": null,
-      "prayerTimes": [],
-      "jummah": null
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:27 AM",
+          "iqamah": "5:45 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:56 AM",
+          "iqamah": "6:56 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:05 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "4:27 PM",
+          "iqamah": "4:37 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "7:14 PM",
+          "iqamah": "7:19 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "8:42 PM",
+          "iqamah": "8:47 PM"
+        }
+      ],
+      "jummah": "1:30 PM"
     },
     {
       "id": "f267c0e2-edf6-4c01-86cf-2cffdea6c6df",
@@ -139,8 +201,8 @@
       "address": "202-504 Cottonwood Ave, Coquitlam, British Columbia, Canada",
       "city": "Coquitlam",
       "coordinates": {
-        "latitude": 49.258965,
-        "longitude": -122.8924772
+        "latitude": 49.2588056,
+        "longitude": -122.886797
       },
       "organization": "AlHikmah Foundation",
       "website": null,
@@ -271,8 +333,8 @@
       "address": "5768 203 St, Langley, British Columbia, Canada",
       "city": "Langley",
       "coordinates": {
-        "latitude": 49.1083276,
-        "longitude": -122.6601481
+        "latitude": 49.102411,
+        "longitude": -122.6596769
       },
       "organization": "Islamic Waqf Of Canada",
       "website": "https://www.islamicwaqf.ca/",
@@ -361,8 +423,8 @@
       "address": "1206 Kingston Street, New Westminster, British Columbia, Canada",
       "city": "New Westminster",
       "coordinates": {
-        "latitude": 49.2111013,
-        "longitude": -122.9318308
+        "latitude": 49.2099144,
+        "longitude": -122.9338948
       },
       "organization": "Canada Islamic Cultural Society (CICS)",
       "website": "https://cicsnw.org/",
@@ -406,8 +468,8 @@
       "address": "1398 W. 15th St., North Vancouver, British Columbia, Canada",
       "city": "North Vancouver",
       "coordinates": {
-        "latitude": 49.3221378,
-        "longitude": -123.0785916
+        "latitude": 49.3222972,
+        "longitude": -123.0958186
       },
       "organization": null,
       "website": "https://northvanmasjid.ca/",
@@ -583,8 +645,8 @@
       "address": "7375 144 Street, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.1633785,
-        "longitude": -122.8234765
+        "latitude": 49.1954314,
+        "longitude": -122.8230573
       },
       "organization": null,
       "website": null,
@@ -628,8 +690,8 @@
       "address": "18-13478 78 Ave, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.1446334,
-        "longitude": -122.793274
+        "latitude": 49.1443395,
+        "longitude": -122.84914
       },
       "organization": "Al Iman Islamic Centre Surrey",
       "website": "https://www.al-imancenter.com/",
@@ -673,8 +735,8 @@
       "address": "9250 Scott Rd, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.188358,
-        "longitude": -122.8902826
+        "latitude": 49.1709537,
+        "longitude": -122.8900421
       },
       "organization": null,
       "website": null,
@@ -763,8 +825,8 @@
       "address": "7062 134 St, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.1479261,
-        "longitude": -122.851252
+        "latitude": 49.1309848,
+        "longitude": -122.8508961
       },
       "organization": "Weekly Halaqa Every Thursday | 7 pm",
       "website": "https://dawateislamicanada.net/",
@@ -808,8 +870,8 @@
       "address": "12988 84 Ave, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.1554662,
-        "longitude": -122.8351807
+        "latitude": 49.1549238,
+        "longitude": -122.8629226
       },
       "organization": "Units 17 & 18",
       "website": null,
@@ -895,8 +957,8 @@
       "address": "14136 Grosvenor Road, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.204178,
-        "longitude": -122.8358283
+        "latitude": 49.2070303,
+        "longitude": -122.8301489
       },
       "organization": null,
       "website": null,
@@ -940,8 +1002,8 @@
       "address": "13526 98A Avenue, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.1815064,
-        "longitude": -122.7235813
+        "latitude": 49.1813236,
+        "longitude": -122.8475297
       },
       "organization": "Al Noor Islamic Center",
       "website": null,
@@ -985,13 +1047,44 @@
       "address": "13585 62 Ave, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.115421,
-        "longitude": -122.8468503
+        "latitude": 49.1156187,
+        "longitude": -122.8457738
       },
       "organization": null,
       "website": null,
-      "prayerTimes": [],
-      "jummah": null
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:07 AM",
+          "iqamah": "6:00 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:55 AM",
+          "iqamah": "6:55 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:05 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:18 PM",
+          "iqamah": "6:00 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "7:17 PM",
+          "iqamah": "7:17 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "8:54 PM",
+          "iqamah": "9:04 PM"
+        }
+      ],
+      "jummah": "1:30 PM"
     },
     {
       "id": "8f21a37a-a674-4e8d-bfbf-6626d355ddcd",
@@ -999,8 +1092,8 @@
       "address": "13560 105A Ave, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.1939202,
-        "longitude": -122.8177675
+        "latitude": 49.1943447,
+        "longitude": -122.8464857
       },
       "organization": "Weekly Halaqa Every Friday | After Isha\n1st Juma Bayan Starts at 12:30 pm\nEmpower your family with expert-led Nazra, Hifz, and Qirat classes for all ages (including females under 12), held Monday–Thursday from 4 PM–6 PM. ☎️ 778-957-2611.",
       "website": null,
@@ -1013,8 +1106,8 @@
       "address": "15290 103A Ave #101, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.1905031,
-        "longitude": -122.8300114
+        "latitude": 49.1903084,
+        "longitude": -122.7984478
       },
       "organization": null,
       "website": "https://surreyislamiccenter.com/",
@@ -1100,8 +1193,8 @@
       "address": "15515 24 Ave #61, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.0460119,
-        "longitude": -122.7920397
+        "latitude": 49.0464944,
+        "longitude": -122.7919345
       },
       "organization": null,
       "website": "https://whiterockmuslims.com/prayer-services",
@@ -1480,7 +1573,7 @@
         {
           "salat": "Fajr",
           "adhan": "5:28 AM",
-          "iqamah": "5:40 AM"
+          "iqamah": "5:55 AM"
         },
         {
           "salat": "Sunrise",
@@ -1495,7 +1588,7 @@
         {
           "salat": "Asr",
           "adhan": "4:28 PM",
-          "iqamah": "5:50 PM"
+          "iqamah": "5:30 PM"
         },
         {
           "salat": "Maghrib",
