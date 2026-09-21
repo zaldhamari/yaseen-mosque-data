@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-21T05:54:03.658Z",
+  "scrapedAt": "2026-09-21T11:51:13.856Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -8,8 +8,8 @@
       "city": "Cold Lake",
       "address": "5003 50 Ave, Cold Lake, AB T9M 1X6",
       "coordinates": {
-        "latitude": 54.4133827,
-        "longitude": -110.2126489
+        "latitude": 54.41334,
+        "longitude": -110.1933829
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/coldlake/",
@@ -59,28 +59,28 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:49 am",
-          "iqamah": "6:09 am"
+          "adhan": "5:51 am",
+          "iqamah": "6:11 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "1:30 pm",
+          "adhan": "1:29 pm",
           "iqamah": "2:00 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "4:50 pm",
+          "adhan": "4:49 pm",
           "iqamah": "5:30 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:39 pm",
-          "iqamah": "7:49 pm"
+          "adhan": "7:37 pm",
+          "iqamah": "7:47 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:09 pm",
-          "iqamah": "9:19 pm"
+          "adhan": "9:07 pm",
+          "iqamah": "9:17 pm"
         }
       ],
       "jummah": null
@@ -92,8 +92,8 @@
       "city": "Edmonton",
       "address": "6104 172 St NW, Edmonton, AB T6M 1G9",
       "coordinates": {
-        "latitude": 53.4969222,
-        "longitude": -113.6211177
+        "latitude": 53.4964557,
+        "longitude": -113.6216659
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/rahmamosque/",
@@ -101,7 +101,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:14 am",
+          "adhan": "5:16 am",
           "iqamah": "6:00 am"
         },
         {
@@ -111,18 +111,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:48 pm",
-          "iqamah": "5:03 pm"
+          "adhan": "4:46 pm",
+          "iqamah": "5:01 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:36 pm",
-          "iqamah": "7:41 pm"
+          "adhan": "7:34 pm",
+          "iqamah": "7:39 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "9:30 pm",
-          "iqamah": "9:37 pm"
+          "adhan": "9:27 pm",
+          "iqamah": "9:34 pm"
         }
       ],
       "jummah": "2:00 PM"
@@ -439,18 +439,18 @@
     },
     {
       "slug": "mac-quebec",
-      "name": "Centre Communautaire MAC (Ville de Québec)",
+      "name": "Centre communautaire MAC, ville de Québec",
       "province": "Quebec",
       "city": "Quebec City",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/mac-quebec/",
+      "website": "https://centres.macnet.ca/mac-quebec/fr/",
       "phone": null,
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:18 am",
+          "adhan": "5:19 am",
           "iqamah": "5:45 am"
         },
         {
@@ -460,18 +460,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:14 pm",
+          "adhan": "4:12 pm",
           "iqamah": "4:45 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:57 pm",
-          "iqamah": "7:02 pm"
+          "adhan": "6:55 pm",
+          "iqamah": "7:00 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "8:19 pm",
-          "iqamah": "8:24 pm"
+          "adhan": "8:17 pm",
+          "iqamah": "8:22 pm"
         }
       ],
       "jummah": "12:15 pm"
@@ -520,13 +520,13 @@
     },
     {
       "slug": "ccv",
-      "name": "Accueil",
+      "name": "Centre Communautaire Villeray (CCV) / Mosquée Aboubakr",
       "province": "Quebec",
       "city": "Montreal",
       "address": "371, Rue Jean-Talon, Montreal, QC H2R1T4\n (514) 506-8899\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tFacebook",
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/ccv/fr/accueil/",
+      "website": "https://centres.macnet.ca/ccv/",
       "phone": "(514) 506-8899",
       "prayerTimes": [
         {
@@ -610,40 +610,40 @@
         "longitude": -73.7222594
       },
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/alrawdah/",
+      "website": "https://centres.macnet.ca/alrawdah/fr/",
       "phone": "(514) 227-5000",
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:17 am",
+          "adhan": "5:18 am",
           "iqamah": "5:45 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "12:49 pm",
+          "adhan": "12:48 pm",
           "iqamah": "1:30 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "4:14 pm",
+          "adhan": "4:13 pm",
           "iqamah": "4:45 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:58 pm",
-          "iqamah": "7:03 pm"
+          "adhan": "6:56 pm",
+          "iqamah": "7:01 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "8:20 pm",
-          "iqamah": "8:25 pm"
+          "adhan": "8:18 pm",
+          "iqamah": "8:23 pm"
         }
       ],
       "jummah": null
     },
     {
       "slug": "bic",
-      "name": "MAC Barrhaven Islamic Centre",
+      "name": "Barrhaven Islamic Centre",
       "province": "Ontario",
       "city": "Nepean",
       "address": "3971 Greenbank Road,Nepean, ON K2C 3H2  info@bic.macnet.ca",
@@ -685,7 +685,7 @@
     },
     {
       "slug": "qic",
-      "name": "Qurtuba Islamic Centre",
+      "name": "MAC Qurtuba",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1950 Merivale Rd, Ottawa, ON K2G 5T5, Canada",
@@ -701,7 +701,7 @@
     },
     {
       "slug": "mycentre",
-      "name": "MAC Islamic Centre",
+      "name": "Islamic Centre Ottawa",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1085 Grenon Ave, Ottawa, ON, Canada",
@@ -717,7 +717,7 @@
     },
     {
       "slug": "masjidtoronto",
-      "name": "Masjid Toronto (Dundas & Adelaide)",
+      "name": "Masjid Toronto Dundas & Adelaide",
       "province": "Ontario",
       "city": "Toronto",
       "address": "168 Dundas St. West, Toronto, ON M5G 1C6 Canada",
@@ -731,7 +731,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:44 am",
+          "adhan": "5:45 am",
           "iqamah": "6:15 am"
         },
         {
@@ -741,17 +741,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:39 pm",
+          "adhan": "4:37 pm",
           "iqamah": "5:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:21 pm",
-          "iqamah": "7:25 pm"
+          "adhan": "7:19 pm",
+          "iqamah": "7:23 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "8:41 pm",
+          "adhan": "8:39 pm",
           "iqamah": "9:00 pm"
         }
       ],
@@ -759,7 +759,7 @@
     },
     {
       "slug": "macvancouvercentre",
-      "name": "MAC Vancouver Center",
+      "name": "MAC Vancouver Centre",
       "province": "British Columbia",
       "city": "Vancouver",
       "address": "2122 Kingsway, Vancouver, BC V5N 2T5",
@@ -815,7 +815,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:52 am",
+          "adhan": "5:53 am",
           "iqamah": "6:30 am"
         },
         {
@@ -825,17 +825,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:52 pm",
+          "adhan": "4:50 pm",
           "iqamah": "5:15 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:35 pm",
-          "iqamah": "7:40 pm"
+          "adhan": "7:33 pm",
+          "iqamah": "7:38 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "8:49 pm",
+          "adhan": "8:48 pm",
           "iqamah": "9:00 pm"
         }
       ],
