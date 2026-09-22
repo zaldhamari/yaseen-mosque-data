@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-22T15:23:59.163Z",
+  "scrapedAt": "2026-09-22T19:32:27.428Z",
   "mosques": [
     {
       "id": "979b2ff1-f133-443a-a808-e05ad4273a14",
@@ -12,8 +12,39 @@
       },
       "organization": null,
       "website": null,
-      "prayerTimes": [],
-      "jummah": null
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:31 AM",
+          "iqamah": "6:00 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:57 AM",
+          "iqamah": "6:57 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:05 PM",
+          "iqamah": "1:45 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "4:26 PM",
+          "iqamah": "4:45 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "7:12 PM",
+          "iqamah": "7:17 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "8:40 PM",
+          "iqamah": "9:00 PM"
+        }
+      ],
+      "jummah": "1:30 PM"
     },
     {
       "id": "a71534e1-caa0-429a-a5c3-e102b4bdce0d",
@@ -302,8 +333,8 @@
       "address": "5768 203 St, Langley, British Columbia, Canada",
       "city": "Langley",
       "coordinates": {
-        "latitude": 49.1031355,
-        "longitude": -122.6598814
+        "latitude": 49.0988277,
+        "longitude": -122.659821
       },
       "organization": "Islamic Waqf Of Canada",
       "website": "https://www.islamicwaqf.ca/",
@@ -437,8 +468,8 @@
       "address": "1398 W. 15th St., North Vancouver, British Columbia, Canada",
       "city": "North Vancouver",
       "coordinates": {
-        "latitude": 49.3221096,
-        "longitude": -123.0969645
+        "latitude": 49.3222972,
+        "longitude": -123.0958186
       },
       "organization": null,
       "website": "https://northvanmasjid.ca/",
@@ -727,8 +758,8 @@
         },
         {
           "salat": "Asr",
-          "adhan": "6:00 PM",
-          "iqamah": "6:10 PM"
+          "adhan": "5:50 PM",
+          "iqamah": "6:00 PM"
         },
         {
           "salat": "Maghrib",
@@ -749,8 +780,8 @@
       "address": "17665 66A Ave, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.1238268,
-        "longitude": -122.733699
+        "latitude": 49.1234506,
+        "longitude": -122.7333016
       },
       "organization": "ddd",
       "website": "https://cloverdaleislamiccenter.com/",
@@ -844,8 +875,39 @@
       },
       "organization": "Units 17 & 18",
       "website": null,
-      "prayerTimes": [],
-      "jummah": null
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:12 AM",
+          "iqamah": "6:10 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:58 AM",
+          "iqamah": "6:58 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:14 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:14 PM",
+          "iqamah": "5:40 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "7:13 PM",
+          "iqamah": "7:13 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "8:37 PM",
+          "iqamah": "9:00 PM"
+        }
+      ],
+      "jummah": "1:30 PM"
     },
     {
       "id": "3fc905d5-5fc3-4d74-975c-f167c425e315",
@@ -855,8 +917,39 @@
       "coordinates": null,
       "organization": null,
       "website": null,
-      "prayerTimes": [],
-      "jummah": null
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:12 AM",
+          "iqamah": "6:10 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:58 AM",
+          "iqamah": "6:58 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:14 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:14 PM",
+          "iqamah": "5:40 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "7:15 PM",
+          "iqamah": "7:17 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "8:37 PM",
+          "iqamah": "9:00 PM"
+        }
+      ],
+      "jummah": "1:30 PM"
     },
     {
       "id": "a5482569-9b79-47c8-b2de-4fda4ac81931",
@@ -914,8 +1007,39 @@
       },
       "organization": "Al Noor Islamic Center",
       "website": null,
-      "prayerTimes": [],
-      "jummah": null
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:12 AM",
+          "iqamah": "6:10 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:58 AM",
+          "iqamah": "6:58 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:14 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:14 PM",
+          "iqamah": "5:40 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "7:13 PM",
+          "iqamah": "7:15 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "8:37 PM",
+          "iqamah": "9:00 PM"
+        }
+      ],
+      "jummah": "1:30 PM"
     },
     {
       "id": "30095751-d33a-4daa-963b-a56d38cdb261",
@@ -928,8 +1052,39 @@
       },
       "organization": null,
       "website": null,
-      "prayerTimes": [],
-      "jummah": null
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:10 AM",
+          "iqamah": "6:10 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:57 AM",
+          "iqamah": "6:57 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:04 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:14 PM",
+          "iqamah": "5:40 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "7:13 PM",
+          "iqamah": "7:13 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "8:50 PM",
+          "iqamah": "9:00 PM"
+        }
+      ],
+      "jummah": "1:30 PM"
     },
     {
       "id": "8f21a37a-a674-4e8d-bfbf-6626d355ddcd",
@@ -942,8 +1097,39 @@
       },
       "organization": "Weekly Halaqa Every Friday | After Isha\n1st Juma Bayan Starts at 12:30 pm\nEmpower your family with expert-led Nazra, Hifz, and Qirat classes for all ages (including females under 12), held Monday–Thursday from 4 PM–6 PM. ☎️ 778-957-2611.",
       "website": null,
-      "prayerTimes": [],
-      "jummah": null
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "6:00 AM",
+          "iqamah": "6:05 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:58 AM",
+          "iqamah": "6:58 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:30 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "6:10 PM",
+          "iqamah": "6:20 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "7:08 PM",
+          "iqamah": "7:10 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "8:40 PM",
+          "iqamah": "8:50 PM"
+        }
+      ],
+      "jummah": "2:00 PM"
     },
     {
       "id": "96ac3382-aef7-4710-a187-7002ba7f4323",
@@ -1038,8 +1224,8 @@
       "address": "15515 24 Ave #61, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.0464025,
-        "longitude": -122.7927862
+        "latitude": 49.0468223,
+        "longitude": -122.7927916
       },
       "organization": null,
       "website": "https://whiterockmuslims.com/prayer-services",
@@ -1052,8 +1238,8 @@
       "address": "181 Keefer Street, Unit 202, Vancouver, BC, CA",
       "city": "Vancouver",
       "coordinates": {
-        "latitude": 49.2794985,
-        "longitude": -123.1005564
+        "latitude": 49.2792344,
+        "longitude": -123.1023986
       },
       "organization": "Located in Downtown Vancouver",
       "website": "https://www.ajyal.ca/",
@@ -1414,8 +1600,39 @@
       },
       "organization": "West End Mussalah in downtown Vancouver near Stanley Park",
       "website": "https://westendmusalla.ca/",
-      "prayerTimes": [],
-      "jummah": null
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:31 AM",
+          "iqamah": "5:55 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "6:59 AM",
+          "iqamah": "6:59 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:05 PM",
+          "iqamah": "1:30 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "4:25 PM",
+          "iqamah": "5:30 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "7:10 PM",
+          "iqamah": "7:15 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "8:38 PM",
+          "iqamah": "9:00 PM"
+        }
+      ],
+      "jummah": "2:00 PM"
     }
   ]
 }
