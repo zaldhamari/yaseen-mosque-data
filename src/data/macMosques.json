@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-24T19:47:50.968Z",
+  "scrapedAt": "2026-09-25T01:14:32.884Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -269,7 +269,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:53 am",
+          "adhan": "5:54 am",
           "iqamah": "6:30 am"
         },
         {
@@ -279,17 +279,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:36 pm",
+          "adhan": "4:34 pm",
           "iqamah": "5:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:16 pm",
-          "iqamah": "7:21 pm"
+          "adhan": "7:14 pm",
+          "iqamah": "7:19 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "8:34 pm",
+          "adhan": "8:32 pm",
           "iqamah": "8:45 pm"
         }
       ],
@@ -297,7 +297,7 @@
     },
     {
       "slug": "westmount",
-      "name": "Westmount Masjid",
+      "name": "MAC Westmount Islamic Centre",
       "province": "Ontario",
       "city": "London",
       "address": "312 Commissioners Rd W Unit 5, London, ON N6J 1Y3",
@@ -492,7 +492,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:23 am",
+          "adhan": "5:24 am",
           "iqamah": "5:45 am"
         },
         {
@@ -502,18 +502,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:08 pm",
+          "adhan": "4:07 pm",
           "iqamah": "4:45 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:49 pm",
-          "iqamah": "6:54 pm"
+          "adhan": "6:47 pm",
+          "iqamah": "6:52 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "8:11 pm",
-          "iqamah": "8:16 pm"
+          "adhan": "8:09 pm",
+          "iqamah": "8:14 pm"
         }
       ],
       "jummah": null
@@ -701,7 +701,7 @@
     },
     {
       "slug": "mycentre",
-      "name": "MAC Islamic Centre",
+      "name": "Islamic Centre Ottawa",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1085 Grenon Ave, Ottawa, ON, Canada",
@@ -717,7 +717,7 @@
     },
     {
       "slug": "masjidtoronto",
-      "name": "Masjid Toronto Dundas & Adelaide",
+      "name": "Masjid Toronto (Dundas & Adelaide)",
       "province": "Ontario",
       "city": "Toronto",
       "address": "168 Dundas St. West, Toronto, ON M5G 1C6 Canada",
