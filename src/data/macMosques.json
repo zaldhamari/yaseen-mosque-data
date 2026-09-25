@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-25T07:07:13.193Z",
+  "scrapedAt": "2026-09-25T12:49:39.529Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -143,28 +143,28 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:54 AM",
-          "iqamah": "6:15 AM"
+          "adhan": "5:55 AM",
+          "iqamah": "6:30 AM"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "1:15 PM",
-          "iqamah": "1:45 PM"
+          "adhan": "1:14 PM",
+          "iqamah": "1:30 PM"
         },
         {
           "salat": "Asr",
-          "adhan": "5:28 PM",
+          "adhan": "5:26 PM",
           "iqamah": "5:45 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:17 PM",
-          "iqamah": "7:21 PM"
+          "adhan": "7:15 PM",
+          "iqamah": "7:19 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "8:36 PM",
-          "iqamah": "9:00 PM"
+          "adhan": "8:34 PM",
+          "iqamah": "8:45 PM"
         }
       ],
       "jummah": "1:30 PM"
@@ -353,8 +353,8 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:57 am",
-          "iqamah": "6:27 am"
+          "adhan": "5:58 am",
+          "iqamah": "6:28 am"
         },
         {
           "salat": "Dhuhr",
@@ -363,18 +363,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:41 pm",
+          "adhan": "4:39 pm",
           "iqamah": "5:30 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:20 pm",
-          "iqamah": "7:27 pm"
+          "adhan": "7:18 pm",
+          "iqamah": "7:25 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "8:38 pm",
-          "iqamah": "8:48 pm"
+          "adhan": "8:36 pm",
+          "iqamah": "8:46 pm"
         }
       ],
       "jummah": null
@@ -643,7 +643,7 @@
     },
     {
       "slug": "bic",
-      "name": "Barrhaven Islamic Centre",
+      "name": "MAC Barrhaven Islamic Centre",
       "province": "Ontario",
       "city": "Nepean",
       "address": "3971 Greenbank Road,Nepean, ON K2C 3H2  info@bic.macnet.ca",
@@ -657,28 +657,28 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:30 am",
+          "adhan": "5:33 am",
           "iqamah": "6:00 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "12:55 pm",
-          "iqamah": "1:30 pm"
+          "adhan": "12:54 pm",
+          "iqamah": "1:00 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "4:18 pm",
-          "iqamah": "5:15 pm"
+          "adhan": "4:15 pm",
+          "iqamah": "5:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:58 pm",
-          "iqamah": "7:03 pm"
+          "adhan": "6:54 pm",
+          "iqamah": "6:59 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "8:19 pm",
-          "iqamah": "8:45 pm"
+          "adhan": "8:15 pm",
+          "iqamah": "8:30 pm"
         }
       ],
       "jummah": "1:00 pm"
