@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-26T09:06:44.657Z",
+  "scrapedAt": "2026-09-26T13:46:07.093Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -297,7 +297,7 @@
     },
     {
       "slug": "westmount",
-      "name": "MAC Westmount Islamic Centre",
+      "name": "Westmount Masjid",
       "province": "Ontario",
       "city": "London",
       "address": "312 Commissioners Rd W Unit 5, London, ON N6J 1Y3",
@@ -311,8 +311,8 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:57 am",
-          "iqamah": "6:28 am"
+          "adhan": "5:58 am",
+          "iqamah": "6:29 am"
         },
         {
           "salat": "Dhuhr",
@@ -321,18 +321,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:41 pm",
+          "adhan": "4:39 pm",
           "iqamah": "5:30 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:20 pm",
-          "iqamah": "7:25 pm"
+          "adhan": "7:18 pm",
+          "iqamah": "7:24 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "8:38 pm",
-          "iqamah": "8:46 pm"
+          "adhan": "8:36 pm",
+          "iqamah": "8:45 pm"
         }
       ],
       "jummah": null
@@ -520,13 +520,13 @@
     },
     {
       "slug": "ccv",
-      "name": "Accueil",
+      "name": "Centre Communautaire Villeray (CCV) / Mosquée Aboubakr",
       "province": "Quebec",
       "city": "Montreal",
       "address": "371, Rue Jean-Talon, Montreal, QC H2R1T4\n (514) 506-8899\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tFacebook",
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/ccv/fr/accueil/",
+      "website": "https://centres.macnet.ca/ccv/",
       "phone": "(514) 506-8899",
       "prayerTimes": [
         {
