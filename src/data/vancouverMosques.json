@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-02T00:29:24.090Z",
+  "scrapedAt": "2026-10-02T06:37:10.648Z",
   "mosques": [
     {
       "id": "979b2ff1-f133-443a-a808-e05ad4273a14",
@@ -7,44 +7,13 @@
       "address": "204-7060 Waltham Ave, Burnaby, British Columbia, Canada",
       "city": "Burnaby",
       "coordinates": {
-        "latitude": 49.2193772,
-        "longitude": -122.9762093
+        "latitude": 49.2211127,
+        "longitude": -122.9764615
       },
       "organization": null,
       "website": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:46 AM",
-          "iqamah": "6:15 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "7:12 AM",
-          "iqamah": "7:12 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:02 PM",
-          "iqamah": "1:45 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "4:10 PM",
-          "iqamah": "4:30 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "6:51 PM",
-          "iqamah": "6:56 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "8:18 PM",
-          "iqamah": "8:45 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "a71534e1-caa0-429a-a5c3-e102b4bdce0d",
@@ -66,8 +35,8 @@
       "address": "6409 Arbroath St, Burnaby, British Columbia, Canada",
       "city": "Burnaby",
       "coordinates": {
-        "latitude": 49.2185545,
-        "longitude": -122.97022
+        "latitude": 49.2183366,
+        "longitude": -122.9708734
       },
       "organization": null,
       "website": "https://www.bmismosque.com/",
@@ -111,8 +80,8 @@
       "address": "7726 Edmonds St, Burnaby, British Columbia, Canada",
       "city": "Burnaby",
       "coordinates": {
-        "latitude": 49.224285,
-        "longitude": -122.9403307
+        "latitude": 49.2247343,
+        "longitude": -122.9397914
       },
       "organization": null,
       "website": null,
@@ -156,8 +125,8 @@
       "address": "5060 Canada Way, Burnaby, British Columbia, Canada",
       "city": "Burnaby",
       "coordinates": {
-        "latitude": 49.2399995,
-        "longitude": -122.964121
+        "latitude": 49.22621,
+        "longitude": -122.9436333
       },
       "organization": "Al Salam Masjid",
       "website": "https://org.thebcma.com/burnaby",
@@ -423,8 +392,8 @@
       "address": "1206 Kingston Street, New Westminster, British Columbia, Canada",
       "city": "New Westminster",
       "coordinates": {
-        "latitude": 49.2099144,
-        "longitude": -122.9338948
+        "latitude": 49.2088688,
+        "longitude": -122.9359835
       },
       "organization": "Canada Islamic Cultural Society (CICS)",
       "website": "https://cicsnw.org/",
@@ -473,39 +442,8 @@
       },
       "organization": null,
       "website": "https://northvanmasjid.ca/",
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:46 AM",
-          "iqamah": "6:16 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "7:14 AM",
-          "iqamah": "7:14 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:02 PM",
-          "iqamah": "1:30 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "4:09 PM",
-          "iqamah": "4:19 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "6:48 PM",
-          "iqamah": "6:58 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "8:16 PM",
-          "iqamah": "8:26 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "fa41d767-cac8-49f4-89b3-2073f224d0f7",
@@ -1162,8 +1100,8 @@
       "address": "15515 24 Ave #61, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.0464944,
-        "longitude": -122.7919345
+        "latitude": 49.0468223,
+        "longitude": -122.7927916
       },
       "organization": null,
       "website": "https://whiterockmuslims.com/prayer-services",
@@ -1176,8 +1114,8 @@
       "address": "181 Keefer Street, Unit 202, Vancouver, BC, CA",
       "city": "Vancouver",
       "coordinates": {
-        "latitude": 49.2792527,
-        "longitude": -123.0872058
+        "latitude": 49.2793738,
+        "longitude": -123.0934533
       },
       "organization": "Located in Downtown Vancouver",
       "website": "https://www.ajyal.ca/",
@@ -1221,8 +1159,8 @@
       "address": "655 W. 8th Avenue, Vancouver, British Columbia, Canada",
       "city": "Vancouver",
       "coordinates": {
-        "latitude": 49.2644174,
-        "longitude": -123.1189904
+        "latitude": 49.2645242,
+        "longitude": -123.139382
       },
       "organization": null,
       "website": "https://pakcanbc.com/al-jamia-masjid-vancouver",
@@ -1448,7 +1386,38 @@
       },
       "organization": "The University of British Columbia Muslim Students’ Association is a student-run organization that supports Muslim students on campus by providing religious, academic, and social resources, while fostering a welcoming Islamic environment and engaging with the wider university community.",
       "website": "https://msaubc.org/",
-      "prayerTimes": [],
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:32 AM",
+          "iqamah": "6:30 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "7:10 AM",
+          "iqamah": "7:10 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:04 PM",
+          "iqamah": "1:30 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "4:12 PM",
+          "iqamah": "4:25 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "6:53 PM",
+          "iqamah": "6:58 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "8:24 PM",
+          "iqamah": "8:29 PM"
+        }
+      ],
       "jummah": null
     },
     {
@@ -1457,8 +1426,8 @@
       "address": "708 Denman St , Vancouver, British Columbia, Canada",
       "city": "Vancouver",
       "coordinates": {
-        "latitude": 49.2919462,
-        "longitude": -123.1343223
+        "latitude": 49.292012,
+        "longitude": -123.1346503
       },
       "organization": "West End Mussalah in downtown Vancouver near Stanley Park",
       "website": "https://westendmusalla.ca/",
