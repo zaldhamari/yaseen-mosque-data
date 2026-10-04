@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-04T15:13:43.306Z",
+  "scrapedAt": "2026-10-04T19:04:36.846Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -8,8 +8,8 @@
       "city": "Cold Lake",
       "address": "5003 50 Ave, Cold Lake, AB T9M 1X6",
       "coordinates": {
-        "latitude": 54.413442,
-        "longitude": -110.2314264
+        "latitude": 54.4133827,
+        "longitude": -110.2126489
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/coldlake/",
@@ -423,7 +423,7 @@
     },
     {
       "slug": "theciic",
-      "name": "Canadian Institute of Islamic Civilization (CIIC)",
+      "name": "The CIIC Montreal",
       "province": "Quebec",
       "city": "Montreal",
       "address": "615 Rue Belmont, Montréal, QC H3B 2L8",
@@ -559,7 +559,7 @@
     },
     {
       "slug": "civ",
-      "name": "Centre Islamique de Verdun (CIV)",
+      "name": "Centre Islamique de Verdun (MAC)",
       "province": "Quebec",
       "city": "Montreal",
       "address": "4538 Rue de VerdunVerdun, Montreal, QC H4G 1M3",
@@ -568,7 +568,7 @@
         "longitude": -73.571548
       },
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/civ/",
+      "website": "https://centres.macnet.ca/civ/fr/",
       "phone": "(514) 508-9419",
       "prayerTimes": [
         {
@@ -643,7 +643,7 @@
     },
     {
       "slug": "bic",
-      "name": "MAC Barrhaven Islamic Centre",
+      "name": "Barrhaven Islamic Centre",
       "province": "Ontario",
       "city": "Nepean",
       "address": "3971 Greenbank Road,Nepean, ON K2C 3H2  info@bic.macnet.ca",
@@ -685,7 +685,7 @@
     },
     {
       "slug": "qic",
-      "name": "Qurtuba Islamic Centre",
+      "name": "MAC Qurtuba",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1950 Merivale Rd, Ottawa, ON K2G 5T5, Canada",
@@ -701,7 +701,7 @@
     },
     {
       "slug": "mycentre",
-      "name": "MAC Islamic Centre",
+      "name": "Islamic Centre Ottawa",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1085 Grenon Ave, Ottawa, ON, Canada",
