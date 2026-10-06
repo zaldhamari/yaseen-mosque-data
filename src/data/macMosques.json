@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-06T04:30:01.925Z",
+  "scrapedAt": "2026-10-06T11:45:10.936Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -17,28 +17,28 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:53 am",
-          "iqamah": "5:58 am"
+          "adhan": "5:55 am",
+          "iqamah": "6:00 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "1:10 pm",
-          "iqamah": "1:15 pm"
+          "adhan": "1:09 pm",
+          "iqamah": "1:14 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "4:04 pm",
-          "iqamah": "4:09 pm"
+          "adhan": "4:02 pm",
+          "iqamah": "4:07 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:47 pm",
-          "iqamah": "6:52 pm"
+          "adhan": "6:44 pm",
+          "iqamah": "6:49 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "8:25 pm",
-          "iqamah": "8:30 pm"
+          "adhan": "8:22 pm",
+          "iqamah": "8:27 pm"
         }
       ],
       "jummah": null
@@ -59,28 +59,28 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "6:13 am",
-          "iqamah": "6:33 am"
+          "adhan": "6:15 am",
+          "iqamah": "6:35 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "1:25 pm",
+          "adhan": "1:24 pm",
           "iqamah": "2:00 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "4:25 pm",
+          "adhan": "4:24 pm",
           "iqamah": "5:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:05 pm",
-          "iqamah": "7:15 pm"
+          "adhan": "7:03 pm",
+          "iqamah": "7:13 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "8:35 pm",
-          "iqamah": "8:45 pm"
+          "adhan": "8:33 pm",
+          "iqamah": "8:43 pm"
         }
       ],
       "jummah": null
@@ -101,7 +101,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:44 am",
+          "adhan": "5:46 am",
           "iqamah": "6:30 am"
         },
         {
@@ -111,18 +111,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:21 pm",
-          "iqamah": "4:36 pm"
+          "adhan": "4:19 pm",
+          "iqamah": "4:34 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:00 pm",
-          "iqamah": "7:05 pm"
+          "adhan": "6:57 pm",
+          "iqamah": "7:02 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "8:50 pm",
-          "iqamah": "8:57 pm"
+          "adhan": "8:47 pm",
+          "iqamah": "8:54 pm"
         }
       ],
       "jummah": "2:00 PM"
@@ -717,7 +717,7 @@
     },
     {
       "slug": "masjidtoronto",
-      "name": "Masjid Toronto (Dundas & Adelaide)",
+      "name": "Masjid Toronto Dundas & Adelaide",
       "province": "Ontario",
       "city": "Toronto",
       "address": "168 Dundas St. West, Toronto, ON M5G 1C6 Canada",
@@ -731,7 +731,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "6:02 am",
+          "adhan": "6:03 am",
           "iqamah": "6:30 am"
         },
         {
@@ -741,17 +741,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:19 pm",
+          "adhan": "4:18 pm",
           "iqamah": "5:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:54 pm",
-          "iqamah": "6:58 pm"
+          "adhan": "6:52 pm",
+          "iqamah": "6:56 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "8:14 pm",
+          "adhan": "8:12 pm",
           "iqamah": "8:30 pm"
         }
       ],
@@ -764,8 +764,8 @@
       "city": "Vancouver",
       "address": "2122 Kingsway, Vancouver, BC V5N 2T5",
       "coordinates": {
-        "latitude": 49.2437319,
-        "longitude": -123.0621637
+        "latitude": 49.2440397,
+        "longitude": -123.063553
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/macvancouvercentre/",
@@ -773,7 +773,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:37 am",
+          "adhan": "5:39 am",
           "iqamah": "6:00 am"
         },
         {
@@ -783,18 +783,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:08 pm",
+          "adhan": "4:05 pm",
           "iqamah": "4:30 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "5:47 pm",
-          "iqamah": "5:52 pm"
+          "adhan": "5:45 pm",
+          "iqamah": "5:50 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "8:18 pm",
-          "iqamah": "8:23 pm"
+          "adhan": "8:16 pm",
+          "iqamah": "8:21 pm"
         }
       ],
       "jummah": null
@@ -815,7 +815,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "6:09 am",
+          "adhan": "6:10 am",
           "iqamah": "6:45 am"
         },
         {
@@ -825,17 +825,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:33 pm",
+          "adhan": "4:32 pm",
           "iqamah": "5:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "7:09 pm",
-          "iqamah": "7:14 pm"
+          "adhan": "7:07 pm",
+          "iqamah": "7:12 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "8:23 pm",
+          "adhan": "8:21 pm",
           "iqamah": "8:45 pm"
         }
       ],
@@ -843,13 +843,13 @@
     },
     {
       "slug": "edmonton",
-      "name": "Edmonton Chapter",
+      "name": "MAC edmonton",
       "province": "Ontario",
       "city": "",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://chapters.macnet.ca/edmonton/",
+      "website": "https://chapters.macnet.ca/edmonton",
       "phone": null,
       "prayerTimes": [],
       "jummah": null
