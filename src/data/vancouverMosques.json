@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-08T21:46:50.363Z",
+  "scrapedAt": "2026-10-09T01:42:48.937Z",
   "mosques": [
     {
       "id": "979b2ff1-f133-443a-a808-e05ad4273a14",
@@ -40,8 +40,39 @@
       },
       "organization": null,
       "website": "https://www.bmismosque.com/",
-      "prayerTimes": [],
-      "jummah": null
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "6:20 AM",
+          "iqamah": "6:30 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "7:24 AM",
+          "iqamah": "7:24 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:30 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "4:50 PM",
+          "iqamah": "5:00 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "6:34 PM",
+          "iqamah": "6:39 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "8:10 PM",
+          "iqamah": "8:20 PM"
+        }
+      ],
+      "jummah": "1:30 PM"
     },
     {
       "id": "aee6c992-6831-41c8-9b56-2ca5af4d28ec",
@@ -57,13 +88,13 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:55 AM",
+          "adhan": "5:57 AM",
           "iqamah": "6:15 AM"
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:22 AM",
-          "iqamah": "7:22 AM"
+          "adhan": "7:24 AM",
+          "iqamah": "7:24 AM"
         },
         {
           "salat": "Dhuhr",
@@ -72,18 +103,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "3:59 PM",
-          "iqamah": "4:09 PM"
+          "adhan": "3:58 PM",
+          "iqamah": "4:08 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:35 PM",
-          "iqamah": "6:40 PM"
+          "adhan": "6:33 PM",
+          "iqamah": "6:38 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "8:02 PM",
-          "iqamah": "8:12 PM"
+          "adhan": "8:00 PM",
+          "iqamah": "8:10 PM"
         }
       ],
       "jummah": "1:30 PM"
@@ -102,13 +133,13 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:38 AM",
+          "adhan": "5:40 AM",
           "iqamah": "6:30 AM"
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:21 AM",
-          "iqamah": "7:21 AM"
+          "adhan": "7:23 AM",
+          "iqamah": "7:23 AM"
         },
         {
           "salat": "Dhuhr",
@@ -117,18 +148,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:44 PM",
+          "adhan": "4:42 PM",
           "iqamah": "5:15 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:38 PM",
-          "iqamah": "6:39 PM"
+          "adhan": "6:36 PM",
+          "iqamah": "6:37 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "8:02 PM",
-          "iqamah": "8:25 PM"
+          "adhan": "8:00 PM",
+          "iqamah": "9:00 PM"
         }
       ],
       "jummah": "1:30 PM"
@@ -139,44 +170,13 @@
       "address": "202-504 Cottonwood Ave, Coquitlam, British Columbia, Canada",
       "city": "Coquitlam",
       "coordinates": {
-        "latitude": 49.2582597,
-        "longitude": -122.8813882
+        "latitude": 49.2588685,
+        "longitude": -122.8927971
       },
       "organization": "AlHikmah Foundation",
       "website": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:55 AM",
-          "iqamah": "6:15 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "7:22 AM",
-          "iqamah": "7:22 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "12:59 PM",
-          "iqamah": "1:40 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "4:44 PM",
-          "iqamah": "5:00 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "6:35 PM",
-          "iqamah": "6:40 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "8:02 PM",
-          "iqamah": "8:30 PM"
-        }
-      ],
-      "jummah": "1:35 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "a71546cc-d9c5-4441-9407-0d286992c44f",
@@ -189,8 +189,39 @@
       },
       "organization": null,
       "website": "https://org.thebcma.com/delta",
-      "prayerTimes": [],
-      "jummah": null
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:40 AM",
+          "iqamah": "5:50 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "7:22 AM",
+          "iqamah": "7:22 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:30 PM",
+          "iqamah": "1:40 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "5:20 PM",
+          "iqamah": "5:30 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "6:37 PM",
+          "iqamah": "6:39 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "8:20 PM",
+          "iqamah": "8:30 PM"
+        }
+      ],
+      "jummah": "1:30 PM"
     },
     {
       "id": "2a182e04-7959-4b22-b8a1-4b575c8c825c",
@@ -200,8 +231,39 @@
       "coordinates": null,
       "organization": "Peace River Muslim Association",
       "website": null,
-      "prayerTimes": [],
-      "jummah": null
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:42 AM",
+          "iqamah": "5:57 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "7:22 AM",
+          "iqamah": "7:22 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "12:51 PM",
+          "iqamah": "1:06 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "3:36 PM",
+          "iqamah": "3:51 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "6:19 PM",
+          "iqamah": "6:24 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "8:01 PM",
+          "iqamah": "8:16 PM"
+        }
+      ],
+      "jummah": "1:30 PM"
     },
     {
       "id": "fede16e1-7b38-4abc-8473-2a832651a334",
@@ -209,21 +271,21 @@
       "address": "5768 203 St, Langley, British Columbia, Canada",
       "city": "Langley",
       "coordinates": {
-        "latitude": 49.1031355,
-        "longitude": -122.6598814
+        "latitude": 49.1033694,
+        "longitude": -122.660223
       },
       "organization": "Islamic Waqf Of Canada",
       "website": "https://www.islamicwaqf.ca/",
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:54 AM",
+          "adhan": "5:56 AM",
           "iqamah": "6:10 AM"
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:21 AM",
-          "iqamah": "7:21 AM"
+          "adhan": "7:23 AM",
+          "iqamah": "7:23 AM"
         },
         {
           "salat": "Dhuhr",
@@ -232,17 +294,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "3:58 PM",
+          "adhan": "3:57 PM",
           "iqamah": "4:30 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:34 PM",
-          "iqamah": "6:39 PM"
+          "adhan": "6:32 PM",
+          "iqamah": "6:37 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "8:01 PM",
+          "adhan": "7:59 PM",
           "iqamah": "8:30 PM"
         }
       ],
@@ -259,39 +321,8 @@
       },
       "organization": null,
       "website": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:54 AM",
-          "iqamah": "6:30 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "7:19 AM",
-          "iqamah": "7:19 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:00 PM",
-          "iqamah": "1:45 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "3:59 PM",
-          "iqamah": "4:15 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "6:38 PM",
-          "iqamah": "6:45 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "8:03 PM",
-          "iqamah": "8:15 PM"
-        }
-      ],
-      "jummah": "1:45 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "20f192db-eedf-4440-9a9d-dafd70ccafb3",
@@ -304,39 +335,8 @@
       },
       "organization": "Canada Islamic Cultural Society (CICS)",
       "website": "https://cicsnw.org/",
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:55 AM",
-          "iqamah": "6:20 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "7:22 AM",
-          "iqamah": "7:22 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "12:59 PM",
-          "iqamah": "1:40 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "4:46 PM",
-          "iqamah": "4:50 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "6:35 PM",
-          "iqamah": "6:40 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "8:02 PM",
-          "iqamah": "8:30 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "e7bfc68e-552f-4921-851a-cf64127aec31",
@@ -344,41 +344,41 @@
       "address": "1398 W. 15th St., North Vancouver, British Columbia, Canada",
       "city": "North Vancouver",
       "coordinates": {
-        "latitude": 49.3221378,
-        "longitude": -123.0785916
+        "latitude": 49.3222972,
+        "longitude": -123.0958186
       },
       "organization": null,
       "website": "https://northvanmasjid.ca/",
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:56 AM",
-          "iqamah": "6:26 AM"
+          "adhan": "5:57 AM",
+          "iqamah": "6:27 AM"
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:23 AM",
-          "iqamah": "7:23 AM"
+          "adhan": "7:24 AM",
+          "iqamah": "7:24 AM"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "1:00 PM",
+          "adhan": "12:59 PM",
           "iqamah": "1:30 PM"
         },
         {
           "salat": "Asr",
-          "adhan": "4:00 PM",
-          "iqamah": "4:10 PM"
+          "adhan": "3:58 PM",
+          "iqamah": "4:08 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:36 PM",
-          "iqamah": "6:46 PM"
+          "adhan": "6:34 PM",
+          "iqamah": "6:44 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "8:03 PM",
-          "iqamah": "8:13 PM"
+          "adhan": "8:01 PM",
+          "iqamah": "8:11 PM"
         }
       ],
       "jummah": "1:30 PM"
@@ -394,32 +394,32 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:55 AM",
+          "adhan": "5:57 AM",
           "iqamah": "6:35 AM"
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:20 AM",
-          "iqamah": "7:20 AM"
+          "adhan": "7:22 AM",
+          "iqamah": "7:22 AM"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "1:01 PM",
+          "adhan": "1:00 PM",
           "iqamah": "1:45 PM"
         },
         {
           "salat": "Asr",
-          "adhan": "4:00 PM",
+          "adhan": "3:59 PM",
           "iqamah": "4:15 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:38 PM",
+          "adhan": "6:36 PM",
           "iqamah": "6:45 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "8:04 PM",
+          "adhan": "8:02 PM",
           "iqamah": "8:15 PM"
         }
       ],
@@ -439,13 +439,13 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:36 AM",
+          "adhan": "5:38 AM",
           "iqamah": "6:15 AM"
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:20 AM",
-          "iqamah": "7:20 AM"
+          "adhan": "7:21 AM",
+          "iqamah": "7:21 AM"
         },
         {
           "salat": "Dhuhr",
@@ -454,17 +454,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "3:59 PM",
+          "adhan": "3:57 PM",
           "iqamah": "4:45 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:36 PM",
-          "iqamah": "6:41 PM"
+          "adhan": "6:34 PM",
+          "iqamah": "6:39 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "8:14 PM",
+          "adhan": "8:12 PM",
           "iqamah": "8:45 PM"
         }
       ],
@@ -484,13 +484,13 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:36 AM",
+          "adhan": "5:38 AM",
           "iqamah": "6:15 AM"
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:20 AM",
-          "iqamah": "7:20 AM"
+          "adhan": "7:21 AM",
+          "iqamah": "7:21 AM"
         },
         {
           "salat": "Dhuhr",
@@ -499,17 +499,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "3:59 PM",
+          "adhan": "3:57 PM",
           "iqamah": "4:45 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:36 PM",
-          "iqamah": "6:41 PM"
+          "adhan": "6:34 PM",
+          "iqamah": "6:39 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "8:14 PM",
+          "adhan": "8:12 PM",
           "iqamah": "8:45 PM"
         }
       ],
@@ -521,21 +521,21 @@
       "address": "7375 144 Street, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.1954314,
-        "longitude": -122.8230573
+        "latitude": 49.104009,
+        "longitude": -122.8233258
       },
       "organization": null,
       "website": null,
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:38 AM",
-          "iqamah": "6:30 AM"
+          "adhan": "5:40 AM",
+          "iqamah": "6:40 AM"
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:21 AM",
-          "iqamah": "7:21 AM"
+          "adhan": "7:23 AM",
+          "iqamah": "7:23 AM"
         },
         {
           "salat": "Dhuhr",
@@ -544,18 +544,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:44 PM",
-          "iqamah": "5:10 PM"
+          "adhan": "4:42 PM",
+          "iqamah": "5:00 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:40 PM",
-          "iqamah": "6:40 PM"
+          "adhan": "6:38 PM",
+          "iqamah": "6:38 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "8:02 PM",
-          "iqamah": "8:30 PM"
+          "adhan": "8:00 PM",
+          "iqamah": "8:10 PM"
         }
       ],
       "jummah": "1:15 PM"
@@ -571,39 +571,8 @@
       },
       "organization": "Al Iman Islamic Centre Surrey",
       "website": "https://www.al-imancenter.com/",
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:42 AM",
-          "iqamah": "6:30 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "7:24 AM",
-          "iqamah": "7:24 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:30 PM",
-          "iqamah": "1:40 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "4:03 PM",
-          "iqamah": "4:30 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "6:38 PM",
-          "iqamah": "6:43 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "8:11 PM",
-          "iqamah": "8:21 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "5b885cd4-2a00-4c41-9593-9335fc44a457",
@@ -619,13 +588,13 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "6:30 AM",
-          "iqamah": "6:40 AM"
+          "adhan": "6:20 AM",
+          "iqamah": "6:30 AM"
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:21 AM",
-          "iqamah": "7:21 AM"
+          "adhan": "7:23 AM",
+          "iqamah": "7:23 AM"
         },
         {
           "salat": "Dhuhr",
@@ -639,13 +608,13 @@
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:40 PM",
-          "iqamah": "6:40 PM"
+          "adhan": "6:37 PM",
+          "iqamah": "6:37 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "8:20 PM",
-          "iqamah": "8:30 PM"
+          "adhan": "8:30 PM",
+          "iqamah": "8:40 PM"
         }
       ],
       "jummah": "1:30 PM"
@@ -656,21 +625,21 @@
       "address": "17665 66A Ave, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.1238268,
-        "longitude": -122.733699
+        "latitude": 49.1234506,
+        "longitude": -122.7333016
       },
       "organization": "ddd",
       "website": "https://cloverdaleislamiccenter.com/",
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:42 AM",
-          "iqamah": "6:30 AM"
+          "adhan": "5:44 AM",
+          "iqamah": "6:40 AM"
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:21 AM",
-          "iqamah": "7:21 AM"
+          "adhan": "7:22 AM",
+          "iqamah": "7:22 AM"
         },
         {
           "salat": "Dhuhr",
@@ -679,18 +648,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:44 PM",
-          "iqamah": "5:00 PM"
+          "adhan": "4:42 PM",
+          "iqamah": "4:50 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:38 PM",
-          "iqamah": "6:43 PM"
+          "adhan": "6:36 PM",
+          "iqamah": "6:41 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "8:02 PM",
-          "iqamah": "8:20 PM"
+          "adhan": "8:00 PM",
+          "iqamah": "8:10 PM"
         }
       ],
       "jummah": "1:50 PM"
@@ -709,13 +678,13 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:36 AM",
+          "adhan": "5:37 AM",
           "iqamah": "6:30 AM"
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:20 AM",
-          "iqamah": "7:20 AM"
+          "adhan": "7:21 AM",
+          "iqamah": "7:21 AM"
         },
         {
           "salat": "Dhuhr",
@@ -724,17 +693,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:47 PM",
+          "adhan": "4:45 PM",
           "iqamah": "5:30 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:37 PM",
-          "iqamah": "6:37 PM"
+          "adhan": "6:35 PM",
+          "iqamah": "6:35 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "8:21 PM",
+          "adhan": "8:19 PM",
           "iqamah": "8:45 PM"
         }
       ],
@@ -754,13 +723,13 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:38 AM",
-          "iqamah": "6:20 AM"
+          "adhan": "5:40 AM",
+          "iqamah": "6:30 AM"
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:21 AM",
-          "iqamah": "7:21 AM"
+          "adhan": "7:23 AM",
+          "iqamah": "7:23 AM"
         },
         {
           "salat": "Dhuhr",
@@ -769,18 +738,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:44 PM",
+          "adhan": "4:42 PM",
           "iqamah": "5:10 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:39 PM",
-          "iqamah": "6:39 PM"
+          "adhan": "6:37 PM",
+          "iqamah": "6:37 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "8:02 PM",
-          "iqamah": "8:20 PM"
+          "adhan": "8:00 PM",
+          "iqamah": "8:10 PM"
         }
       ],
       "jummah": "1:30 PM"
@@ -796,13 +765,13 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:38 AM",
-          "iqamah": "6:20 AM"
+          "adhan": "5:40 AM",
+          "iqamah": "6:30 AM"
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:21 AM",
-          "iqamah": "7:21 AM"
+          "adhan": "7:23 AM",
+          "iqamah": "7:23 AM"
         },
         {
           "salat": "Dhuhr",
@@ -811,18 +780,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:44 PM",
+          "adhan": "4:42 PM",
           "iqamah": "5:10 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:41 PM",
-          "iqamah": "6:43 PM"
+          "adhan": "6:39 PM",
+          "iqamah": "6:41 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "8:02 PM",
-          "iqamah": "8:20 PM"
+          "adhan": "8:00 PM",
+          "iqamah": "8:10 PM"
         }
       ],
       "jummah": "1:30 PM"
@@ -841,13 +810,13 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:38 AM",
+          "adhan": "5:40 AM",
           "iqamah": "6:30 AM"
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:21 AM",
-          "iqamah": "7:21 AM"
+          "adhan": "7:23 AM",
+          "iqamah": "7:23 AM"
         },
         {
           "salat": "Dhuhr",
@@ -856,18 +825,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "5:40 PM",
-          "iqamah": "5:50 PM"
+          "adhan": "5:20 PM",
+          "iqamah": "5:30 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:38 PM",
-          "iqamah": "6:43 PM"
+          "adhan": "6:36 PM",
+          "iqamah": "6:41 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "8:20 PM",
-          "iqamah": "8:30 PM"
+          "adhan": "8:00 PM",
+          "iqamah": "8:10 PM"
         }
       ],
       "jummah": "1:10 PM"
@@ -886,13 +855,13 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:38 AM",
-          "iqamah": "6:20 AM"
+          "adhan": "5:40 AM",
+          "iqamah": "6:30 AM"
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:21 AM",
-          "iqamah": "7:21 AM"
+          "adhan": "7:23 AM",
+          "iqamah": "7:23 AM"
         },
         {
           "salat": "Dhuhr",
@@ -901,18 +870,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:44 PM",
+          "adhan": "4:42 PM",
           "iqamah": "5:10 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:39 PM",
-          "iqamah": "6:41 PM"
+          "adhan": "6:37 PM",
+          "iqamah": "6:39 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "8:02 PM",
-          "iqamah": "8:20 PM"
+          "adhan": "8:00 PM",
+          "iqamah": "8:10 PM"
         }
       ],
       "jummah": "1:30 PM"
@@ -931,13 +900,13 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:36 AM",
+          "adhan": "5:38 AM",
           "iqamah": "6:20 AM"
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:20 AM",
-          "iqamah": "7:20 AM"
+          "adhan": "7:21 AM",
+          "iqamah": "7:21 AM"
         },
         {
           "salat": "Dhuhr",
@@ -946,18 +915,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:45 PM",
+          "adhan": "4:43 PM",
           "iqamah": "5:20 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:36 PM",
-          "iqamah": "6:36 PM"
+          "adhan": "6:34 PM",
+          "iqamah": "6:34 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "8:14 PM",
-          "iqamah": "8:24 PM"
+          "adhan": "8:12 PM",
+          "iqamah": "8:22 PM"
         }
       ],
       "jummah": "1:30 PM"
@@ -990,13 +959,13 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:42 AM",
-          "iqamah": "6:30 AM"
+          "adhan": "5:44 AM",
+          "iqamah": "6:40 AM"
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:21 AM",
-          "iqamah": "7:21 AM"
+          "adhan": "7:22 AM",
+          "iqamah": "7:22 AM"
         },
         {
           "salat": "Dhuhr",
@@ -1005,18 +974,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:44 PM",
-          "iqamah": "5:00 PM"
+          "adhan": "4:42 PM",
+          "iqamah": "4:50 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:38 PM",
-          "iqamah": "6:43 PM"
+          "adhan": "6:36 PM",
+          "iqamah": "6:41 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "8:02 PM",
-          "iqamah": "8:20 PM"
+          "adhan": "8:00 PM",
+          "iqamah": "8:10 PM"
         }
       ],
       "jummah": "1:30 PM"
@@ -1032,13 +1001,13 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:36 AM",
+          "adhan": "5:38 AM",
           "iqamah": "6:40 AM"
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:20 AM",
-          "iqamah": "7:20 AM"
+          "adhan": "7:21 AM",
+          "iqamah": "7:21 AM"
         },
         {
           "salat": "Dhuhr",
@@ -1047,17 +1016,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "3:59 PM",
+          "adhan": "3:57 PM",
           "iqamah": "5:30 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:36 PM",
-          "iqamah": "6:36 PM"
+          "adhan": "6:34 PM",
+          "iqamah": "6:34 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "8:14 PM",
+          "adhan": "8:12 PM",
           "iqamah": "8:30 PM"
         }
       ],
@@ -1069,8 +1038,8 @@
       "address": "15515 24 Ave #61, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.0464944,
-        "longitude": -122.7919345
+        "latitude": 49.0464025,
+        "longitude": -122.7927862
       },
       "organization": null,
       "website": "https://whiterockmuslims.com/prayer-services",
@@ -1083,21 +1052,21 @@
       "address": "181 Keefer Street, Unit 202, Vancouver, BC, CA",
       "city": "Vancouver",
       "coordinates": {
-        "latitude": 49.2792344,
-        "longitude": -123.1023986
+        "latitude": 49.2793403,
+        "longitude": -123.0916054
       },
       "organization": "Located in Downtown Vancouver",
       "website": "https://www.ajyal.ca/",
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:56 AM",
+          "adhan": "5:57 AM",
           "iqamah": "6:20 AM"
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:23 AM",
-          "iqamah": "7:23 AM"
+          "adhan": "7:24 AM",
+          "iqamah": "7:24 AM"
         },
         {
           "salat": "Dhuhr",
@@ -1106,17 +1075,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:00 PM",
-          "iqamah": "4:09 PM"
+          "adhan": "3:58 PM",
+          "iqamah": "4:08 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:36 PM",
-          "iqamah": "6:40 PM"
+          "adhan": "6:34 PM",
+          "iqamah": "6:38 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "8:03 PM",
+          "adhan": "8:01 PM",
           "iqamah": "8:15 PM"
         }
       ],
@@ -1136,13 +1105,13 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:56 AM",
+          "adhan": "5:57 AM",
           "iqamah": "6:15 AM"
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:23 AM",
-          "iqamah": "7:23 AM"
+          "adhan": "7:25 AM",
+          "iqamah": "7:25 AM"
         },
         {
           "salat": "Dhuhr",
@@ -1151,17 +1120,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:00 PM",
+          "adhan": "3:58 PM",
           "iqamah": "5:10 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:36 PM",
-          "iqamah": "6:41 PM"
+          "adhan": "6:34 PM",
+          "iqamah": "6:39 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "8:03 PM",
+          "adhan": "8:01 PM",
           "iqamah": "8:45 PM"
         }
       ],
@@ -1178,32 +1147,32 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:56 AM",
+          "adhan": "5:58 AM",
           "iqamah": "6:15 AM"
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:21 AM",
-          "iqamah": "7:21 AM"
+          "adhan": "7:23 AM",
+          "iqamah": "7:23 AM"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "1:01 PM",
-          "iqamah": "1:30 PM"
+          "adhan": "1:00 PM",
+          "iqamah": "1:40 PM"
         },
         {
           "salat": "Asr",
-          "adhan": "4:01 PM",
+          "adhan": "4:00 PM",
           "iqamah": "4:20 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:39 PM",
-          "iqamah": "6:44 PM"
+          "adhan": "6:36 PM",
+          "iqamah": "6:41 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "8:05 PM",
+          "adhan": "8:03 PM",
           "iqamah": "8:15 PM"
         }
       ],
@@ -1228,8 +1197,8 @@
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:19 AM",
-          "iqamah": "7:19 AM"
+          "adhan": "7:21 AM",
+          "iqamah": "7:21 AM"
         },
         {
           "salat": "Dhuhr",
@@ -1238,18 +1207,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:03 PM",
+          "adhan": "4:01 PM",
           "iqamah": "4:45 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:40 PM",
-          "iqamah": "6:45 PM"
+          "adhan": "6:38 PM",
+          "iqamah": "6:43 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "8:11 PM",
-          "iqamah": "8:21 PM"
+          "adhan": "8:09 PM",
+          "iqamah": "8:19 PM"
         }
       ],
       "jummah": "1:30 PM"
@@ -1268,13 +1237,13 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:42 AM",
-          "iqamah": "6:00 AM"
+          "adhan": "5:44 AM",
+          "iqamah": "6:15 AM"
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:23 AM",
-          "iqamah": "7:23 AM"
+          "adhan": "7:24 AM",
+          "iqamah": "7:24 AM"
         },
         {
           "salat": "Dhuhr",
@@ -1283,18 +1252,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:04 PM",
+          "adhan": "4:02 PM",
           "iqamah": "5:00 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:37 PM",
-          "iqamah": "6:42 PM"
+          "adhan": "6:35 PM",
+          "iqamah": "6:40 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "8:11 PM",
-          "iqamah": "8:21 PM"
+          "adhan": "8:09 PM",
+          "iqamah": "8:19 PM"
         }
       ],
       "jummah": "1:30 PM"
@@ -1318,8 +1287,8 @@
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:21 AM",
-          "iqamah": "7:21 AM"
+          "adhan": "7:23 AM",
+          "iqamah": "7:23 AM"
         },
         {
           "salat": "Dhuhr",
@@ -1333,8 +1302,8 @@
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:43 PM",
-          "iqamah": "6:43 PM"
+          "adhan": "6:41 PM",
+          "iqamah": "6:41 PM"
         },
         {
           "salat": "Isha",
@@ -1363,8 +1332,8 @@
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:19 AM",
-          "iqamah": "7:19 AM"
+          "adhan": "7:21 AM",
+          "iqamah": "7:21 AM"
         },
         {
           "salat": "Dhuhr",
@@ -1373,13 +1342,13 @@
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:40 PM",
-          "iqamah": "6:45 PM"
+          "adhan": "6:38 PM",
+          "iqamah": "6:43 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "8:11 PM",
-          "iqamah": "8:16 PM"
+          "adhan": "8:09 PM",
+          "iqamah": "8:14 PM"
         }
       ],
       "jummah": null
@@ -1398,13 +1367,13 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:56 AM",
+          "adhan": "5:57 AM",
           "iqamah": "6:20 AM"
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:23 AM",
-          "iqamah": "7:23 AM"
+          "adhan": "7:25 AM",
+          "iqamah": "7:25 AM"
         },
         {
           "salat": "Dhuhr",
@@ -1413,17 +1382,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:00 PM",
+          "adhan": "3:58 PM",
           "iqamah": "4:15 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:36 PM",
-          "iqamah": "6:41 PM"
+          "adhan": "6:34 PM",
+          "iqamah": "6:39 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "8:03 PM",
+          "adhan": "8:01 PM",
           "iqamah": "8:20 PM"
         }
       ],
