@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-10T00:29:26.115Z",
+  "scrapedAt": "2026-10-10T06:40:05.366Z",
   "mosques": [
     {
       "id": "979b2ff1-f133-443a-a808-e05ad4273a14",
@@ -12,39 +12,8 @@
       },
       "organization": null,
       "website": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:59 AM",
-          "iqamah": "6:30 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "7:24 AM",
-          "iqamah": "7:24 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:00 PM",
-          "iqamah": "1:45 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "3:58 PM",
-          "iqamah": "4:15 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "6:34 PM",
-          "iqamah": "6:39 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "8:01 PM",
-          "iqamah": "8:30 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "a71534e1-caa0-429a-a5c3-e102b4bdce0d",
@@ -468,8 +437,8 @@
       "address": "1398 W. 15th St., North Vancouver, British Columbia, Canada",
       "city": "North Vancouver",
       "coordinates": {
-        "latitude": 49.3222175,
-        "longitude": -123.0857374
+        "latitude": 49.3222626,
+        "longitude": -123.0911522
       },
       "organization": null,
       "website": "https://northvanmasjid.ca/",
@@ -555,44 +524,13 @@
       "address": "12031 Second Ave, Richmond, British Columbia, Canada",
       "city": "Richmond",
       "coordinates": {
-        "latitude": 49.1246879,
-        "longitude": -123.184256
+        "latitude": 49.1256661,
+        "longitude": -123.1842612
       },
       "organization": null,
       "website": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:39 AM",
-          "iqamah": "6:15 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "7:23 AM",
-          "iqamah": "7:23 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "12:58 PM",
-          "iqamah": "1:45 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "3:56 PM",
-          "iqamah": "4:30 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "6:32 PM",
-          "iqamah": "6:37 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "8:10 PM",
-          "iqamah": "8:30 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "0712ba08-ad7c-45f3-8fe3-caaae76dbf4d",
@@ -645,8 +583,8 @@
       "address": "7375 144 Street, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.1456792,
-        "longitude": -122.8234324
+        "latitude": 49.1954314,
+        "longitude": -122.8230573
       },
       "organization": null,
       "website": null,
@@ -780,8 +718,8 @@
       "address": "17665 66A Ave, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.1234506,
-        "longitude": -122.7333016
+        "latitude": 49.1238268,
+        "longitude": -122.733699
       },
       "organization": "ddd",
       "website": "https://cloverdaleislamiccenter.com/",
@@ -1252,8 +1190,8 @@
       "address": "655 W. 8th Avenue, Vancouver, British Columbia, Canada",
       "city": "Vancouver",
       "coordinates": {
-        "latitude": 49.2644174,
-        "longitude": -123.1189904
+        "latitude": 49.264157,
+        "longitude": -123.1166636
       },
       "organization": null,
       "website": "https://pakcanbc.com/al-jamia-masjid-vancouver",
