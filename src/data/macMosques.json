@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-09T20:35:46.715Z",
+  "scrapedAt": "2026-10-10T00:33:58.351Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -149,7 +149,7 @@
         {
           "salat": "Dhuhr",
           "adhan": "1:10 PM",
-          "iqamah": "3:30 PM"
+          "iqamah": "1:45 PM"
         },
         {
           "salat": "Asr",
@@ -269,27 +269,27 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "6:11 am",
+          "adhan": "6:12 am",
           "iqamah": "6:45 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "1:09 pm",
+          "adhan": "1:08 pm",
           "iqamah": "1:45 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "4:16 pm",
+          "adhan": "4:15 pm",
           "iqamah": "4:30 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:49 pm",
-          "iqamah": "6:54 pm"
+          "adhan": "6:47 pm",
+          "iqamah": "6:52 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "8:07 pm",
+          "adhan": "8:05 pm",
           "iqamah": "8:15 pm"
         }
       ],
@@ -492,7 +492,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:43 am",
+          "adhan": "5:44 am",
           "iqamah": "6:00 am"
         },
         {
@@ -502,18 +502,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "3:47 pm",
+          "adhan": "3:46 pm",
           "iqamah": "4:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:21 pm",
-          "iqamah": "6:26 pm"
+          "adhan": "6:19 pm",
+          "iqamah": "6:24 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "7:42 pm",
-          "iqamah": "7:47 pm"
+          "adhan": "7:40 pm",
+          "iqamah": "7:45 pm"
         }
       ],
       "jummah": null
@@ -717,7 +717,7 @@
     },
     {
       "slug": "masjidtoronto",
-      "name": "Masjid Toronto (Dundas & Adelaide)",
+      "name": "Masjid Toronto Dundas & Adelaide",
       "province": "Ontario",
       "city": "Toronto",
       "address": "168 Dundas St. West, Toronto, ON M5G 1C6 Canada",
@@ -821,7 +821,7 @@
         {
           "salat": "Dhuhr",
           "adhan": "1:19 pm",
-          "iqamah": "1:30 pm"
+          "iqamah": "2:00 pm"
         },
         {
           "salat": "Asr",
