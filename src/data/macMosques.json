@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-10T18:17:40.502Z",
+  "scrapedAt": "2026-10-11T01:35:51.900Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -297,7 +297,7 @@
     },
     {
       "slug": "westmount",
-      "name": "MAC Westmount Islamic Centre",
+      "name": "Westmount Masjid",
       "province": "Ontario",
       "city": "London",
       "address": "312 Commissioners Rd W Unit 5, London, ON N6J 1Y3",
@@ -492,7 +492,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:44 am",
+          "adhan": "5:45 am",
           "iqamah": "6:00 am"
         },
         {
@@ -502,18 +502,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "3:46 pm",
+          "adhan": "3:44 pm",
           "iqamah": "4:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:19 pm",
-          "iqamah": "6:24 pm"
+          "adhan": "6:17 pm",
+          "iqamah": "6:22 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "7:40 pm",
-          "iqamah": "7:45 pm"
+          "adhan": "7:38 pm",
+          "iqamah": "7:43 pm"
         }
       ],
       "jummah": null
