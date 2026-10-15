@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-14T21:19:56.196Z",
+  "scrapedAt": "2026-10-15T00:22:42.792Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -269,7 +269,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "6:16 am",
+          "adhan": "6:18 am",
           "iqamah": "6:45 am"
         },
         {
@@ -279,18 +279,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:09 pm",
+          "adhan": "4:08 pm",
           "iqamah": "4:30 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:40 pm",
-          "iqamah": "6:45 pm"
+          "adhan": "6:39 pm",
+          "iqamah": "6:44 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "7:59 pm",
-          "iqamah": "8:15 pm"
+          "adhan": "7:57 pm",
+          "iqamah": "8:00 pm"
         }
       ],
       "jummah": null
@@ -423,7 +423,7 @@
     },
     {
       "slug": "theciic",
-      "name": "Canadian Institute of Islamic Civilization (CIIC)",
+      "name": "The CIIC Montreal",
       "province": "Quebec",
       "city": "Montreal",
       "address": "615 Rue Belmont, Montréal, QC H3B 2L8",
@@ -450,7 +450,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:49 am",
+          "adhan": "5:50 am",
           "iqamah": "6:00 am"
         },
         {
@@ -460,18 +460,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "3:40 pm",
+          "adhan": "3:39 pm",
           "iqamah": "4:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:12 pm",
-          "iqamah": "6:17 pm"
+          "adhan": "6:10 pm",
+          "iqamah": "6:15 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "7:33 pm",
-          "iqamah": "7:38 pm"
+          "adhan": "7:31 pm",
+          "iqamah": "7:36 pm"
         }
       ],
       "jummah": "12:15 pm"
@@ -492,7 +492,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:49 am",
+          "adhan": "5:50 am",
           "iqamah": "6:00 am"
         },
         {
@@ -502,18 +502,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "3:40 pm",
+          "adhan": "3:39 pm",
           "iqamah": "4:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:12 pm",
-          "iqamah": "6:17 pm"
+          "adhan": "6:10 pm",
+          "iqamah": "6:15 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "7:33 pm",
-          "iqamah": "7:38 pm"
+          "adhan": "7:31 pm",
+          "iqamah": "7:36 pm"
         }
       ],
       "jummah": null
@@ -685,7 +685,7 @@
     },
     {
       "slug": "qic",
-      "name": "Qurtuba Islamic Centre",
+      "name": "MAC Qurtuba",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1950 Merivale Rd, Ottawa, ON K2G 5T5, Canada",
