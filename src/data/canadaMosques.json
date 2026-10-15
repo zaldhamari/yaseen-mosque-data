@@ -1,6 +1,6 @@
 {
-  "scrapedAt": "2026-10-15T15:39:45.258Z",
-  "totalMosques": 604,
+  "scrapedAt": "2026-10-15T19:53:55.967Z",
+  "totalMosques": 606,
   "provinces": 14,
   "sources": [
     "bc_hardcoded",
@@ -632,8 +632,8 @@
       "city": "Surrey",
       "address": "17665 66A Ave, Surrey, British Columbia, Canada",
       "coordinates": {
-        "latitude": 49.1234506,
-        "longitude": -122.7333016
+        "latitude": 49.1238268,
+        "longitude": -122.733699
       },
       "organization": "ddd",
       "website": "https://cloverdaleislamiccenter.com/",
@@ -674,52 +674,21 @@
       "source": "awqat"
     },
     {
-      "id": "awqat_55e77293-56c3-45c2-a6a8-ba374b5eabbb",
+      "id": "bc_faizan_e_madina",
       "name": "Faizan-e-Madina Islamic Center",
       "province": "British Columbia",
       "city": "Surrey",
-      "address": "7062 134 St, Surrey, British Columbia, Canada",
+      "address": "7062 134 St, Surrey, BC V3W 5E7",
       "coordinates": {
         "latitude": 49.1309848,
         "longitude": -122.8508961
       },
-      "organization": "Weekly Halaqa Every Thursday | 7 pm",
-      "website": "https://dawateislamicanada.net/",
+      "organization": null,
+      "website": null,
       "phone": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:46 AM",
-          "iqamah": "6:30 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "7:30 AM",
-          "iqamah": "7:30 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "12:58 PM",
-          "iqamah": "1:30 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "4:34 PM",
-          "iqamah": "5:30 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "6:23 PM",
-          "iqamah": "6:23 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "8:07 PM",
-          "iqamah": "8:30 PM"
-        }
-      ],
-      "jummah": "1:30 PM",
-      "source": "awqat"
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "bc_hardcoded"
     },
     {
       "id": "awqat_65059b19-8a2c-4aa2-b40b-d26696fa827c",
@@ -1030,52 +999,21 @@
       "source": "awqat"
     },
     {
-      "id": "awqat_42a4f039-5e07-4241-a8ab-e067199cf5fe",
+      "id": "bc_ajyal_vancouver",
       "name": "Ajyal Islamic Center",
       "province": "British Columbia",
       "city": "Vancouver",
-      "address": "181 Keefer Street, Unit 202, Vancouver, BC, CA",
+      "address": "181 Keefer Street, Unit 202, Vancouver, BC V6A 1X3",
       "coordinates": {
-        "latitude": 49.2792344,
-        "longitude": -123.1023986
+        "latitude": 49.2792225,
+        "longitude": -123.1035282
       },
-      "organization": "Located in Downtown Vancouver",
-      "website": "https://www.ajyal.ca/",
+      "organization": null,
+      "website": null,
       "phone": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "6:06 AM",
-          "iqamah": "6:30 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "7:34 AM",
-          "iqamah": "7:34 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "12:58 PM",
-          "iqamah": "1:30 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "3:49 PM",
-          "iqamah": "3:58 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "6:22 PM",
-          "iqamah": "6:26 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "7:49 PM",
-          "iqamah": "8:00 PM"
-        }
-      ],
-      "jummah": "1:30 PM",
-      "source": "awqat"
+      "prayerTimes": [],
+      "jummah": null,
+      "source": "bc_hardcoded"
     },
     {
       "id": "awqat_dba7e795-3213-44a1-b8b6-c0c6d49f4126",
@@ -5345,8 +5283,8 @@
       "city": "Mississauga",
       "address": "966 Dundas St E, Unit 14, Mississauga, ON L4Y 4H5",
       "coordinates": {
-        "latitude": 43.6001566,
-        "longitude": -79.5929824
+        "latitude": 43.5997854,
+        "longitude": -79.5932131
       },
       "organization": "ICNA Canada",
       "website": "https://icna.ca/966/",
@@ -11496,8 +11434,8 @@
       "city": "Richmond",
       "address": "12031 Second Ave, Richmond, British Columbia, Canada",
       "coordinates": {
-        "latitude": 49.130107,
-        "longitude": -123.1842466
+        "latitude": 49.1246879,
+        "longitude": -123.184256
       },
       "organization": null,
       "website": null,
@@ -11535,6 +11473,20 @@
         }
       ],
       "jummah": "1:30 PM",
+      "source": "awqat"
+    },
+    {
+      "id": "awqat_55e77293-56c3-45c2-a6a8-ba374b5eabbb",
+      "name": "Faizan-e-Madina Islamic Center",
+      "province": "British Columbia",
+      "city": "Vancouver",
+      "address": "",
+      "coordinates": null,
+      "organization": null,
+      "website": null,
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null,
       "source": "awqat"
     },
     {
@@ -11622,6 +11574,54 @@
           "salat": "Isha",
           "adhan": "8:00 PM",
           "iqamah": "8:10 PM"
+        }
+      ],
+      "jummah": "1:30 PM",
+      "source": "awqat"
+    },
+    {
+      "id": "awqat_42a4f039-5e07-4241-a8ab-e067199cf5fe",
+      "name": "Ajyal Islamic Center",
+      "province": "British Columbia",
+      "city": "Vancouver",
+      "address": "181 Keefer Street, Unit 202, Vancouver, BC, CA",
+      "coordinates": {
+        "latitude": 49.2793403,
+        "longitude": -123.0916054
+      },
+      "organization": "Located in Downtown Vancouver",
+      "website": "https://www.ajyal.ca/",
+      "phone": null,
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "6:06 AM",
+          "iqamah": "6:30 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "7:34 AM",
+          "iqamah": "7:34 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "12:58 PM",
+          "iqamah": "1:30 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "3:49 PM",
+          "iqamah": "3:58 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "6:22 PM",
+          "iqamah": "6:26 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "7:49 PM",
+          "iqamah": "8:00 PM"
         }
       ],
       "jummah": "1:30 PM",
