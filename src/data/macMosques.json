@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-15T19:45:46.174Z",
+  "scrapedAt": "2026-10-15T22:55:07.636Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -423,7 +423,7 @@
     },
     {
       "slug": "theciic",
-      "name": "Canadian Institute of Islamic Civilization (CIIC)",
+      "name": "The CIIC Montreal",
       "province": "Quebec",
       "city": "Montreal",
       "address": "615 Rue Belmont, Montréal, QC H3B 2L8",
@@ -439,13 +439,13 @@
     },
     {
       "slug": "mac-quebec",
-      "name": "Centre communautaire MAC, ville de Québec",
+      "name": "Centre Communautaire MAC (Ville de Québec)",
       "province": "Quebec",
       "city": "Quebec City",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/mac-quebec/fr/",
+      "website": "https://centres.macnet.ca/mac-quebec/",
       "phone": null,
       "prayerTimes": [
         {
