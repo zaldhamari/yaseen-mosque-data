@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-16T15:14:22.284Z",
+  "scrapedAt": "2026-10-16T19:20:05.999Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -8,8 +8,8 @@
       "city": "Cold Lake",
       "address": "5003 50 Ave, Cold Lake, AB T9M 1X6",
       "coordinates": {
-        "latitude": 54.4133827,
-        "longitude": -110.2126489
+        "latitude": 54.413442,
+        "longitude": -110.2314264
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/coldlake/",
@@ -149,7 +149,7 @@
         {
           "salat": "Dhuhr",
           "adhan": "1:08 PM",
-          "iqamah": "1:30 PM"
+          "iqamah": "3:30 PM"
         },
         {
           "salat": "Asr",
@@ -685,7 +685,7 @@
     },
     {
       "slug": "qic",
-      "name": "MAC Qurtuba",
+      "name": "Qurtuba Islamic Centre",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1950 Merivale Rd, Ottawa, ON K2G 5T5, Canada",
