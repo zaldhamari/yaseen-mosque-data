@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-18T00:00:59.435Z",
+  "scrapedAt": "2026-10-18T02:44:51.452Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -269,7 +269,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "6:20 am",
+          "adhan": "6:21 am",
           "iqamah": "6:45 am"
         },
         {
@@ -279,17 +279,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:06 pm",
+          "adhan": "4:04 pm",
           "iqamah": "4:30 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:35 pm",
-          "iqamah": "6:40 pm"
+          "adhan": "6:34 pm",
+          "iqamah": "6:39 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "7:54 pm",
+          "adhan": "7:52 pm",
           "iqamah": "8:00 pm"
         }
       ],
@@ -297,7 +297,7 @@
     },
     {
       "slug": "westmount",
-      "name": "Westmount Masjid",
+      "name": "MAC Westmount Islamic Centre",
       "province": "Ontario",
       "city": "London",
       "address": "312 Commissioners Rd W Unit 5, London, ON N6J 1Y3",
@@ -423,7 +423,7 @@
     },
     {
       "slug": "theciic",
-      "name": "The CIIC Montreal",
+      "name": "Canadian Institute of Islamic Civilization (CIIC)",
       "province": "Quebec",
       "city": "Montreal",
       "address": "615 Rue Belmont, Montréal, QC H3B 2L8",
@@ -439,18 +439,18 @@
     },
     {
       "slug": "mac-quebec",
-      "name": "Centre Communautaire MAC (Ville de Québec)",
+      "name": "Centre communautaire MAC, ville de Québec",
       "province": "Quebec",
       "city": "Quebec City",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/mac-quebec/",
+      "website": "https://centres.macnet.ca/mac-quebec/fr/",
       "phone": null,
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:53 am",
+          "adhan": "5:54 am",
           "iqamah": "6:00 am"
         },
         {
@@ -460,18 +460,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "3:36 pm",
+          "adhan": "3:35 pm",
           "iqamah": "4:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:07 pm",
-          "iqamah": "6:12 pm"
+          "adhan": "6:05 pm",
+          "iqamah": "6:10 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "7:28 pm",
-          "iqamah": "7:33 pm"
+          "adhan": "7:26 pm",
+          "iqamah": "7:31 pm"
         }
       ],
       "jummah": "12:15 pm"
@@ -492,7 +492,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:53 am",
+          "adhan": "5:54 am",
           "iqamah": "6:00 am"
         },
         {
@@ -502,18 +502,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "3:36 pm",
+          "adhan": "3:35 pm",
           "iqamah": "4:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:07 pm",
-          "iqamah": "6:12 pm"
+          "adhan": "6:05 pm",
+          "iqamah": "6:10 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "7:28 pm",
-          "iqamah": "7:33 pm"
+          "adhan": "7:26 pm",
+          "iqamah": "7:31 pm"
         }
       ],
       "jummah": null
@@ -643,7 +643,7 @@
     },
     {
       "slug": "bic",
-      "name": "MAC Barrhaven Islamic Centre",
+      "name": "Barrhaven Islamic Centre",
       "province": "Ontario",
       "city": "Nepean",
       "address": "3971 Greenbank Road,Nepean, ON K2C 3H2  info@bic.macnet.ca",
