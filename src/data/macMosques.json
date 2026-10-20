@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-20T07:08:05.693Z",
+  "scrapedAt": "2026-10-20T13:19:51.974Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -143,8 +143,8 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "6:23 AM",
-          "iqamah": "6:30 AM"
+          "adhan": "6:25 AM",
+          "iqamah": "6:40 AM"
         },
         {
           "salat": "Dhuhr",
@@ -153,18 +153,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:49 PM",
-          "iqamah": "5:15 PM"
+          "adhan": "4:47 PM",
+          "iqamah": "5:00 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:33 PM",
-          "iqamah": "6:37 PM"
+          "adhan": "6:32 PM",
+          "iqamah": "6:36 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "7:52 PM",
-          "iqamah": "8:15 PM"
+          "adhan": "7:50 PM",
+          "iqamah": "8:00 PM"
         }
       ],
       "jummah": "1:30 PM"
@@ -269,7 +269,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "6:22 am",
+          "adhan": "6:23 am",
           "iqamah": "6:45 am"
         },
         {
@@ -279,17 +279,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "4:03 pm",
+          "adhan": "4:02 pm",
           "iqamah": "4:15 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:32 pm",
-          "iqamah": "6:37 pm"
+          "adhan": "6:30 pm",
+          "iqamah": "6:35 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "7:51 pm",
+          "adhan": "7:49 pm",
           "iqamah": "8:00 pm"
         }
       ],
@@ -302,8 +302,8 @@
       "city": "London",
       "address": "312 Commissioners Rd W Unit 5, London, ON N6J 1Y3",
       "coordinates": {
-        "latitude": 42.9559774,
-        "longitude": -81.2763725
+        "latitude": 42.9558777,
+        "longitude": -81.2756337
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/westmount/",
@@ -423,7 +423,7 @@
     },
     {
       "slug": "theciic",
-      "name": "The CIIC Montreal",
+      "name": "Canadian Institute of Islamic Civilization (CIIC)",
       "province": "Quebec",
       "city": "Montreal",
       "address": "615 Rue Belmont, Montréal, QC H3B 2L8",
