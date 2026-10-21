@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-21T17:56:22.517Z",
+  "scrapedAt": "2026-10-21T21:14:50.411Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -8,8 +8,8 @@
       "city": "Cold Lake",
       "address": "5003 50 Ave, Cold Lake, AB T9M 1X6",
       "coordinates": {
-        "latitude": 54.4133827,
-        "longitude": -110.2126489
+        "latitude": 54.413442,
+        "longitude": -110.2314264
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/coldlake/",
@@ -423,7 +423,7 @@
     },
     {
       "slug": "theciic",
-      "name": "Canadian Institute of Islamic Civilization (CIIC)",
+      "name": "The CIIC Montreal",
       "province": "Quebec",
       "city": "Montreal",
       "address": "615 Rue Belmont, Montréal, QC H3B 2L8",
@@ -520,13 +520,13 @@
     },
     {
       "slug": "ccv",
-      "name": "Accueil",
+      "name": "Centre Communautaire Villeray (CCV) / Mosquée Aboubakr",
       "province": "Quebec",
       "city": "Montreal",
       "address": "371, Rue Jean-Talon, Montreal, QC H2R1T4\n (514) 506-8899\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tFacebook",
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/ccv/fr/accueil/",
+      "website": "https://centres.macnet.ca/ccv/",
       "phone": "(514) 506-8899",
       "prayerTimes": [
         {
@@ -610,7 +610,7 @@
         "longitude": -73.7222594
       },
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/alrawdah/",
+      "website": "https://centres.macnet.ca/alrawdah/fr/",
       "phone": "(514) 227-5000",
       "prayerTimes": [
         {
@@ -685,7 +685,7 @@
     },
     {
       "slug": "qic",
-      "name": "Qurtuba Islamic Centre",
+      "name": "MAC Qurtuba",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1950 Merivale Rd, Ottawa, ON K2G 5T5, Canada",
@@ -701,7 +701,7 @@
     },
     {
       "slug": "mycentre",
-      "name": "MAC Islamic Centre",
+      "name": "Islamic Centre Ottawa",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1085 Grenon Ave, Ottawa, ON, Canada",
@@ -759,7 +759,7 @@
     },
     {
       "slug": "macvancouvercentre",
-      "name": "MAC Vancouver Centre",
+      "name": "MAC Vancouver Center",
       "province": "British Columbia",
       "city": "Vancouver",
       "address": "2122 Kingsway, Vancouver, BC V5N 2T5",
