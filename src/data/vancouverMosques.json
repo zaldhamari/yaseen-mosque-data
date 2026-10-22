@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-22T11:02:10.247Z",
+  "scrapedAt": "2026-10-22T15:52:32.436Z",
   "mosques": [
     {
       "id": "979b2ff1-f133-443a-a808-e05ad4273a14",
@@ -40,39 +40,8 @@
       },
       "organization": null,
       "website": "https://www.bmismosque.com/",
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "6:30 AM",
-          "iqamah": "6:40 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "7:45 AM",
-          "iqamah": "7:45 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:30 PM",
-          "iqamah": "1:40 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "4:20 PM",
-          "iqamah": "4:30 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "6:09 PM",
-          "iqamah": "6:14 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "7:40 PM",
-          "iqamah": "7:50 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "aee6c992-6831-41c8-9b56-2ca5af4d28ec",
@@ -302,8 +271,8 @@
       "address": "5768 203 St, Langley, British Columbia, Canada",
       "city": "Langley",
       "coordinates": {
-        "latitude": 49.1033694,
-        "longitude": -122.660223
+        "latitude": 49.1026218,
+        "longitude": -122.6596383
       },
       "organization": "Islamic Waqf Of Canada",
       "website": "https://www.islamicwaqf.ca/",
@@ -397,39 +366,8 @@
       },
       "organization": "Canada Islamic Cultural Society (CICS)",
       "website": "https://cicsnw.org/",
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "6:16 AM",
-          "iqamah": "6:30 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "7:44 AM",
-          "iqamah": "7:44 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "12:56 PM",
-          "iqamah": "1:40 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "4:21 PM",
-          "iqamah": "4:30 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "6:08 PM",
-          "iqamah": "6:13 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "7:35 PM",
-          "iqamah": "8:15 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "e7bfc68e-552f-4921-851a-cf64127aec31",
@@ -437,8 +375,8 @@
       "address": "1398 W. 15th St., North Vancouver, British Columbia, Canada",
       "city": "North Vancouver",
       "coordinates": {
-        "latitude": 49.3222972,
-        "longitude": -123.0958186
+        "latitude": 49.3221876,
+        "longitude": -123.0833542
       },
       "organization": null,
       "website": "https://northvanmasjid.ca/",
@@ -524,44 +462,13 @@
       "address": "12031 Second Ave, Richmond, British Columbia, Canada",
       "city": "Richmond",
       "coordinates": {
-        "latitude": 49.1256661,
-        "longitude": -123.1842612
+        "latitude": 49.130107,
+        "longitude": -123.1842466
       },
       "organization": null,
       "website": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:57 AM",
-          "iqamah": "6:30 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "7:41 AM",
-          "iqamah": "7:41 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "12:56 PM",
-          "iqamah": "1:45 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "3:38 PM",
-          "iqamah": "4:15 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "6:09 PM",
-          "iqamah": "6:14 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "7:48 PM",
-          "iqamah": "8:15 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "0712ba08-ad7c-45f3-8fe3-caaae76dbf4d",
@@ -574,39 +481,8 @@
       },
       "organization": "BCMA Jamea Masjid Richmond HQ",
       "website": "https://org.thebcma.com/richmond",
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:57 AM",
-          "iqamah": "6:30 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "7:41 AM",
-          "iqamah": "7:41 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "12:56 PM",
-          "iqamah": "1:45 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "3:38 PM",
-          "iqamah": "4:15 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "6:09 PM",
-          "iqamah": "6:14 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "7:48 PM",
-          "iqamah": "8:15 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "b5e1a759-5980-4347-be43-8723e3dcaa72",
@@ -614,8 +490,8 @@
       "address": "7375 144 Street, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.1633785,
-        "longitude": -122.8234765
+        "latitude": 49.1076691,
+        "longitude": -122.8233734
       },
       "organization": null,
       "website": null,
@@ -709,39 +585,8 @@
       },
       "organization": null,
       "website": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "6:20 AM",
-          "iqamah": "6:30 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "7:43 AM",
-          "iqamah": "7:43 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:35 PM",
-          "iqamah": "1:45 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "5:00 PM",
-          "iqamah": "5:10 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "6:12 PM",
-          "iqamah": "6:12 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "7:50 PM",
-          "iqamah": "8:00 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "1616938b-4503-4f9a-8d36-2dc6f5419d85",
@@ -768,39 +613,8 @@
       },
       "organization": "Weekly Halaqa Every Thursday | 7 pm",
       "website": "https://dawateislamicanada.net/",
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:57 AM",
-          "iqamah": "6:45 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "7:41 AM",
-          "iqamah": "7:41 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "12:56 PM",
-          "iqamah": "1:30 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "4:22 PM",
-          "iqamah": "5:00 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "6:10 PM",
-          "iqamah": "6:10 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "7:54 PM",
-          "iqamah": "8:30 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "65059b19-8a2c-4aa2-b40b-d26696fa827c",
@@ -813,39 +627,8 @@
       },
       "organization": "Units 17 & 18",
       "website": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:59 AM",
-          "iqamah": "6:40 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "7:43 AM",
-          "iqamah": "7:43 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:06 PM",
-          "iqamah": "1:40 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "4:19 PM",
-          "iqamah": "5:10 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "6:11 PM",
-          "iqamah": "6:11 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "7:35 PM",
-          "iqamah": "8:00 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "3fc905d5-5fc3-4d74-975c-f167c425e315",
@@ -855,39 +638,8 @@
       "coordinates": null,
       "organization": null,
       "website": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:59 AM",
-          "iqamah": "6:40 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "7:43 AM",
-          "iqamah": "7:43 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:06 PM",
-          "iqamah": "1:40 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "4:19 PM",
-          "iqamah": "5:10 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "6:13 PM",
-          "iqamah": "6:15 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "7:35 PM",
-          "iqamah": "8:00 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "a5482569-9b79-47c8-b2de-4fda4ac81931",
@@ -900,39 +652,8 @@
       },
       "organization": null,
       "website": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:59 AM",
-          "iqamah": "6:30 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "7:43 AM",
-          "iqamah": "7:43 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:30 PM",
-          "iqamah": "1:40 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "5:00 PM",
-          "iqamah": "5:10 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "6:11 PM",
-          "iqamah": "6:16 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "7:50 PM",
-          "iqamah": "8:00 PM"
-        }
-      ],
-      "jummah": "1:10 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "09f21b0e-64a6-493f-8e45-e713b05a917b",
@@ -945,39 +666,8 @@
       },
       "organization": "Al Noor Islamic Center",
       "website": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:59 AM",
-          "iqamah": "6:40 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "7:43 AM",
-          "iqamah": "7:43 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:06 PM",
-          "iqamah": "1:40 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "4:19 PM",
-          "iqamah": "5:10 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "6:11 PM",
-          "iqamah": "6:13 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "7:35 PM",
-          "iqamah": "8:00 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "30095751-d33a-4daa-963b-a56d38cdb261",
@@ -1122,39 +812,8 @@
       "coordinates": null,
       "organization": null,
       "website": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:57 AM",
-          "iqamah": "6:40 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "7:41 AM",
-          "iqamah": "7:41 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "12:56 PM",
-          "iqamah": "1:40 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "3:38 PM",
-          "iqamah": "5:10 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "6:09 PM",
-          "iqamah": "6:09 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "7:48 PM",
-          "iqamah": "8:00 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "e2fb4334-c87a-4372-9761-8a06627305c2",
@@ -1176,8 +835,8 @@
       "address": "181 Keefer Street, Unit 202, Vancouver, BC, CA",
       "city": "Vancouver",
       "coordinates": {
-        "latitude": 49.2793403,
-        "longitude": -123.0916054
+        "latitude": 49.2792344,
+        "longitude": -123.1023986
       },
       "organization": "Located in Downtown Vancouver",
       "website": "https://www.ajyal.ca/",
@@ -1268,38 +927,7 @@
       "coordinates": null,
       "organization": "Vancouver downtown musallah on Granville and Smithe street",
       "website": "https://chat.whatsapp.com/G9TqWh1GIgME9477lZRLCK?mode=gi_t",
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "6:17 AM",
-          "iqamah": "6:40 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "7:43 AM",
-          "iqamah": "7:43 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "12:58 PM",
-          "iqamah": "1:20 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "3:40 PM",
-          "iqamah": "4:00 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "6:11 PM",
-          "iqamah": "6:16 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "7:38 PM",
-          "iqamah": "7:50 PM"
-        }
-      ],
+      "prayerTimes": [],
       "jummah": null
     },
     {
@@ -1313,39 +941,8 @@
       },
       "organization": "Muslim Association of Canada",
       "website": "http://www.macvancouver.ca/",
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "6:01 AM",
-          "iqamah": "6:45 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "7:41 AM",
-          "iqamah": "7:41 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "12:59 PM",
-          "iqamah": "1:45 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "3:42 PM",
-          "iqamah": "4:15 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "6:12 PM",
-          "iqamah": "6:17 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "7:45 PM",
-          "iqamah": "8:00 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "28e9a078-c04d-43d6-a4de-3037697c34ab",
@@ -1358,39 +955,8 @@
       },
       "organization": null,
       "website": "https://www.masjidomar.ca/",
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "6:02 AM",
-          "iqamah": "6:15 AM"
-        },
-        {
-          "salat": "Sunrise",
-          "adhan": "7:44 AM",
-          "iqamah": "7:44 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:04 PM",
-          "iqamah": "1:40 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "3:42 PM",
-          "iqamah": "4:00 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "6:10 PM",
-          "iqamah": "6:15 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "7:44 PM",
-          "iqamah": "7:54 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
+      "prayerTimes": [],
+      "jummah": null
     },
     {
       "id": "8fe9f823-98ff-4304-a312-337d34e3620a",
