@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-22T23:02:37.941Z",
+  "scrapedAt": "2026-10-23T01:15:19.479Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -8,8 +8,8 @@
       "city": "Cold Lake",
       "address": "5003 50 Ave, Cold Lake, AB T9M 1X6",
       "coordinates": {
-        "latitude": 54.4133827,
-        "longitude": -110.2126489
+        "latitude": 54.413442,
+        "longitude": -110.2314264
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/coldlake/",
@@ -423,7 +423,7 @@
     },
     {
       "slug": "theciic",
-      "name": "The CIIC Montreal",
+      "name": "Canadian Institute of Islamic Civilization (CIIC)",
       "province": "Quebec",
       "city": "Montreal",
       "address": "615 Rue Belmont, Montréal, QC H3B 2L8",
@@ -450,7 +450,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:59 am",
+          "adhan": "6:00 am",
           "iqamah": "6:00 am"
         },
         {
@@ -460,25 +460,25 @@
         },
         {
           "salat": "Asr",
-          "adhan": "3:29 pm",
+          "adhan": "3:28 pm",
           "iqamah": "4:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "5:58 pm",
-          "iqamah": "6:03 pm"
+          "adhan": "5:57 pm",
+          "iqamah": "6:02 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "7:20 pm",
-          "iqamah": "7:25 pm"
+          "adhan": "7:18 pm",
+          "iqamah": "7:23 pm"
         }
       ],
       "jummah": "12:15 pm"
     },
     {
       "slug": "cclmac",
-      "name": "Centre Communautaire Laurentien (CCL)",
+      "name": "Centre Communautaire Laurentien (MAC)",
       "province": "Quebec",
       "city": "Montreal",
       "address": "12265, Boul. Laurentien, Montréal, QC H4K 1N5",
@@ -487,12 +487,12 @@
         "longitude": -73.7224426
       },
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/cclmac/",
+      "website": "https://centres.macnet.ca/cclmac/fr/",
       "phone": "(514) 227-5000",
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:59 am",
+          "adhan": "6:00 am",
           "iqamah": "6:00 am"
         },
         {
@@ -502,31 +502,31 @@
         },
         {
           "salat": "Asr",
-          "adhan": "3:29 pm",
+          "adhan": "3:28 pm",
           "iqamah": "4:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "5:58 pm",
-          "iqamah": "6:03 pm"
+          "adhan": "5:57 pm",
+          "iqamah": "6:02 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "7:20 pm",
-          "iqamah": "7:25 pm"
+          "adhan": "7:18 pm",
+          "iqamah": "7:23 pm"
         }
       ],
       "jummah": null
     },
     {
       "slug": "ccv",
-      "name": "Accueil",
+      "name": "Centre Communautaire Villeray (CCV) / Mosquée Aboubakr",
       "province": "Quebec",
       "city": "Montreal",
       "address": "371, Rue Jean-Talon, Montreal, QC H2R1T4\n (514) 506-8899\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tFacebook",
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/ccv/fr/accueil/",
+      "website": "https://centres.macnet.ca/ccv/",
       "phone": "(514) 506-8899",
       "prayerTimes": [
         {
@@ -643,7 +643,7 @@
     },
     {
       "slug": "bic",
-      "name": "MAC Barrhaven Islamic Centre",
+      "name": "Barrhaven Islamic Centre",
       "province": "Ontario",
       "city": "Nepean",
       "address": "3971 Greenbank Road,Nepean, ON K2C 3H2  info@bic.macnet.ca",
@@ -843,13 +843,13 @@
     },
     {
       "slug": "edmonton",
-      "name": "Edmonton Chapter",
+      "name": "MAC edmonton",
       "province": "Ontario",
       "city": "",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://chapters.macnet.ca/edmonton/",
+      "website": "https://chapters.macnet.ca/edmonton",
       "phone": null,
       "prayerTimes": [],
       "jummah": null
