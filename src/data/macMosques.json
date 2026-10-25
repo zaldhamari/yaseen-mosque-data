@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-25T21:24:51.166Z",
+  "scrapedAt": "2026-10-25T23:49:45.274Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -8,8 +8,8 @@
       "city": "Cold Lake",
       "address": "5003 50 Ave, Cold Lake, AB T9M 1X6",
       "coordinates": {
-        "latitude": 54.4133827,
-        "longitude": -110.2126489
+        "latitude": 54.413442,
+        "longitude": -110.2314264
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/coldlake/",
@@ -610,7 +610,7 @@
         "longitude": -73.7222594
       },
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/alrawdah/fr/",
+      "website": "https://centres.macnet.ca/alrawdah/",
       "phone": "(514) 227-5000",
       "prayerTimes": [
         {
