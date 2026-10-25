@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-25T18:06:20.505Z",
+  "scrapedAt": "2026-10-25T21:24:51.166Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -87,7 +87,7 @@
     },
     {
       "slug": "rahmamosque",
-      "name": "Rahma Mosque",
+      "name": "MAC Islamic Centre (Rahma Mosque)",
       "province": "Alberta",
       "city": "Edmonton",
       "address": "6104 172 St NW, Edmonton, AB T6M 1G9",
@@ -423,7 +423,7 @@
     },
     {
       "slug": "theciic",
-      "name": "The CIIC Montreal",
+      "name": "Canadian Institute of Islamic Civilization (CIIC)",
       "province": "Quebec",
       "city": "Montreal",
       "address": "615 Rue Belmont, Montréal, QC H3B 2L8",
@@ -559,7 +559,7 @@
     },
     {
       "slug": "civ",
-      "name": "Centre Islamique de Verdun (CIV)",
+      "name": "Centre Islamique de Verdun (MAC)",
       "province": "Quebec",
       "city": "Montreal",
       "address": "4538 Rue de VerdunVerdun, Montreal, QC H4G 1M3",
@@ -568,7 +568,7 @@
         "longitude": -73.571548
       },
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/civ/",
+      "website": "https://centres.macnet.ca/civ/fr/",
       "phone": "(514) 508-9419",
       "prayerTimes": [
         {
@@ -643,7 +643,7 @@
     },
     {
       "slug": "bic",
-      "name": "Barrhaven Islamic Centre",
+      "name": "MAC Barrhaven Islamic Centre",
       "province": "Ontario",
       "city": "Nepean",
       "address": "3971 Greenbank Road,Nepean, ON K2C 3H2  info@bic.macnet.ca",
@@ -685,7 +685,7 @@
     },
     {
       "slug": "qic",
-      "name": "MAC Qurtuba",
+      "name": "Qurtuba Islamic Centre",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1950 Merivale Rd, Ottawa, ON K2G 5T5, Canada",
