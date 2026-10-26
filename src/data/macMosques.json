@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-26T08:31:09.537Z",
+  "scrapedAt": "2026-10-26T15:47:59.398Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -8,8 +8,8 @@
       "city": "Cold Lake",
       "address": "5003 50 Ave, Cold Lake, AB T9M 1X6",
       "coordinates": {
-        "latitude": 54.413442,
-        "longitude": -110.2314264
+        "latitude": 54.4133827,
+        "longitude": -110.2126489
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/coldlake/",
@@ -395,7 +395,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "6:12 am",
+          "adhan": "6:14 am",
           "iqamah": "6:45 am"
         },
         {
@@ -405,17 +405,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "3:53 pm",
+          "adhan": "3:52 pm",
           "iqamah": "4:45 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:22 pm",
-          "iqamah": "6:27 pm"
+          "adhan": "6:21 pm",
+          "iqamah": "6:26 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "7:23 pm",
+          "adhan": "7:22 pm",
           "iqamah": "8:00 pm"
         }
       ],
@@ -423,7 +423,7 @@
     },
     {
       "slug": "theciic",
-      "name": "The CIIC Montreal",
+      "name": "Canadian Institute of Islamic Civilization (CIIC)",
       "province": "Quebec",
       "city": "Montreal",
       "address": "615 Rue Belmont, Montréal, QC H3B 2L8",
@@ -439,13 +439,13 @@
     },
     {
       "slug": "mac-quebec",
-      "name": "Centre Communautaire MAC (Ville de Québec)",
+      "name": "Centre communautaire MAC, ville de Québec",
       "province": "Quebec",
       "city": "Quebec City",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/mac-quebec/",
+      "website": "https://centres.macnet.ca/mac-quebec/fr/",
       "phone": null,
       "prayerTimes": [
         {
@@ -610,7 +610,7 @@
         "longitude": -73.7222594
       },
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/alrawdah/fr/",
+      "website": "https://centres.macnet.ca/alrawdah/",
       "phone": "(514) 227-5000",
       "prayerTimes": [
         {
@@ -843,13 +843,13 @@
     },
     {
       "slug": "edmonton",
-      "name": "MAC edmonton",
+      "name": "Edmonton Chapter",
       "province": "Ontario",
       "city": "",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://chapters.macnet.ca/edmonton",
+      "website": "https://chapters.macnet.ca/edmonton/",
       "phone": null,
       "prayerTimes": [],
       "jummah": null
