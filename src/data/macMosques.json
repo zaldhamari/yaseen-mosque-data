@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-27T21:49:29.831Z",
+  "scrapedAt": "2026-10-28T01:00:33.240Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -8,8 +8,8 @@
       "city": "Cold Lake",
       "address": "5003 50 Ave, Cold Lake, AB T9M 1X6",
       "coordinates": {
-        "latitude": 54.4133827,
-        "longitude": -110.2126489
+        "latitude": 54.413442,
+        "longitude": -110.2314264
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/coldlake/",
@@ -269,7 +269,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "6:32 am",
+          "adhan": "6:33 am",
           "iqamah": "6:45 am"
         },
         {
@@ -279,17 +279,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "3:53 pm",
+          "adhan": "3:52 pm",
           "iqamah": "4:15 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:20 pm",
-          "iqamah": "6:25 pm"
+          "adhan": "6:18 pm",
+          "iqamah": "6:23 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "7:39 pm",
+          "adhan": "7:38 pm",
           "iqamah": "7:45 pm"
         }
       ],
@@ -297,7 +297,7 @@
     },
     {
       "slug": "westmount",
-      "name": "Westmount Masjid",
+      "name": "MAC Westmount Islamic Centre",
       "province": "Ontario",
       "city": "London",
       "address": "312 Commissioners Rd W Unit 5, London, ON N6J 1Y3",
@@ -423,7 +423,7 @@
     },
     {
       "slug": "theciic",
-      "name": "The CIIC Montreal",
+      "name": "Canadian Institute of Islamic Civilization (CIIC)",
       "province": "Quebec",
       "city": "Montreal",
       "address": "615 Rue Belmont, Montréal, QC H3B 2L8",
@@ -450,7 +450,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "6:05 am",
+          "adhan": "6:07 am",
           "iqamah": "6:15 am"
         },
         {
@@ -460,18 +460,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "3:23 pm",
+          "adhan": "3:22 pm",
           "iqamah": "4:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "5:50 pm",
-          "iqamah": "5:55 pm"
+          "adhan": "5:49 pm",
+          "iqamah": "5:54 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "7:12 pm",
-          "iqamah": "7:17 pm"
+          "adhan": "7:11 pm",
+          "iqamah": "7:16 pm"
         }
       ],
       "jummah": "12:15 pm"
@@ -492,7 +492,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "6:05 am",
+          "adhan": "6:07 am",
           "iqamah": "6:15 am"
         },
         {
@@ -502,18 +502,18 @@
         },
         {
           "salat": "Asr",
-          "adhan": "3:23 pm",
+          "adhan": "3:22 pm",
           "iqamah": "4:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "5:50 pm",
-          "iqamah": "5:55 pm"
+          "adhan": "5:49 pm",
+          "iqamah": "5:54 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "7:12 pm",
-          "iqamah": "7:17 pm"
+          "adhan": "7:11 pm",
+          "iqamah": "7:16 pm"
         }
       ],
       "jummah": null
@@ -717,7 +717,7 @@
     },
     {
       "slug": "masjidtoronto",
-      "name": "Masjid Toronto (Dundas & Adelaide)",
+      "name": "Masjid Toronto Dundas & Adelaide",
       "province": "Ontario",
       "city": "Toronto",
       "address": "168 Dundas St. West, Toronto, ON M5G 1C6 Canada",
