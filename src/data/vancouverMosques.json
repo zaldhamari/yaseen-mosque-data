@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-29T10:45:35.752Z",
+  "scrapedAt": "2026-10-29T17:19:09.551Z",
   "mosques": [
     {
       "id": "979b2ff1-f133-443a-a808-e05ad4273a14",
@@ -170,8 +170,8 @@
       "address": "202-504 Cottonwood Ave, Coquitlam, British Columbia, Canada",
       "city": "Coquitlam",
       "coordinates": {
-        "latitude": 49.258965,
-        "longitude": -122.8924772
+        "latitude": 49.2588685,
+        "longitude": -122.8927971
       },
       "organization": "AlHikmah Foundation",
       "website": null,
@@ -262,8 +262,39 @@
       "coordinates": null,
       "organization": "Peace River Muslim Association",
       "website": null,
-      "prayerTimes": [],
-      "jummah": null
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "6:21 AM",
+          "iqamah": "6:36 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "8:04 AM",
+          "iqamah": "8:04 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "12:48 PM",
+          "iqamah": "1:03 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "2:58 PM",
+          "iqamah": "3:13 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "5:30 PM",
+          "iqamah": "5:35 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "7:14 PM",
+          "iqamah": "7:29 PM"
+        }
+      ],
+      "jummah": "1:30 PM"
     },
     {
       "id": "fede16e1-7b38-4abc-8473-2a832651a334",
@@ -271,8 +302,8 @@
       "address": "5768 203 St, Langley, British Columbia, Canada",
       "city": "Langley",
       "coordinates": {
-        "latitude": 49.0874389,
-        "longitude": -122.6606647
+        "latitude": 49.1033694,
+        "longitude": -122.660223
       },
       "organization": "Islamic Waqf Of Canada",
       "website": "https://www.islamicwaqf.ca/",
@@ -453,8 +484,39 @@
       "coordinates": null,
       "organization": null,
       "website": null,
-      "prayerTimes": [],
-      "jummah": null
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "6:26 AM",
+          "iqamah": "7:05 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "7:53 AM",
+          "iqamah": "7:53 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "12:57 PM",
+          "iqamah": "1:45 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "3:28 PM",
+          "iqamah": "3:45 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "5:58 PM",
+          "iqamah": "6:05 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "7:25 PM",
+          "iqamah": "7:45 PM"
+        }
+      ],
+      "jummah": "1:30 PM"
     },
     {
       "id": "92f7393d-86ee-4386-b317-4585d2f844a5",
@@ -552,8 +614,8 @@
       "address": "7375 144 Street, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.1076691,
-        "longitude": -122.8233734
+        "latitude": 49.1633785,
+        "longitude": -122.8234765
       },
       "organization": null,
       "website": null,
@@ -1131,8 +1193,8 @@
       "address": "15515 24 Ave #61, Surrey, British Columbia, Canada",
       "city": "Surrey",
       "coordinates": {
-        "latitude": 49.0468223,
-        "longitude": -122.7927916
+        "latitude": 49.0464944,
+        "longitude": -122.7919345
       },
       "organization": null,
       "website": "https://whiterockmuslims.com/prayer-services",
@@ -1145,8 +1207,8 @@
       "address": "181 Keefer Street, Unit 202, Vancouver, BC, CA",
       "city": "Vancouver",
       "coordinates": {
-        "latitude": 49.2792762,
-        "longitude": -123.0883977
+        "latitude": 49.2793403,
+        "longitude": -123.0916054
       },
       "organization": "Located in Downtown Vancouver",
       "website": "https://www.ajyal.ca/",
@@ -1237,7 +1299,38 @@
       "coordinates": null,
       "organization": "Vancouver downtown musallah on Granville and Smithe street",
       "website": "https://chat.whatsapp.com/G9TqWh1GIgME9477lZRLCK?mode=gi_t",
-      "prayerTimes": [],
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "6:27 AM",
+          "iqamah": "6:50 AM"
+        },
+        {
+          "salat": "Sunrise",
+          "adhan": "7:54 AM",
+          "iqamah": "7:54 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "12:57 PM",
+          "iqamah": "1:20 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "3:30 PM",
+          "iqamah": "3:45 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "5:58 PM",
+          "iqamah": "6:03 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "7:26 PM",
+          "iqamah": "7:35 PM"
+        }
+      ],
       "jummah": null
     },
     {
