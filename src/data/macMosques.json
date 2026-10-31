@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-30T21:26:07.776Z",
+  "scrapedAt": "2026-10-31T01:28:54.328Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -8,8 +8,8 @@
       "city": "Cold Lake",
       "address": "5003 50 Ave, Cold Lake, AB T9M 1X6",
       "coordinates": {
-        "latitude": 54.4133827,
-        "longitude": -110.2126489
+        "latitude": 54.4133661,
+        "longitude": -110.2162402
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/coldlake/",
@@ -269,7 +269,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "6:35 am",
+          "adhan": "6:36 am",
           "iqamah": "7:00 am"
         },
         {
@@ -279,17 +279,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "3:50 pm",
+          "adhan": "3:49 pm",
           "iqamah": "4:15 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "6:15 pm",
-          "iqamah": "6:20 pm"
+          "adhan": "6:14 pm",
+          "iqamah": "6:19 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "7:35 pm",
+          "adhan": "7:34 pm",
           "iqamah": "7:45 pm"
         }
       ],
@@ -492,28 +492,28 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "6:09 am",
+          "adhan": "6:10 am",
           "iqamah": "6:15 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "12:39 pm",
+          "adhan": "12:38 pm",
           "iqamah": "1:30 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "3:19 pm",
+          "adhan": "3:18 pm",
           "iqamah": "4:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "5:46 pm",
-          "iqamah": "5:51 pm"
+          "adhan": "5:44 pm",
+          "iqamah": "5:49 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "7:08 pm",
-          "iqamah": "7:13 pm"
+          "adhan": "7:07 pm",
+          "iqamah": "7:12 pm"
         }
       ],
       "jummah": null
@@ -643,7 +643,7 @@
     },
     {
       "slug": "bic",
-      "name": "MAC Barrhaven Islamic Centre",
+      "name": "Barrhaven Islamic Centre",
       "province": "Ontario",
       "city": "Nepean",
       "address": "3971 Greenbank Road,Nepean, ON K2C 3H2  info@bic.macnet.ca",
@@ -685,7 +685,7 @@
     },
     {
       "slug": "qic",
-      "name": "Qurtuba Islamic Centre",
+      "name": "MAC Qurtuba",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1950 Merivale Rd, Ottawa, ON K2G 5T5, Canada",
