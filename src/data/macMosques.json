@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-03T07:36:16.252Z",
+  "scrapedAt": "2026-11-03T21:33:16.679Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -8,8 +8,8 @@
       "city": "Cold Lake",
       "address": "5003 50 Ave, Cold Lake, AB T9M 1X6",
       "coordinates": {
-        "latitude": 54.4133827,
-        "longitude": -110.2126489
+        "latitude": 54.413442,
+        "longitude": -110.2314264
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/coldlake/",
@@ -386,8 +386,8 @@
       "city": "Mississauga",
       "address": "2550 Dunwin Dr.\nMississauga, ON L5L 1J5",
       "coordinates": {
-        "latitude": 43.5285308,
-        "longitude": -79.6809361
+        "latitude": 43.529182,
+        "longitude": -79.680928
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/icco/",
@@ -423,7 +423,7 @@
     },
     {
       "slug": "theciic",
-      "name": "The CIIC Montreal",
+      "name": "Canadian Institute of Islamic Civilization (CIIC)",
       "province": "Quebec",
       "city": "Montreal",
       "address": "615 Rue Belmont, Montréal, QC H3B 2L8",
@@ -439,18 +439,18 @@
     },
     {
       "slug": "mac-quebec",
-      "name": "Centre Communautaire MAC (Ville de Québec)",
+      "name": "Centre communautaire MAC, ville de Québec",
       "province": "Quebec",
       "city": "Quebec City",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/mac-quebec/",
+      "website": "https://centres.macnet.ca/mac-quebec/fr/",
       "phone": null,
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:14 am",
+          "adhan": "5:15 am",
           "iqamah": "6:00 am"
         },
         {
@@ -460,17 +460,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "2:15 pm",
-          "iqamah": "2:17 pm"
+          "adhan": "2:13 pm",
+          "iqamah": "2:15 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "4:40 pm",
-          "iqamah": "4:45 pm"
+          "adhan": "4:38 pm",
+          "iqamah": "4:43 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "6:03 pm",
+          "adhan": "6:02 pm",
           "iqamah": "7:00 pm"
         }
       ],
@@ -520,18 +520,18 @@
     },
     {
       "slug": "ccv",
-      "name": "Centre Communautaire Villeray (CCV) / Mosquée Aboubakr",
+      "name": "Accueil",
       "province": "Quebec",
       "city": "Montreal",
       "address": "371, Rue Jean-Talon, Montreal, QC H2R1T4\n (514) 506-8899\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tFacebook",
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/ccv/",
+      "website": "https://centres.macnet.ca/ccv/fr/accueil/",
       "phone": "(514) 506-8899",
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:14 am",
+          "adhan": "5:15 am",
           "iqamah": "6:00 am"
         },
         {
@@ -541,17 +541,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "2:16 pm",
+          "adhan": "2:14 pm",
           "iqamah": "2:30 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "4:41 pm",
-          "iqamah": "4:46 pm"
+          "adhan": "4:39 pm",
+          "iqamah": "4:44 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "6:04 pm",
+          "adhan": "6:03 pm",
           "iqamah": "7:00 pm"
         }
       ],
@@ -764,8 +764,8 @@
       "city": "Vancouver",
       "address": "2122 Kingsway, Vancouver, BC V5N 2T5",
       "coordinates": {
-        "latitude": 49.2437319,
-        "longitude": -123.0621637
+        "latitude": 49.2440397,
+        "longitude": -123.063553
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/macvancouvercentre/",
