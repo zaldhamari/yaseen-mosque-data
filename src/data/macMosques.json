@@ -1,6 +1,90 @@
 {
-  "scrapedAt": "2026-11-04T16:48:48.467Z",
+  "scrapedAt": "2026-11-04T22:24:22.151Z",
   "mosques": [
+    {
+      "slug": "coldlake",
+      "name": "MAC Cold Lake Mosque",
+      "province": "Alberta",
+      "city": "Cold Lake",
+      "address": "5003 50 Ave, Cold Lake, AB T9M 1X6",
+      "coordinates": {
+        "latitude": 54.413442,
+        "longitude": -110.2314264
+      },
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://centres.macnet.ca/coldlake/",
+      "phone": null,
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:48 am",
+          "iqamah": "5:53 am"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "12:05 pm",
+          "iqamah": "12:10 pm"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "2:11 pm",
+          "iqamah": "2:16 pm"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "4:39 pm",
+          "iqamah": "4:44 pm"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "6:21 pm",
+          "iqamah": "6:26 pm"
+        }
+      ],
+      "jummah": null
+    },
+    {
+      "slug": "alsalamcentre",
+      "name": "Al",
+      "province": "Alberta",
+      "city": "Calgary",
+      "address": "6415 Ranchview Dr NW, Calgary, AB T3G 1B5",
+      "coordinates": {
+        "latitude": 51.1147703,
+        "longitude": -114.1799371
+      },
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://centres.macnet.ca/alsalamcentre/",
+      "phone": "(403) 451-8861",
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "7:04 am",
+          "iqamah": "7:14 am"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "1:20 pm",
+          "iqamah": "2:00 pm"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "3:39 pm",
+          "iqamah": "4:30 pm"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "6:05 pm",
+          "iqamah": "6:15 pm"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "7:35 pm",
+          "iqamah": "8:00 pm"
+        }
+      ],
+      "jummah": null
+    },
     {
       "slug": "rahmamosque",
       "name": "Rahma Mosque",
@@ -474,6 +558,48 @@
       "jummah": "12:00 pm"
     },
     {
+      "slug": "civ",
+      "name": "Centre Islamique de Verdun (MAC)",
+      "province": "Quebec",
+      "city": "Montreal",
+      "address": "4538 Rue de VerdunVerdun, Montreal, QC H4G 1M3",
+      "coordinates": {
+        "latitude": 45.4589929,
+        "longitude": -73.571548
+      },
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://centres.macnet.ca/civ/fr/",
+      "phone": "(514) 508-9419",
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "5:16 am",
+          "iqamah": "5:45 am"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "11:38 am",
+          "iqamah": "1:15 pm"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "2:13 pm",
+          "iqamah": "3:00 pm"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "4:38 pm",
+          "iqamah": "4:43 pm"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "6:01 pm",
+          "iqamah": "7:00 pm"
+        }
+      ],
+      "jummah": null
+    },
+    {
       "slug": "alrawdah",
       "name": "Mosquée AlRawdah (MAC)",
       "province": "Quebec",
@@ -559,7 +685,7 @@
     },
     {
       "slug": "qic",
-      "name": "Qurtuba Islamic Centre",
+      "name": "MAC Qurtuba",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1950 Merivale Rd, Ottawa, ON K2G 5T5, Canada",
@@ -716,212 +842,86 @@
       "jummah": "1:30 pm"
     },
     {
-      "slug": "coldlake",
-      "name": "MAC Cold Lake Mosque",
-      "province": "Alberta",
-      "city": "Cold Lake",
-      "address": "5003 50 Ave, Cold Lake, AB T9M 1X6",
-      "coordinates": {
-        "latitude": 54.4133827,
-        "longitude": -110.2126489
-      },
-      "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/coldlake/",
-      "phone": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:48 am",
-          "iqamah": "5:53 am"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "12:05 pm",
-          "iqamah": "12:10 pm"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "2:11 pm",
-          "iqamah": "2:16 pm"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "4:39 pm",
-          "iqamah": "4:44 pm"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "6:21 pm",
-          "iqamah": "6:26 pm"
-        }
-      ],
-      "jummah": null
-    },
-    {
-      "slug": "alsalamcentre",
-      "name": "Al",
-      "province": "Alberta",
-      "city": "Calgary",
-      "address": "6415 Ranchview Dr NW, Calgary, AB T3G 1B5",
-      "coordinates": {
-        "latitude": 51.1147703,
-        "longitude": -114.1799371
-      },
-      "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/alsalamcentre/",
-      "phone": "(403) 451-8861",
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "7:04 am",
-          "iqamah": "7:14 am"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "1:20 pm",
-          "iqamah": "2:00 pm"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "3:39 pm",
-          "iqamah": "4:30 pm"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "6:05 pm",
-          "iqamah": "6:15 pm"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "7:35 pm",
-          "iqamah": "8:00 pm"
-        }
-      ],
-      "jummah": null
-    },
-    {
-      "slug": "civ",
-      "name": "Centre Islamique de Verdun (MAC)",
-      "province": "Quebec",
-      "city": "Montreal",
-      "address": "4538 Rue de VerdunVerdun, Montreal, QC H4G 1M3",
-      "coordinates": {
-        "latitude": 45.4589929,
-        "longitude": -73.571548
-      },
-      "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/civ/fr/",
-      "phone": "(514) 508-9419",
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "5:16 am",
-          "iqamah": "5:45 am"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "11:38 am",
-          "iqamah": "1:15 pm"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "2:13 pm",
-          "iqamah": "3:00 pm"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "4:38 pm",
-          "iqamah": "4:43 pm"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "6:01 pm",
-          "iqamah": "7:00 pm"
-        }
-      ],
-      "jummah": null
-    },
-    {
       "slug": "edmonton",
-      "name": "Edmonton Chapter",
+      "name": "MAC edmonton",
       "province": "Ontario",
       "city": "",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://chapters.macnet.ca/edmonton/",
+      "website": "https://chapters.macnet.ca/edmonton",
       "phone": null,
       "prayerTimes": [],
       "jummah": null
     },
     {
       "slug": "halton-hamilton",
-      "name": "Halton",
+      "name": "404 Not Found",
       "province": "Ontario",
       "city": "",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://chapters.macnet.ca/halton-hamilton/",
+      "website": "https://chapters.macnet.ca/halton-hamilton",
       "phone": null,
       "prayerTimes": [],
       "jummah": null
     },
     {
       "slug": "london",
-      "name": "London Chapter",
+      "name": "404 Not Found",
       "province": "Ontario",
       "city": "",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://chapters.macnet.ca/london/",
+      "website": "https://chapters.macnet.ca/london",
       "phone": null,
       "prayerTimes": [],
       "jummah": null
     },
     {
       "slug": "mississauga",
-      "name": "Mississauga Chapter",
+      "name": "404 Not Found",
       "province": "Ontario",
       "city": "",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://chapters.macnet.ca/mississauga/",
+      "website": "https://chapters.macnet.ca/mississauga",
       "phone": null,
       "prayerTimes": [],
       "jummah": null
     },
     {
       "slug": "montreal-south",
-      "name": "MAC Montreal South Chapter",
+      "name": "404 Not Found",
       "province": "Ontario",
       "city": "",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://chapters.macnet.ca/montreal-south/",
+      "website": "https://chapters.macnet.ca/montreal-south",
       "phone": null,
       "prayerTimes": [],
       "jummah": null
     },
     {
       "slug": "montreal-west",
-      "name": "Montreal West Chapter",
+      "name": "404 Not Found",
       "province": "Ontario",
       "city": "",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://chapters.macnet.ca/montreal-west/",
+      "website": "https://chapters.macnet.ca/montreal-west",
       "phone": null,
       "prayerTimes": [],
       "jummah": null
     },
     {
       "slug": "ottawa",
-      "name": "MAC Ottawa Chapter",
+      "name": "404 Not Found",
       "province": "Ontario",
       "city": "",
       "address": "1085 Grenon Av, Ottawa, ON K2B 8L7 \t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tWhatsapp",
@@ -934,13 +934,117 @@
     },
     {
       "slug": "windsor",
-      "name": "Windsor Chapter",
+      "name": "404 Not Found",
       "province": "Ontario",
       "city": "",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://chapters.macnet.ca/windsor/",
+      "website": "https://chapters.macnet.ca/windsor",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "edmonton",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": null,
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/edmonton",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "halton-hamilton",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": null,
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/halton-hamilton",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "london",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": null,
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/london",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "mississauga",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": null,
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/mississauga",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "montreal-south",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": null,
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/montreal-south",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "montreal-west",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": null,
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/montreal-west",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "ottawa",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": "1085 Grenon Av, Ottawa, ON K2B 8L7 \t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tWhatsapp",
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/ottawa/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "windsor",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": null,
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/windsor",
       "phone": null,
       "prayerTimes": [],
       "jummah": null
@@ -988,8 +1092,216 @@
       "jummah": null
     },
     {
+      "slug": "edmonton",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": null,
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/edmonton",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "halton-hamilton",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": null,
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/halton-hamilton",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "london",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": null,
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/london",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "mississauga",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": null,
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/mississauga",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "montreal-south",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": null,
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/montreal-south",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "montreal-west",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": null,
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/montreal-west",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "ottawa",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": "1085 Grenon Av, Ottawa, ON K2B 8L7 \t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tWhatsapp",
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/ottawa/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "windsor",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": null,
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/windsor",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "edmonton",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": null,
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/edmonton",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "halton-hamilton",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": null,
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/halton-hamilton",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "london",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": null,
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/london",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "mississauga",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": null,
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/mississauga",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "montreal-south",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": null,
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/montreal-south",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "montreal-west",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": null,
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/montreal-west",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "ottawa",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": "1085 Grenon Av, Ottawa, ON K2B 8L7 \t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tWhatsapp",
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/ottawa/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "windsor",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": null,
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/windsor",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
       "slug": "calgary",
-      "name": "Calgary Chapter",
+      "name": "404 Not Found",
       "province": "Ontario",
       "city": "",
       "address": "6415 Ranchview Dr NW, Calgary, AB T3G 1B5info@maccalgary.ca",
@@ -997,6 +1309,58 @@
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://chapters.macnet.ca/calgary/",
       "phone": "(403) 451-8861",
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "halton-hamilton",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": null,
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/halton-hamilton/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "london",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": null,
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/london/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "mississauga",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": null,
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/mississauga/",
+      "phone": null,
+      "prayerTimes": [],
+      "jummah": null
+    },
+    {
+      "slug": "ottawa",
+      "name": "404 Not Found",
+      "province": "Ontario",
+      "city": "",
+      "address": "1085 Grenon Av, Ottawa, ON K2B 8L7 \t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tWhatsapp",
+      "coordinates": null,
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://chapters.macnet.ca/ottawa/",
+      "phone": null,
       "prayerTimes": [],
       "jummah": null
     }
