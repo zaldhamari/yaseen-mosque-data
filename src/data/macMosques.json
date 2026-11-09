@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-08T21:02:23.327Z",
+  "scrapedAt": "2026-11-09T00:40:35.837Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -423,7 +423,7 @@
     },
     {
       "slug": "theciic",
-      "name": "The CIIC Montreal",
+      "name": "Canadian Institute of Islamic Civilization (CIIC)",
       "province": "Quebec",
       "city": "Montreal",
       "address": "615 Rue Belmont, Montréal, QC H3B 2L8",
@@ -450,7 +450,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:21 am",
+          "adhan": "5:23 am",
           "iqamah": "6:00 am"
         },
         {
@@ -460,17 +460,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "2:08 pm",
-          "iqamah": "2:10 pm"
+          "adhan": "2:07 pm",
+          "iqamah": "2:09 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "4:32 pm",
-          "iqamah": "4:37 pm"
+          "adhan": "4:31 pm",
+          "iqamah": "4:36 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "5:56 pm",
+          "adhan": "5:55 pm",
           "iqamah": "7:00 pm"
         }
       ],
@@ -492,7 +492,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:21 am",
+          "adhan": "5:23 am",
           "iqamah": "6:00 am"
         },
         {
@@ -502,17 +502,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "2:08 pm",
-          "iqamah": "2:10 pm"
+          "adhan": "2:07 pm",
+          "iqamah": "2:09 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "4:32 pm",
-          "iqamah": "4:37 pm"
+          "adhan": "4:31 pm",
+          "iqamah": "4:36 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "5:56 pm",
+          "adhan": "5:55 pm",
           "iqamah": "7:00 pm"
         }
       ],
@@ -520,13 +520,13 @@
     },
     {
       "slug": "ccv",
-      "name": "Centre Communautaire Villeray (CCV) / Mosquée Aboubakr",
+      "name": "Accueil",
       "province": "Quebec",
       "city": "Montreal",
       "address": "371, Rue Jean-Talon, Montreal, QC H2R1T4\n (514) 506-8899\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tFacebook",
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/ccv/",
+      "website": "https://centres.macnet.ca/ccv/fr/accueil/",
       "phone": "(514) 506-8899",
       "prayerTimes": [
         {
@@ -559,7 +559,7 @@
     },
     {
       "slug": "civ",
-      "name": "Centre Islamique de Verdun (MAC)",
+      "name": "Centre Islamique de Verdun (CIV)",
       "province": "Quebec",
       "city": "Montreal",
       "address": "4538 Rue de VerdunVerdun, Montreal, QC H4G 1M3",
@@ -568,7 +568,7 @@
         "longitude": -73.571548
       },
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/civ/fr/",
+      "website": "https://centres.macnet.ca/civ/",
       "phone": "(514) 508-9419",
       "prayerTimes": [
         {
