@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-11T18:27:27.247Z",
+  "scrapedAt": "2026-11-12T01:23:25.823Z",
   "totalMosques": 597,
   "provinces": 14,
   "sources": [
@@ -4575,8 +4575,8 @@
       "city": "Mississauga",
       "address": "966 Dundas St E, Unit 14, Mississauga, ON L4Y 4H5",
       "coordinates": {
-        "latitude": 43.6001566,
-        "longitude": -79.5929824
+        "latitude": 43.5997854,
+        "longitude": -79.5932131
       },
       "organization": "ICNA Canada",
       "website": "https://icna.ca/966/",
@@ -4594,17 +4594,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "3:13 pm",
+          "adhan": "3:12 pm",
           "iqamah": "3:30 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "4:55 pm",
-          "iqamah": "4:55 pm"
+          "adhan": "4:54 pm",
+          "iqamah": "4:54 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "6:18 pm",
+          "adhan": "6:17 pm",
           "iqamah": "7:00 pm"
         }
       ],
@@ -6699,12 +6699,12 @@
         },
         {
           "salat": "Maghrib",
-          "adhan": "4:59 pm",
-          "iqamah": "5:05 pm"
+          "adhan": "4:58 pm",
+          "iqamah": "5:04 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "6:20 pm",
+          "adhan": "6:19 pm",
           "iqamah": "7:30 pm"
         }
       ],
@@ -10225,13 +10225,13 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:50 am",
+          "adhan": "5:51 am",
           "iqamah": "6:15 am"
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:10 am",
-          "iqamah": "7:10 am"
+          "adhan": "7:11 am",
+          "iqamah": "7:11 am"
         },
         {
           "salat": "Dhuhr",
@@ -10240,17 +10240,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "2:37 pm",
+          "adhan": "2:36 pm",
           "iqamah": "3:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "5:00 pm",
-          "iqamah": "5:05 pm"
+          "adhan": "4:59 pm",
+          "iqamah": "5:04 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "6:21 pm",
+          "adhan": "6:20 pm",
           "iqamah": "7:00 pm"
         }
       ],
