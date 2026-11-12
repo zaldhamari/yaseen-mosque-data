@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-12T09:14:12.256Z",
+  "scrapedAt": "2026-11-12T18:01:18.714Z",
   "totalMosques": 597,
   "provinces": 14,
   "sources": [
@@ -4575,8 +4575,8 @@
       "city": "Mississauga",
       "address": "966 Dundas St E, Unit 14, Mississauga, ON L4Y 4H5",
       "coordinates": {
-        "latitude": 43.6000719,
-        "longitude": -79.5930752
+        "latitude": 43.6001566,
+        "longitude": -79.5929824
       },
       "organization": "ICNA Canada",
       "website": "https://icna.ca/966/",
@@ -4584,7 +4584,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:46 am",
+          "adhan": "5:48 am",
           "iqamah": "6:15 am"
         },
         {
@@ -6684,7 +6684,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:49 am",
+          "adhan": "5:50 am",
           "iqamah": "6:30 am"
         },
         {
@@ -8843,8 +8843,8 @@
       "city": "Whitehorse",
       "address": "2176 Second Avenue, Whitehorse, YT",
       "coordinates": {
-        "latitude": 60.7246361,
-        "longitude": -135.0568512
+        "latitude": 60.7246393,
+        "longitude": -135.0568356
       },
       "organization": null,
       "website": "https://yukonmuslims.com/",
