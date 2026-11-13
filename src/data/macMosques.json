@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-13T12:53:49.552Z",
+  "scrapedAt": "2026-11-13T20:21:01.810Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -8,8 +8,8 @@
       "city": "Cold Lake",
       "address": "5003 50 Ave, Cold Lake, AB T9M 1X6",
       "coordinates": {
-        "latitude": 54.4133827,
-        "longitude": -110.2126489
+        "latitude": 54.413442,
+        "longitude": -110.2314264
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/coldlake/",
@@ -87,7 +87,7 @@
     },
     {
       "slug": "rahmamosque",
-      "name": "Rahma Mosque",
+      "name": "MAC Islamic Centre (Rahma Mosque)",
       "province": "Alberta",
       "city": "Edmonton",
       "address": "6104 172 St NW, Edmonton, AB T6M 1G9",
@@ -143,27 +143,27 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:51 AM",
+          "adhan": "5:52 AM",
           "iqamah": "6:15 AM"
         },
         {
           "salat": "Dhuhr",
           "adhan": "12:07 PM",
-          "iqamah": "12:45 PM"
+          "iqamah": "3:30 PM"
         },
         {
           "salat": "Asr",
-          "adhan": "3:18 PM",
+          "adhan": "3:17 PM",
           "iqamah": "3:30 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "5:01 PM",
-          "iqamah": "5:05 PM"
+          "adhan": "5:00 PM",
+          "iqamah": "5:04 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "6:23 PM",
+          "adhan": "6:22 PM",
           "iqamah": "7:30 PM"
         }
       ],
@@ -191,7 +191,7 @@
         {
           "salat": "Dhuhr",
           "adhan": "12:00 am",
-          "iqamah": "1:30 pm"
+          "iqamah": "12:00 am"
         },
         {
           "salat": "Asr",
@@ -520,18 +520,18 @@
     },
     {
       "slug": "ccv",
-      "name": "Centre Communautaire Villeray (CCV) / Mosquée Aboubakr",
+      "name": "Accueil",
       "province": "Quebec",
       "city": "Montreal",
       "address": "371, Rue Jean-Talon, Montreal, QC H2R1T4\n (514) 506-8899\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tFacebook",
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/ccv/",
+      "website": "https://centres.macnet.ca/ccv/fr/accueil/",
       "phone": "(514) 506-8899",
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:26 am",
+          "adhan": "5:27 am",
           "iqamah": "6:00 am"
         },
         {
@@ -546,12 +546,12 @@
         },
         {
           "salat": "Maghrib",
-          "adhan": "4:28 pm",
-          "iqamah": "4:33 pm"
+          "adhan": "4:27 pm",
+          "iqamah": "4:32 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "5:53 pm",
+          "adhan": "5:52 pm",
           "iqamah": "7:00 pm"
         }
       ],
