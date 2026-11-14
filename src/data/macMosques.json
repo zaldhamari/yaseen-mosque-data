@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-14T08:34:42.554Z",
+  "scrapedAt": "2026-11-14T15:35:16.543Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -8,8 +8,8 @@
       "city": "Cold Lake",
       "address": "5003 50 Ave, Cold Lake, AB T9M 1X6",
       "coordinates": {
-        "latitude": 54.4133661,
-        "longitude": -110.2162402
+        "latitude": 54.4133827,
+        "longitude": -110.2126489
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/coldlake/",
@@ -297,7 +297,7 @@
     },
     {
       "slug": "westmount",
-      "name": "MAC Westmount Islamic Centre",
+      "name": "Westmount Masjid",
       "province": "Ontario",
       "city": "London",
       "address": "312 Commissioners Rd W Unit 5, London, ON N6J 1Y3",
@@ -311,8 +311,8 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:53 am",
-          "iqamah": "6:24 am"
+          "adhan": "5:54 am",
+          "iqamah": "6:25 am"
         },
         {
           "salat": "Dhuhr",
@@ -326,12 +326,12 @@
         },
         {
           "salat": "Maghrib",
-          "adhan": "5:06 pm",
-          "iqamah": "5:12 pm"
+          "adhan": "5:05 pm",
+          "iqamah": "5:11 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "6:27 pm",
+          "adhan": "6:26 pm",
           "iqamah": "7:00 pm"
         }
       ],
@@ -395,7 +395,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:35 am",
+          "adhan": "5:37 am",
           "iqamah": "6:15 am"
         },
         {
@@ -405,17 +405,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "3:13 pm",
+          "adhan": "3:12 pm",
           "iqamah": "3:15 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "4:59 pm",
-          "iqamah": "5:03 pm"
+          "adhan": "4:58 pm",
+          "iqamah": "5:02 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "6:03 pm",
+          "adhan": "6:02 pm",
           "iqamah": "7:30 pm"
         }
       ],
@@ -439,13 +439,13 @@
     },
     {
       "slug": "mac-quebec",
-      "name": "Centre communautaire MAC, ville de Québec",
+      "name": "Centre Communautaire MAC (Ville de Québec)",
       "province": "Quebec",
       "city": "Quebec City",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/mac-quebec/fr/",
+      "website": "https://centres.macnet.ca/mac-quebec/",
       "phone": null,
       "prayerTimes": [
         {
@@ -520,18 +520,18 @@
     },
     {
       "slug": "ccv",
-      "name": "Centre Communautaire Villeray (CCV) / Mosquée Aboubakr",
+      "name": "Accueil",
       "province": "Quebec",
       "city": "Montreal",
       "address": "371, Rue Jean-Talon, Montreal, QC H2R1T4\n (514) 506-8899\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tFacebook",
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/ccv/",
+      "website": "https://centres.macnet.ca/ccv/fr/accueil/",
       "phone": "(514) 506-8899",
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:27 am",
+          "adhan": "5:29 am",
           "iqamah": "6:00 am"
         },
         {
@@ -541,17 +541,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "2:05 pm",
+          "adhan": "2:04 pm",
           "iqamah": "2:30 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "4:27 pm",
-          "iqamah": "4:32 pm"
+          "adhan": "4:26 pm",
+          "iqamah": "4:31 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "5:52 pm",
+          "adhan": "5:51 pm",
           "iqamah": "7:00 pm"
         }
       ],
