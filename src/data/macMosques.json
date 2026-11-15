@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-15T07:34:43.871Z",
+  "scrapedAt": "2026-11-15T15:16:51.169Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -8,8 +8,8 @@
       "city": "Cold Lake",
       "address": "5003 50 Ave, Cold Lake, AB T9M 1X6",
       "coordinates": {
-        "latitude": 54.413442,
-        "longitude": -110.2314264
+        "latitude": 54.4133827,
+        "longitude": -110.2126489
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/coldlake/",
@@ -87,7 +87,7 @@
     },
     {
       "slug": "rahmamosque",
-      "name": "Rahma Mosque",
+      "name": "MAC Islamic Centre (Rahma Mosque)",
       "province": "Alberta",
       "city": "Edmonton",
       "address": "6104 172 St NW, Edmonton, AB T6M 1G9",
@@ -143,8 +143,8 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:53 AM",
-          "iqamah": "6:15 AM"
+          "adhan": "5:54 AM",
+          "iqamah": "6:30 AM"
         },
         {
           "salat": "Dhuhr",
@@ -153,17 +153,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "3:16 PM",
+          "adhan": "3:15 PM",
           "iqamah": "3:30 PM"
         },
         {
           "salat": "Maghrib",
-          "adhan": "4:59 PM",
-          "iqamah": "5:03 PM"
+          "adhan": "4:58 PM",
+          "iqamah": "5:02 PM"
         },
         {
           "salat": "Isha",
-          "adhan": "6:21 PM",
+          "adhan": "6:20 PM",
           "iqamah": "7:30 PM"
         }
       ],
@@ -643,7 +643,7 @@
     },
     {
       "slug": "bic",
-      "name": "MAC Barrhaven Islamic Centre",
+      "name": "Barrhaven Islamic Centre",
       "province": "Ontario",
       "city": "Nepean",
       "address": "3971 Greenbank Road,Nepean, ON K2C 3H2  info@bic.macnet.ca",
@@ -685,7 +685,7 @@
     },
     {
       "slug": "qic",
-      "name": "MAC Qurtuba",
+      "name": "Qurtuba Islamic Centre",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1950 Merivale Rd, Ottawa, ON K2G 5T5, Canada",
