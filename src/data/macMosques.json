@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-16T17:55:44.612Z",
+  "scrapedAt": "2026-11-17T01:33:23.155Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -439,18 +439,18 @@
     },
     {
       "slug": "mac-quebec",
-      "name": "Centre Communautaire MAC (Ville de Québec)",
+      "name": "Centre communautaire MAC, ville de Québec",
       "province": "Quebec",
       "city": "Quebec City",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/mac-quebec/",
+      "website": "https://centres.macnet.ca/mac-quebec/fr/",
       "phone": null,
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:30 am",
+          "adhan": "5:32 am",
           "iqamah": "6:00 am"
         },
         {
@@ -460,17 +460,17 @@
         },
         {
           "salat": "Asr",
-          "adhan": "2:02 pm",
-          "iqamah": "2:04 pm"
+          "adhan": "2:01 pm",
+          "iqamah": "2:03 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "4:24 pm",
-          "iqamah": "4:29 pm"
+          "adhan": "4:22 pm",
+          "iqamah": "4:27 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "5:49 pm",
+          "adhan": "5:48 pm",
           "iqamah": "7:00 pm"
         }
       ],
@@ -492,7 +492,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:31 am",
+          "adhan": "5:32 am",
           "iqamah": "6:00 am"
         },
         {
@@ -507,12 +507,12 @@
         },
         {
           "salat": "Maghrib",
-          "adhan": "4:23 pm",
-          "iqamah": "4:28 pm"
+          "adhan": "4:22 pm",
+          "iqamah": "4:27 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "5:49 pm",
+          "adhan": "5:48 pm",
           "iqamah": "7:00 pm"
         }
       ],
@@ -559,7 +559,7 @@
     },
     {
       "slug": "civ",
-      "name": "Centre Islamique de Verdun (MAC)",
+      "name": "Centre Islamique de Verdun (CIV)",
       "province": "Quebec",
       "city": "Montreal",
       "address": "4538 Rue de VerdunVerdun, Montreal, QC H4G 1M3",
@@ -568,7 +568,7 @@
         "longitude": -73.571548
       },
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/civ/fr/",
+      "website": "https://centres.macnet.ca/civ/",
       "phone": "(514) 508-9419",
       "prayerTimes": [
         {
@@ -643,7 +643,7 @@
     },
     {
       "slug": "bic",
-      "name": "MAC Barrhaven Islamic Centre",
+      "name": "Barrhaven Islamic Centre",
       "province": "Ontario",
       "city": "Nepean",
       "address": "3971 Greenbank Road,Nepean, ON K2C 3H2  info@bic.macnet.ca",
@@ -685,7 +685,7 @@
     },
     {
       "slug": "qic",
-      "name": "Qurtuba Islamic Centre",
+      "name": "MAC Qurtuba",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1950 Merivale Rd, Ottawa, ON K2G 5T5, Canada",
@@ -701,7 +701,7 @@
     },
     {
       "slug": "mycentre",
-      "name": "MAC Islamic Centre",
+      "name": "Islamic Centre Ottawa",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1085 Grenon Ave, Ottawa, ON, Canada",
@@ -895,13 +895,13 @@
     },
     {
       "slug": "montreal-south",
-      "name": "MAC Montreal South Chapter",
+      "name": "WordPress › Error",
       "province": "Ontario",
       "city": "",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://chapters.macnet.ca/montreal-south/",
+      "website": "https://chapters.macnet.ca/montreal-south",
       "phone": null,
       "prayerTimes": [],
       "jummah": null
@@ -999,13 +999,13 @@
     },
     {
       "slug": "montreal-south",
-      "name": "MAC Montreal South Chapter",
+      "name": "WordPress › Error",
       "province": "Ontario",
       "city": "",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://chapters.macnet.ca/montreal-south/",
+      "website": "https://chapters.macnet.ca/montreal-south",
       "phone": null,
       "prayerTimes": [],
       "jummah": null
@@ -1145,13 +1145,13 @@
     },
     {
       "slug": "montreal-south",
-      "name": "MAC Montreal South Chapter",
+      "name": "WordPress › Error",
       "province": "Ontario",
       "city": "",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://chapters.macnet.ca/montreal-south/",
+      "website": "https://chapters.macnet.ca/montreal-south",
       "phone": null,
       "prayerTimes": [],
       "jummah": null
@@ -1249,13 +1249,13 @@
     },
     {
       "slug": "montreal-south",
-      "name": "MAC Montreal South Chapter",
+      "name": "WordPress › Error",
       "province": "Ontario",
       "city": "",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://chapters.macnet.ca/montreal-south/",
+      "website": "https://chapters.macnet.ca/montreal-south",
       "phone": null,
       "prayerTimes": [],
       "jummah": null
