@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-20T23:01:57.904Z",
+  "scrapedAt": "2026-11-21T03:49:21.211Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -359,7 +359,7 @@
         {
           "salat": "Dhuhr",
           "adhan": "12:12 pm",
-          "iqamah": "12:15 pm"
+          "iqamah": "1:00 pm"
         },
         {
           "salat": "Asr",
@@ -492,7 +492,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:35 am",
+          "adhan": "5:37 am",
           "iqamah": "6:00 am"
         },
         {
@@ -502,8 +502,8 @@
         },
         {
           "salat": "Asr",
-          "adhan": "1:59 pm",
-          "iqamah": "2:01 pm"
+          "adhan": "1:58 pm",
+          "iqamah": "2:00 pm"
         },
         {
           "salat": "Maghrib",
@@ -512,7 +512,7 @@
         },
         {
           "salat": "Isha",
-          "adhan": "5:46 pm",
+          "adhan": "5:45 pm",
           "iqamah": "7:00 pm"
         }
       ],
@@ -717,7 +717,7 @@
     },
     {
       "slug": "masjidtoronto",
-      "name": "Masjid Toronto Dundas & Adelaide",
+      "name": "Masjid Toronto (Dundas & Adelaide)",
       "province": "Ontario",
       "city": "Toronto",
       "address": "168 Dundas St. West, Toronto, ON M5G 1C6 Canada",
@@ -821,7 +821,7 @@
         {
           "salat": "Dhuhr",
           "adhan": "12:18 pm",
-          "iqamah": "1:30 pm"
+          "iqamah": "1:00 pm"
         },
         {
           "salat": "Asr",
@@ -843,13 +843,13 @@
     },
     {
       "slug": "edmonton",
-      "name": "Edmonton Chapter",
+      "name": "MAC edmonton",
       "province": "Ontario",
       "city": "",
       "address": "6104 172 St NWEdmonton, AB T6M 1G9",
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://chapters.macnet.ca/edmonton/",
+      "website": "https://chapters.macnet.ca/edmonton",
       "phone": null,
       "prayerTimes": [],
       "jummah": null
