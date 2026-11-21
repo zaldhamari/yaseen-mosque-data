@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-21T19:01:53.885Z",
+  "scrapedAt": "2026-11-21T23:48:09.465Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -520,13 +520,13 @@
     },
     {
       "slug": "ccv",
-      "name": "Centre Communautaire Villeray (CCV) / Mosquée Aboubakr",
+      "name": "Accueil",
       "province": "Quebec",
       "city": "Montreal",
       "address": "371, Rue Jean-Talon, Montreal, QC H2R1T4\n (514) 506-8899\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tFacebook",
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/ccv/",
+      "website": "https://centres.macnet.ca/ccv/fr/accueil/",
       "phone": "(514) 506-8899",
       "prayerTimes": [
         {
@@ -610,7 +610,7 @@
         "longitude": -73.7222594
       },
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/alrawdah/fr/",
+      "website": "https://centres.macnet.ca/alrawdah/",
       "phone": "(514) 227-5000",
       "prayerTimes": [
         {
@@ -643,7 +643,7 @@
     },
     {
       "slug": "bic",
-      "name": "Barrhaven Islamic Centre",
+      "name": "MAC Barrhaven Islamic Centre",
       "province": "Ontario",
       "city": "Nepean",
       "address": "3971 Greenbank Road,Nepean, ON K2C 3H2  info@bic.macnet.ca",
@@ -657,17 +657,17 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:42 am",
+          "adhan": "5:43 am",
           "iqamah": "6:15 am"
         },
         {
           "salat": "Dhuhr",
           "adhan": "11:49 am",
-          "iqamah": "1:00 pm"
+          "iqamah": "12:30 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "2:09 pm",
+          "adhan": "2:08 pm",
           "iqamah": "3:00 pm"
         },
         {
@@ -677,7 +677,7 @@
         },
         {
           "salat": "Isha",
-          "adhan": "5:55 pm",
+          "adhan": "5:54 pm",
           "iqamah": "7:00 pm"
         }
       ],
@@ -701,7 +701,7 @@
     },
     {
       "slug": "mycentre",
-      "name": "MAC Islamic Centre",
+      "name": "Islamic Centre Ottawa",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1085 Grenon Ave, Ottawa, ON, Canada",
@@ -815,7 +815,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:59 am",
+          "adhan": "6:00 am",
           "iqamah": "6:30 am"
         },
         {
@@ -830,12 +830,12 @@
         },
         {
           "salat": "Maghrib",
-          "adhan": "5:09 pm",
-          "iqamah": "5:14 pm"
+          "adhan": "5:08 pm",
+          "iqamah": "5:13 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "6:28 pm",
+          "adhan": "6:27 pm",
           "iqamah": "7:30 pm"
         }
       ],
@@ -843,13 +843,13 @@
     },
     {
       "slug": "edmonton",
-      "name": "Edmonton Chapter",
+      "name": "MAC edmonton",
       "province": "Ontario",
       "city": "",
       "address": "6104 172 St NWEdmonton, AB T6M 1G9",
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://chapters.macnet.ca/edmonton/",
+      "website": "https://chapters.macnet.ca/edmonton",
       "phone": null,
       "prayerTimes": [],
       "jummah": null
