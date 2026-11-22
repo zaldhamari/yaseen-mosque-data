@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-22T13:06:43.718Z",
+  "scrapedAt": "2026-11-22T20:21:50.764Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -87,7 +87,7 @@
     },
     {
       "slug": "rahmamosque",
-      "name": "MAC Islamic Centre (Rahma Mosque)",
+      "name": "Rahma Mosque",
       "province": "Alberta",
       "city": "Edmonton",
       "address": "6104 172 St NWEdmonton, AB T6M 1G9",
@@ -101,8 +101,8 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "7:06 am",
-          "iqamah": "7:16 am"
+          "adhan": "7:07 am",
+          "iqamah": "7:17 am"
         },
         {
           "salat": "Dhuhr",
@@ -116,12 +116,12 @@
         },
         {
           "salat": "Maghrib",
-          "adhan": "5:28 pm",
-          "iqamah": "5:33 pm"
+          "adhan": "5:26 pm",
+          "iqamah": "5:31 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "7:30 pm",
+          "adhan": "7:29 pm",
           "iqamah": "8:00 pm"
         }
       ],
@@ -423,7 +423,7 @@
     },
     {
       "slug": "theciic",
-      "name": "The CIIC Montreal",
+      "name": "Canadian Institute of Islamic Civilization (CIIC)",
       "province": "Quebec",
       "city": "Montreal",
       "address": "615 Rue Belmont, Montréal, QC H3B 2L8",
@@ -610,12 +610,12 @@
         "longitude": -73.7222594
       },
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/alrawdah/",
+      "website": "https://centres.macnet.ca/alrawdah/fr/",
       "phone": "(514) 227-5000",
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:36 am",
+          "adhan": "5:37 am",
           "iqamah": "6:00 am"
         },
         {
@@ -630,8 +630,8 @@
         },
         {
           "salat": "Maghrib",
-          "adhan": "4:19 pm",
-          "iqamah": "4:24 pm"
+          "adhan": "4:18 pm",
+          "iqamah": "4:23 pm"
         },
         {
           "salat": "Isha",
@@ -643,7 +643,7 @@
     },
     {
       "slug": "bic",
-      "name": "MAC Barrhaven Islamic Centre",
+      "name": "Barrhaven Islamic Centre",
       "province": "Ontario",
       "city": "Nepean",
       "address": "3971 Greenbank Road,Nepean, ON K2C 3H2  info@bic.macnet.ca",
@@ -685,7 +685,7 @@
     },
     {
       "slug": "qic",
-      "name": "Qurtuba Islamic Centre",
+      "name": "MAC Qurtuba",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1950 Merivale Rd, Ottawa, ON K2G 5T5, Canada",
@@ -701,7 +701,7 @@
     },
     {
       "slug": "mycentre",
-      "name": "MAC Islamic Centre",
+      "name": "Islamic Centre Ottawa",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1085 Grenon Ave, Ottawa, ON, Canada",
@@ -717,7 +717,7 @@
     },
     {
       "slug": "masjidtoronto",
-      "name": "Masjid Toronto (Dundas & Adelaide)",
+      "name": "Masjid Toronto Dundas & Adelaide",
       "province": "Ontario",
       "city": "Toronto",
       "address": "168 Dundas St. West, Toronto, ON M5G 1C6 Canada",
@@ -731,27 +731,27 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:57 am",
-          "iqamah": "6:15 am"
+          "adhan": "5:58 am",
+          "iqamah": "6:30 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "12:04 pm",
+          "adhan": "12:05 pm",
           "iqamah": "12:30 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "2:28 pm",
+          "adhan": "2:27 pm",
           "iqamah": "3:00 pm"
         },
         {
           "salat": "Maghrib",
-          "adhan": "4:48 pm",
-          "iqamah": "4:52 pm"
+          "adhan": "4:47 pm",
+          "iqamah": "4:51 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "6:08 pm",
+          "adhan": "6:07 pm",
           "iqamah": "7:00 pm"
         }
       ],
@@ -815,7 +815,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "6:00 am",
+          "adhan": "6:01 am",
           "iqamah": "6:30 am"
         },
         {
@@ -825,7 +825,7 @@
         },
         {
           "salat": "Asr",
-          "adhan": "2:46 pm",
+          "adhan": "2:45 pm",
           "iqamah": "3:30 pm"
         },
         {
@@ -843,13 +843,13 @@
     },
     {
       "slug": "edmonton",
-      "name": "Edmonton Chapter",
+      "name": "MAC edmonton",
       "province": "Ontario",
       "city": "",
       "address": "6104 172 St NWEdmonton, AB T6M 1G9",
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://chapters.macnet.ca/edmonton/",
+      "website": "https://chapters.macnet.ca/edmonton",
       "phone": null,
       "prayerTimes": [],
       "jummah": null
