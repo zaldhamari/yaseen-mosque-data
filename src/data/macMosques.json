@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-23T10:16:51.202Z",
+  "scrapedAt": "2026-11-23T22:31:33.904Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -126,6 +126,48 @@
         }
       ],
       "jummah": "2:00 PM"
+    },
+    {
+      "slug": "icwaterloo",
+      "name": "Islamic Centre of Waterloo",
+      "province": "Ontario",
+      "city": "Waterloo",
+      "address": "510 Erbsville Rd, Waterloo, ON N2T 2V8 Canadainfo@icwaterloo.com",
+      "coordinates": {
+        "latitude": 43.4685064,
+        "longitude": -80.589175
+      },
+      "organization": "Muslim Association of Canada (MAC)",
+      "website": "https://centres.macnet.ca/icwaterloo/",
+      "phone": null,
+      "prayerTimes": [
+        {
+          "salat": "Fajr",
+          "adhan": "6:03 AM",
+          "iqamah": "6:30 AM"
+        },
+        {
+          "salat": "Dhuhr",
+          "adhan": "12:09 PM",
+          "iqamah": "12:45 PM"
+        },
+        {
+          "salat": "Asr",
+          "adhan": "3:09 PM",
+          "iqamah": "3:30 PM"
+        },
+        {
+          "salat": "Maghrib",
+          "adhan": "4:52 PM",
+          "iqamah": "4:56 PM"
+        },
+        {
+          "salat": "Isha",
+          "adhan": "6:15 PM",
+          "iqamah": "7:30 PM"
+        }
+      ],
+      "jummah": "1:30 PM"
     },
     {
       "slug": "hespelermasjid",
@@ -381,7 +423,7 @@
     },
     {
       "slug": "theciic",
-      "name": "Canadian Institute of Islamic Civilization (CIIC)",
+      "name": "The CIIC Montreal",
       "province": "Quebec",
       "city": "Montreal",
       "address": "615 Rue Belmont, Montréal, QC H3B 2L8",
@@ -675,7 +717,7 @@
     },
     {
       "slug": "masjidtoronto",
-      "name": "Masjid Toronto Dundas & Adelaide",
+      "name": "Masjid Toronto (Dundas & Adelaide)",
       "province": "Ontario",
       "city": "Toronto",
       "address": "168 Dundas St. West, Toronto, ON M5G 1C6 Canada",
@@ -773,12 +815,12 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "6:01 am",
+          "adhan": "6:02 am",
           "iqamah": "6:30 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "12:18 pm",
+          "adhan": "12:19 pm",
           "iqamah": "1:00 pm"
         },
         {
@@ -788,12 +830,12 @@
         },
         {
           "salat": "Maghrib",
-          "adhan": "5:08 pm",
-          "iqamah": "5:13 pm"
+          "adhan": "5:07 pm",
+          "iqamah": "5:12 pm"
         },
         {
           "salat": "Isha",
-          "adhan": "6:27 pm",
+          "adhan": "6:26 pm",
           "iqamah": "7:30 pm"
         }
       ],
@@ -1321,48 +1363,6 @@
       "phone": null,
       "prayerTimes": [],
       "jummah": null
-    },
-    {
-      "slug": "icwaterloo",
-      "name": "Islamic Centre of Waterloo",
-      "province": "Ontario",
-      "city": "Waterloo",
-      "address": "510 Erbsville Rd, Waterloo, ON N2T 2V8 Canadainfo@icwaterloo.com",
-      "coordinates": {
-        "latitude": 43.4685064,
-        "longitude": -80.589175
-      },
-      "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/icwaterloo/",
-      "phone": null,
-      "prayerTimes": [
-        {
-          "salat": "Fajr",
-          "adhan": "6:02 AM",
-          "iqamah": "6:30 AM"
-        },
-        {
-          "salat": "Dhuhr",
-          "adhan": "12:09 PM",
-          "iqamah": "12:45 PM"
-        },
-        {
-          "salat": "Asr",
-          "adhan": "3:10 PM",
-          "iqamah": "3:30 PM"
-        },
-        {
-          "salat": "Maghrib",
-          "adhan": "4:52 PM",
-          "iqamah": "4:56 PM"
-        },
-        {
-          "salat": "Isha",
-          "adhan": "6:16 PM",
-          "iqamah": "7:30 PM"
-        }
-      ],
-      "jummah": "1:30 PM"
     }
   ]
 }
