@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-26T22:49:09.092Z",
+  "scrapedAt": "2026-11-27T04:46:51.130Z",
   "mosques": [
     {
       "slug": "coldlake",
@@ -185,18 +185,18 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "6:05 am",
-          "iqamah": "6:05 am"
+          "adhan": "6:06 am",
+          "iqamah": "6:45 am"
         },
         {
           "salat": "Dhuhr",
           "adhan": "12:10 pm",
-          "iqamah": "12:10 pm"
+          "iqamah": "1:45 pm"
         },
         {
           "salat": "Asr",
           "adhan": "3:07 pm",
-          "iqamah": "3:07 pm"
+          "iqamah": "3:45 pm"
         },
         {
           "salat": "Maghrib",
@@ -205,8 +205,8 @@
         },
         {
           "salat": "Isha",
-          "adhan": "6:13 pm",
-          "iqamah": "6:13 pm"
+          "adhan": "6:12 pm",
+          "iqamah": "7:15 pm"
         }
       ],
       "jummah": "1:30 pm"
@@ -269,7 +269,7 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "6:06 am",
+          "adhan": "6:07 am",
           "iqamah": "6:30 am"
         },
         {
@@ -284,8 +284,8 @@
         },
         {
           "salat": "Maghrib",
-          "adhan": "4:48 pm",
-          "iqamah": "4:53 pm"
+          "adhan": "4:47 pm",
+          "iqamah": "4:52 pm"
         },
         {
           "salat": "Isha",
@@ -297,7 +297,7 @@
     },
     {
       "slug": "westmount",
-      "name": "Westmount Masjid",
+      "name": "MAC Westmount Islamic Centre",
       "province": "Ontario",
       "city": "London",
       "address": "312 Commissioners Rd W Unit 5, London, ON N6J 1Y3",
@@ -353,8 +353,8 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "6:06 am",
-          "iqamah": "6:36 am"
+          "adhan": "6:07 am",
+          "iqamah": "6:37 am"
         },
         {
           "salat": "Dhuhr",
@@ -423,7 +423,7 @@
     },
     {
       "slug": "theciic",
-      "name": "The CIIC Montreal",
+      "name": "Canadian Institute of Islamic Civilization (CIIC)",
       "province": "Quebec",
       "city": "Montreal",
       "address": "615 Rue Belmont, Montréal, QC H3B 2L8",
@@ -439,29 +439,29 @@
     },
     {
       "slug": "mac-quebec",
-      "name": "Centre Communautaire MAC (Ville de Québec)",
+      "name": "Centre communautaire MAC, ville de Québec",
       "province": "Quebec",
       "city": "Quebec City",
       "address": null,
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/mac-quebec/",
+      "website": "https://centres.macnet.ca/mac-quebec/fr/",
       "phone": null,
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:42 am",
+          "adhan": "5:43 am",
           "iqamah": "6:00 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "11:42 am",
+          "adhan": "11:43 am",
           "iqamah": "1:30 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "1:56 pm",
-          "iqamah": "1:58 pm"
+          "adhan": "1:55 pm",
+          "iqamah": "1:57 pm"
         },
         {
           "salat": "Maghrib",
@@ -470,7 +470,7 @@
         },
         {
           "salat": "Isha",
-          "adhan": "5:43 pm",
+          "adhan": "5:42 pm",
           "iqamah": "7:00 pm"
         }
       ],
@@ -483,8 +483,8 @@
       "city": "Montreal",
       "address": "12265, Boul. Laurentien, Montréal, QC H4K 1N5",
       "coordinates": {
-        "latitude": 45.5294142,
-        "longitude": -73.7224426
+        "latitude": 45.5304344,
+        "longitude": -73.724432
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/cclmac/fr/",
@@ -492,18 +492,18 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "5:42 am",
+          "adhan": "5:43 am",
           "iqamah": "6:00 am"
         },
         {
           "salat": "Dhuhr",
-          "adhan": "11:42 am",
+          "adhan": "11:43 am",
           "iqamah": "1:30 pm"
         },
         {
           "salat": "Asr",
-          "adhan": "1:56 pm",
-          "iqamah": "1:58 pm"
+          "adhan": "1:55 pm",
+          "iqamah": "1:57 pm"
         },
         {
           "salat": "Maghrib",
@@ -512,7 +512,7 @@
         },
         {
           "salat": "Isha",
-          "adhan": "5:43 pm",
+          "adhan": "5:42 pm",
           "iqamah": "7:00 pm"
         }
       ],
@@ -520,13 +520,13 @@
     },
     {
       "slug": "ccv",
-      "name": "Accueil",
+      "name": "Centre Communautaire Villeray (CCV) / Mosquée Aboubakr",
       "province": "Quebec",
       "city": "Montreal",
       "address": "371, Rue Jean-Talon, Montreal, QC H2R1T4\n (514) 506-8899\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tFacebook",
       "coordinates": null,
       "organization": "Muslim Association of Canada (MAC)",
-      "website": "https://centres.macnet.ca/ccv/fr/accueil/",
+      "website": "https://centres.macnet.ca/ccv/",
       "phone": "(514) 506-8899",
       "prayerTimes": [
         {
@@ -685,7 +685,7 @@
     },
     {
       "slug": "qic",
-      "name": "Qurtuba Islamic Centre",
+      "name": "MAC Qurtuba",
       "province": "Ontario",
       "city": "Ottawa",
       "address": "1950 Merivale Rd, Ottawa, ON K2G 5T5, Canada",
@@ -764,8 +764,8 @@
       "city": "Vancouver",
       "address": "2122 Kingsway, Vancouver, BC V5N 2T5",
       "coordinates": {
-        "latitude": 49.2440397,
-        "longitude": -123.063553
+        "latitude": 49.2437319,
+        "longitude": -123.0621637
       },
       "organization": "Muslim Association of Canada (MAC)",
       "website": "https://centres.macnet.ca/macvancouvercentre/",

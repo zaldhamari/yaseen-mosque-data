@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-26T22:57:05.478Z",
+  "scrapedAt": "2026-11-27T04:50:30.280Z",
   "totalMosques": 598,
   "provinces": 14,
   "sources": [
@@ -4575,8 +4575,8 @@
       "city": "Mississauga",
       "address": "966 Dundas St E, Unit 14, Mississauga, ON L4Y 4H5",
       "coordinates": {
-        "latitude": 43.6001566,
-        "longitude": -79.5929824
+        "latitude": 43.5997854,
+        "longitude": -79.5932131
       },
       "organization": "ICNA Canada",
       "website": "https://icna.ca/966/",
@@ -6369,8 +6369,8 @@
       "city": "Oakville",
       "address": "391 Burnhamthorpe Road East, Oakville, ON L6H 7B4",
       "coordinates": {
-        "latitude": 43.5042789,
-        "longitude": -79.7372416
+        "latitude": 43.5032915,
+        "longitude": -79.7366537
       },
       "organization": "ICNA Canada",
       "website": "https://icna.ca/",
@@ -10242,13 +10242,13 @@
       "prayerTimes": [
         {
           "salat": "Fajr",
-          "adhan": "6:06 am",
+          "adhan": "6:07 am",
           "iqamah": "6:30 am"
         },
         {
           "salat": "Sunrise",
-          "adhan": "7:29 am",
-          "iqamah": "7:29 am"
+          "adhan": "7:30 am",
+          "iqamah": "7:30 am"
         },
         {
           "salat": "Dhuhr",
@@ -10262,8 +10262,8 @@
         },
         {
           "salat": "Maghrib",
-          "adhan": "4:48 pm",
-          "iqamah": "4:53 pm"
+          "adhan": "4:47 pm",
+          "iqamah": "4:52 pm"
         },
         {
           "salat": "Isha",
